@@ -1,3 +1,3 @@
-Предлагаю ссылки для обучения html/css/javascript/react/redux
+Предлагаю ссылки на ресурсы для обучения html/css/javascript/react/redux
 
 
