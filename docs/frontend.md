@@ -1,6 +1,6 @@
 ТЕЛЕГРАММ КАНАЛЫ</br>
-telegram.me/joinchat/Be4rsT3Uyr1TjmSlrRc77g — Новички JavaScript.</br>
-telegram.me/JSlang — Разработчики на JavaScript.</br>
+https://telegram.me/joinchat/Be4rsT3Uyr1TjmSlrRc77g — Новички JavaScript.</br>
+https://telegram.me/JSlang — Разработчики на JavaScript.</br>
 еще каналы</br>
 https://t.me/reactnative_ru </br>
 https://t.me/react_js </br>
