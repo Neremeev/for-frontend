@@ -10,6 +10,7 @@ https://t.me/frontend_textbooks </br>
 https://t.me/frontendraccoon </br>
 https://t.me/frontandend </br>
 https://t.me/front_ender </br>
+https://t.me/PROprgmr </br>
 
 ПОДПИСКИ НА МЕДИУМ</br>
 https://medium.com/@abraztsov </br>
