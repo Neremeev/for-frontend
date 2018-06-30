@@ -78,6 +78,15 @@ https://www.youtube.com/watch?v=OayZHKZvcsg</br>
 https://www.youtube.com/watch?v=PjmMIngDj0c</br>
 https://habr.com/post/202304/</br>
 
+https://www.youtube.com/watch?v=9Ec7n7yryQU</br>
+https://www.youtube.com/watch?v=YNZjcDk98rs</br>
+https://www.youtube.com/watch?v=N-_LIlymjPs</br>
+https://www.youtube.com/watch?v=xNSjZfFygL0</br>
+https://www.youtube.com/watch?v=043YeuJt6-4</br>
+https://www.youtube.com/watch?v=F9S5IQkntuc</br>
+https://www.youtube.com/watch?v=blLxGaEoTNQ</br>
+https://www.youtube.com/watch?v=cJxcsu0IH10</br>
+
 
 ЗАДАЧИ ПО JS</br>
 http://htmllab.ru/zadachi-po-javascript/</br>
