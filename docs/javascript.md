@@ -45,7 +45,6 @@ https://www.youtube.com/watch?v=Spme1IW1ejg - про es6</br>
 
 ЦИКЛ ВИДЕОУРОКОВ НА ТЕМУ: "ПИШЕМ ПРИЛОЖЕНИЕ НА JS"</br>
 https://www.youtube.com/watch?v=XByK_MG_T_M</br>
-https://www.youtube.com/watch?v=s1NwMmjnrTY</br>
 https://www.youtube.com/watch?v=1ieQD20Cs0o</br>
 https://www.youtube.com/watch?v=iGCMkmnm89M&list=PLf0k8CBUad-sHxpoBHLHIr3CwWfSmOYZR</br>
 https://www.youtube.com/watch?v=-YWO-YFW9Ag</br>
