@@ -141,3 +141,9 @@ https://torrents-club.org/viewtopic.php?t=91006</br>
 http://tparser.org/LoftBlog</br>
 http://tparser.org/GeekBrains</br>
 https://loftschool.com/uploads/courses/manuals/js-metod.pdf</br>
+
+Последнее</br>
+https://medium.com/devschacht/neil-fenton-improving-react-and-redux-performance-with-reselect-40f1d3efba89 reselect</br>
+https://github.com/cassiozen/ReactCasts/tree/master/episode8 - селекторы redux</br>
+https://habr.com/post/313234/ - проект</br>
+
