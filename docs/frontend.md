@@ -146,4 +146,5 @@ https://loftschool.com/uploads/courses/manuals/js-metod.pdf</br>
 https://medium.com/devschacht/neil-fenton-improving-react-and-redux-performance-with-reselect-40f1d3efba89 reselect</br>
 https://github.com/cassiozen/ReactCasts/tree/master/episode8 - селекторы redux</br>
 https://habr.com/post/313234/ - проект</br>
-
+https://www.youtube.com/channel/UCP-xJwnvKCGyS-nbyOx1Wmg/videos - канал js</br>
+https://tproger.ru/translations/9-useful-tips-react/ - про реакт</br>
