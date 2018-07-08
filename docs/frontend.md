@@ -148,3 +148,8 @@ https://github.com/cassiozen/ReactCasts/tree/master/episode8 - селектор�
 https://habr.com/post/313234/ - проект</br>
 https://www.youtube.com/channel/UCP-xJwnvKCGyS-nbyOx1Wmg/videos - канал js</br>
 https://tproger.ru/translations/9-useful-tips-react/ - про реакт</br>
+
+для работы с png</br>
+https://www.iloveimg.com/ru/resize-image - менять размер</br>
+https://online-fotoshop.ru/ubrat-fon-online/ - белый фон</br>
+https://www.imgonline.com.ua/replace-color-result.php - менять цвет</br>
