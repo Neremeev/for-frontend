@@ -1,6 +1,9 @@
 САЙТ ОТ МОНСТРА - JS и т.д.</br>
 https://monsterlessons.com/project/categories/</br>
 
+Книги по веб-дизайну
+https://yadi.sk/d/MnGmw2kF3Z4Zvc</br>
+
 ТЕЛЕГРАММ КАНАЛЫ</br>
 https://telegram.me/joinchat/Be4rsT3Uyr1TjmSlrRc77g — Новички JavaScript.</br>
 https://telegram.me/JSlang — Разработчики на JavaScript.</br>
