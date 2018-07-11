@@ -72,6 +72,7 @@ https://vk.com/love_frontend </br>
 https://vk.com/reactredux </br>
 https://vk.com/webtackles </br>
 https://vk.com/webdevcom/book - группа в вк, где храняться книги по Javascript, html, css</br>
+https://vk.com/it__daily/book - группа в вк, где храняться книги по Javascript, html, css</br>
 
 
 КНИГА ПО ДИЗАЙНУ И МЕТОДИЧКА ПО ПРОГРАММИРОВАНИЮ</br>
