@@ -68,12 +68,36 @@ https://github.com/htmlacademy/codeguide</br>
 Раскладка в CSS: float -http://softwaremaniacs.org/blog/2005/12/01/css-layout-float/</br>
 пара статей на Хабре: раз - http://habrahabr.ru/post/136588/ - и два - http://habrahabr.ru/post/136622/</br>
 
-Флексбокс:
+Флексбокс:</br> 
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/ - гайд по флексам.</br>
 http://css-live.ru/articles/vizualnoe-rukovodstvo-po-svojstvam-flexbox-iz-css3.html</br>
+https://www.youtube.com/watch?v=38bMnJ2l4bg&t=1s</br>
+https://www.youtube.com/watch?v=7Lg-438gAc8&list=PLqHlAwsJRxAPs942EdJ1akeWpOg2yatiM</br>
+https://www.youtube.com/watch?v=duWfUzXPgNc</br>
+https://www.youtube.com/watch?v=hrFPD0nkRVA</br>
+https://www.youtube.com/watch?v=yK7WEt-CdhI</br>
+https://www.youtube.com/watch?v=FLbvUFVr3bg</br>
+https://www.youtube.com/watch?v=C2W7ICgGRbo&list=PLVfMKQXDAhGVkBdjLJmb4TwLAnEhtiQf-</br>
+
+Грид</br> 
+https://www.youtube.com/watch?v=-fDqBEjfzGo&t=1993s</br> 
+https://www.youtube.com/watch?v=m16v1KkZoi8</br> 
+https://www.youtube.com/watch?v=s6RCsjcQADc</br> 
+https://www.youtube.com/watch?v=IPZbSM-Wpos</br> 
+https://www.youtube.com/watch?v=iNPE0zGucTo</br> 
+
+bootstrap 4</br> 
+https://www.youtube.com/watch?v=2JMMnNOhDoc</br> 
+https://www.youtube.com/watch?v=Xoo5WT5tW2I&list=PLVfMKQXDAhGUxJ4prQSC2K13-YlYj8LgB</br> 
+https://www.youtube.com/watch?v=SQIh8SBXc5c</br> 
+
 
 предпроцессоры</br>
-http://sass-lang.com/, http://lesscss.ru/, http://lesscss.org/, http://learnboost.github.io/stylus/ - тоже полезные шутки,</br> значительно прокачивают ваш CSS. Так называемые препроцессоры. Я пользуюсь less.</br>
+http://sass-lang.com/, http://lesscss.ru/, http://lesscss.org/, http://learnboost.github.io/stylus/</br> 
+https://www.youtube.com/watch?v=H4cG4tbc-xQ - sass</br> 
+https://www.youtube.com/watch?v=EO8mZZxNuBI - sass</br> 
+https://sass-scss.ru/ - sass документация на русском</br> 
+
 
 
 
