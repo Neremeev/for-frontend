@@ -157,3 +157,9 @@ https://tproger.ru/translations/9-useful-tips-react/ - про реакт</br>
 https://www.iloveimg.com/ru/resize-image - менять размер</br>
 https://online-fotoshop.ru/ubrat-fon-online/ - белый фон</br>
 https://www.imgonline.com.ua/replace-color-result.php - менять цвет</br>
+
+https://www.youtube.com/watch?v=kqjkAPuyIns&list=PLtOdYVIbXMFSXx1UQlCYYaQS5jp3ottou - лекции по js</br>
+https://www.youtube.com/user/uwebdesign - хороший канал</br>
+https://www.youtube.com/user/HexletUniversity - хекслет</br>
+https://www.youtube.com/watch?v=0e9eyrxB-LU - привет интернет</br>
+https://www.youtube.com/user/HillelITSchool/videos - еще один канал</br>
