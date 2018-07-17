@@ -72,3 +72,7 @@ https://medium.com/@apolyntsev/9-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%B
 https://medium.com/@abraztsov/%D0%BF%D0%B0%D1%82%D1%82%D0%B5%D1%80%D0%BD%D1%8B-%D0%B2-react-e5092c06f019 - По поводу паттернов в React</br>
 https://habr.com/post/309422/ - Паттерны React</br>
 https://avrylkov.github.io/react/ - отличные примеры на реакт</br>
+
+тестовое задание</br>
+https://adebos.github.io/room/</br>
+https://github.com/adebos/room</br>
