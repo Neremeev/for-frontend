@@ -35,3 +35,17 @@ https://www.youtube.com/watch?v=DRYdpLI88jE</br>
 https://www.youtube.com/watch?v=X8EiFmecLSM&list=PL-ss7IpVOiB5DKGi5wcSPsF1OWcJSW791</br>
 https://www.youtube.com/watch?v=jAlXRdNqNtg</br>
 https://www.youtube.com/watch?v=ybWu_Kh75IU</br>
+
+Торрент(через vpn)</br>
+http://tparser.org/angularjs</br>
+http://pipitor.org/torrent/790374/angular-js-videokurs-2016-pcrec</br>
+http://nnm-club.me/forum/viewtopic.php?t=860367</br>
+http://nnm-club.me/forum/viewtopic.php?t=1028674</br>
+http://nnm-club.me/forum/viewtopic.php?t=1195327</br>
+http://nnm-club.me/forum/viewtopic.php?t=966927</br>
+http://nnm-club.me/forum/viewtopic.php?t=926746</br>
+http://nnm-club.me/forum/viewtopic.php?t=930634</br>
+http://nnm-club.me/forum/viewtopic.php?t=861842&start=15</br>
+http://nnm-club.me/forum/viewtopic.php?t=1205998</br>
+http://nnm-club.me/forum/viewtopic.php?t=949064</br>
+http://nnm-club.me/forum/viewtopic.php?t=979856</br>
