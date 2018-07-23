@@ -1,4 +1,4 @@
-ANGULAR.JS
+ANGULARJS
 
 САЙТЫ</br>
 http://angular-doc.herokuapp.com/misc/started</br>
@@ -49,3 +49,9 @@ http://nnm-club.me/forum/viewtopic.php?t=861842&start=15</br>
 http://nnm-club.me/forum/viewtopic.php?t=1205998</br>
 http://nnm-club.me/forum/viewtopic.php?t=949064</br>
 http://nnm-club.me/forum/viewtopic.php?t=979856</br>
+
+
+ВК ГРУППЫ
+https://vk.com/angular2
+https://vk.com/angular_2
+https://vk.com/js_frameworks
