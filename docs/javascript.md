@@ -13,7 +13,7 @@ https://metanit.com/web/</br>
 http://bonsaiden.github.io/JavaScript-Garden/ru/</br>
 https://developer.mozilla.org/ru/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript</br>
 
-ВИДЕОУРОКИ
+ВИДЕОУРОКИ</br>
 https://www.youtube.com/playlist?list=PLuzqCQj6mtdhqSC2nchgExObeL_AInV-e - js</br>
 https://www.youtube.com/playlist?list=PLJcwaWk5uvsBDnddZqMeuskKd8SDolR2w - js & jquery</br>
 https://www.youtube.com/playlist?list=PLeYxjiX1MAInqDvBJUG0B48VaIcsa_UcL - js</br>
@@ -102,6 +102,9 @@ https://techrocks.ru/2018/05/16/javascript-tasks-for-juniors/</br>
 https://www.youtube.com/watch?v=qQFJgsulLc4 реш</br>
 https://www.youtube.com/watch?v=G6t2sZEPhSI</br>
 https://www.youtube.com/watch?v=qZDjK5BqLbM</br>
+
+СТАТЬИ</br>
+http://javascript.ru/basic/regular-expression+ - регулярные выражения</br>
 
 
 ТОРРЕНТ КУРСЫ ПО JS</br>
