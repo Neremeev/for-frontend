@@ -1,4 +1,4 @@
-Ссылки на ресурсы для обучения html/css/javascript/react/redux
+Ссылки на ресурсы для обучения html/css/javascript/react/redux/angular/vue
 
 1) [HTML/CSS](/docs/html-css.md)
 2) [JAVASCRIPT](/docs/javascript.md)<br/>
