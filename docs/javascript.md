@@ -105,6 +105,7 @@ https://www.youtube.com/watch?v=qZDjK5BqLbM</br>
 
 СТАТЬИ</br>
 http://javascript.ru/basic/regular-expression+ - регулярные выражения</br>
+http://keycode.info/ - кейкод</br>
 
 
 ТОРРЕНТ КУРСЫ ПО JS</br>
