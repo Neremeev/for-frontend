@@ -57,6 +57,9 @@ http://nnm-club.me/forum/viewtopic.php?t=1205998</br>
 http://nnm-club.me/forum/viewtopic.php?t=949064</br>
 http://nnm-club.me/forum/viewtopic.php?t=979856</br>
 
+Разное</br>
+http://mbenford.github.io/ngTagsInput/demos</br>
+
 /*------------------------------------------END-ANGULARJS------------------------------------------*/
 
 ВК ГРУППЫ
