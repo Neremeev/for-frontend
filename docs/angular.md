@@ -4,6 +4,13 @@
 http://angular-doc.herokuapp.com/misc/started</br>
 https://metanit.com/web/angular/</br>
 
+СТАТЬИ</br>
+https://m.habr.com/post/246881/</br>
+http://w3.org.ua/angular/angular-1/</br>
+https://webformyself.com/category/premium/javascript-premium/angjspremium/</br>
+http://iantonov.me/page/angularjs-osnovy</br>
+
+
 Видеокурсы</br>
 https://www.youtube.com/watch?v=CyWJZnNpezU&list=PLY4rE9dstrJxWEX3fCPjFpmcnoU_3GRWW</br>
 https://www.youtube.com/watch?v=iowN1awBZpE</br>
