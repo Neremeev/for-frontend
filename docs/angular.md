@@ -65,50 +65,50 @@ http://mbenford.github.io/ngTagsInput/demos</br>
 
 /*------------------------------------------ANGULAR.2.4.5.6------------------------------------------*/
 
-Статьи
-https://webformyself.com/marshrutizaciya-v-angular-5/
-https://code.tutsplus.com/ru/tutorials/get-started-with-angular-2--cms-27268
-https://habr.com/post/281190/
-https://monsterlessons.com/project/lessons/angular2-tur-geroev-ustanovka
-https://habr.com/post/335318/
-https://habr.com/post/318682/
-https://code.tutsplus.com/ru/tutorials/introduction-to-forms-in-angular-4-template-driven-forms--cms-29766
-http://thewebland.net/angular-2/
-https://shwanoff.ru/angular-5-app/
-https://itvdn.com/ru/blog/article/angular5
+Статьи</br>
+https://webformyself.com/marshrutizaciya-v-angular-5/</br>
+https://code.tutsplus.com/ru/tutorials/get-started-with-angular-2--cms-27268</br>
+https://habr.com/post/281190/</br>
+https://monsterlessons.com/project/lessons/angular2-tur-geroev-ustanovka</br>
+https://habr.com/post/335318/</br>
+https://habr.com/post/318682/</br>
+https://code.tutsplus.com/ru/tutorials/introduction-to-forms-in-angular-4-template-driven-forms--cms-29766</br>
+http://thewebland.net/angular-2/</br>
+https://shwanoff.ru/angular-5-app/</br>
+https://itvdn.com/ru/blog/article/angular5</br>
 
-Видеоуроки
-https://www.youtube.com/watch?v=t3KH5LXHi0s&list=PLqHlAwsJRxANlSuRSgldPWsbNkPqVBeFp&index=1
-https://www.youtube.com/watch?v=3SaIBHeyEgg
-https://www.youtube.com/watch?v=2HcBR3DQUQ4
-https://www.youtube.com/watch?v=2HcBR3DQUQ4&list=PLD-piGJ3Dtl2WotoOks4_bWOv5wvrtOG_
-https://www.youtube.com/watch?v=-pb6_zRokKU
-https://www.youtube.com/watch?v=dREcgHZhHM8
-https://www.youtube.com/watch?v=N2nOGXhZdM8
-https://www.youtube.com/watch?v=IS0xf8ZQ7-4
-https://www.youtube.com/watch?v=cY3T0H0dQHY&list=PL2IR2XHv7LALpS0qZPyOVcZZJDmNocw1Q
-https://www.youtube.com/watch?v=enoghByyWnI
-https://www.youtube.com/watch?v=74CFBFVnsoo
-https://www.youtube.com/playlist?list=PLtULzFUr0kI6dj0_CTdkqM2OI9s4fcANt
+Видеоуроки</br>
+https://www.youtube.com/watch?v=t3KH5LXHi0s&list=PLqHlAwsJRxANlSuRSgldPWsbNkPqVBeFp&index=1</br>
+https://www.youtube.com/watch?v=3SaIBHeyEgg</br>
+https://www.youtube.com/watch?v=2HcBR3DQUQ4</br>
+https://www.youtube.com/watch?v=2HcBR3DQUQ4&list=PLD-piGJ3Dtl2WotoOks4_bWOv5wvrtOG_</br>
+https://www.youtube.com/watch?v=-pb6_zRokKU</br>
+https://www.youtube.com/watch?v=dREcgHZhHM8</br>
+https://www.youtube.com/watch?v=N2nOGXhZdM8</br>
+https://www.youtube.com/watch?v=IS0xf8ZQ7-4</br>
+https://www.youtube.com/watch?v=cY3T0H0dQHY&list=PL2IR2XHv7LALpS0qZPyOVcZZJDmNocw1Q</br>
+https://www.youtube.com/watch?v=enoghByyWnI</br>
+https://www.youtube.com/watch?v=74CFBFVnsoo</br>
+https://www.youtube.com/playlist?list=PLtULzFUr0kI6dj0_CTdkqM2OI9s4fcANt</br>
 
-Приложение
-https://www.youtube.com/watch?v=iuMKhvtj_5k
-https://www.youtube.com/watch?v=63SkXao3tsA
-https://www.youtube.com/watch?v=IS0xf8ZQ7-4
-https://www.youtube.com/watch?v=4phNDspMIPE
+Приложение</br>
+https://www.youtube.com/watch?v=iuMKhvtj_5k</br>
+https://www.youtube.com/watch?v=63SkXao3tsA</br>
+https://www.youtube.com/watch?v=IS0xf8ZQ7-4</br>
+https://www.youtube.com/watch?v=4phNDspMIPE</br>
 
-Торренты
-http://tparser.org/Angular-2
-http://tparser.org/Angular-4
-http://tparser.org/Angular-5
+Торренты</br>
+http://tparser.org/Angular-2</br>
+http://tparser.org/Angular-4</br>
+http://tparser.org/Angular-5</br>
 
 /*------------------------------------------END-ANGULAR.2.4.5.6------------------------------------------*/
 
-ВК ГРУППЫ
-https://vk.com/angular2
-https://vk.com/angular_2
-https://vk.com/js_frameworks
+ВК ГРУППЫ</br>
+https://vk.com/angular2</br>
+https://vk.com/angular_2</br>
+https://vk.com/js_frameworks</br>
 
-ТЕЛЕГРАММ КАНАЛЫ
-https://t.me/angular_ru
-https://t.me/angular2
+ТЕЛЕГРАММ КАНАЛЫ</br>
+https://t.me/angular_ru</br>
+https://t.me/angular2</br>
