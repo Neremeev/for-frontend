@@ -24,6 +24,7 @@ https://www.youtube.com/watch?v=MrOOuW6jHWU</br>
 https://www.youtube.com/watch?v=o0wExqfwGbg</br>
 https://www.youtube.com/watch?v=eU9t_cmm7qw</br>
 https://www.youtube.com/watch?v=8ECT34TpypY</br>
+https://www.youtube.com/watch?v=nm2ZhzA3Xhg</br>
 
 Пишем приложение на angular</br>
 https://www.youtube.com/watch?v=U_vGNa8EB1c&list=PLIcAMDxr6tpqXR3K_HNw4EIdBE8YeK7H3</br>
