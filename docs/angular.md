@@ -63,6 +63,47 @@ http://mbenford.github.io/ngTagsInput/demos</br>
 
 /*------------------------------------------END-ANGULARJS------------------------------------------*/
 
+/*------------------------------------------ANGULAR.2.4.5.6------------------------------------------*/
+
+Статьи
+https://webformyself.com/marshrutizaciya-v-angular-5/
+https://code.tutsplus.com/ru/tutorials/get-started-with-angular-2--cms-27268
+https://habr.com/post/281190/
+https://monsterlessons.com/project/lessons/angular2-tur-geroev-ustanovka
+https://habr.com/post/335318/
+https://habr.com/post/318682/
+https://code.tutsplus.com/ru/tutorials/introduction-to-forms-in-angular-4-template-driven-forms--cms-29766
+http://thewebland.net/angular-2/
+https://shwanoff.ru/angular-5-app/
+https://itvdn.com/ru/blog/article/angular5
+
+Видеоуроки
+https://www.youtube.com/watch?v=t3KH5LXHi0s&list=PLqHlAwsJRxANlSuRSgldPWsbNkPqVBeFp&index=1
+https://www.youtube.com/watch?v=3SaIBHeyEgg
+https://www.youtube.com/watch?v=2HcBR3DQUQ4
+https://www.youtube.com/watch?v=2HcBR3DQUQ4&list=PLD-piGJ3Dtl2WotoOks4_bWOv5wvrtOG_
+https://www.youtube.com/watch?v=-pb6_zRokKU
+https://www.youtube.com/watch?v=dREcgHZhHM8
+https://www.youtube.com/watch?v=N2nOGXhZdM8
+https://www.youtube.com/watch?v=IS0xf8ZQ7-4
+https://www.youtube.com/watch?v=cY3T0H0dQHY&list=PL2IR2XHv7LALpS0qZPyOVcZZJDmNocw1Q
+https://www.youtube.com/watch?v=enoghByyWnI
+https://www.youtube.com/watch?v=74CFBFVnsoo
+https://www.youtube.com/playlist?list=PLtULzFUr0kI6dj0_CTdkqM2OI9s4fcANt
+
+Приложение
+https://www.youtube.com/watch?v=iuMKhvtj_5k
+https://www.youtube.com/watch?v=63SkXao3tsA
+https://www.youtube.com/watch?v=IS0xf8ZQ7-4
+https://www.youtube.com/watch?v=4phNDspMIPE
+
+Торренты
+http://tparser.org/Angular-2
+http://tparser.org/Angular-4
+http://tparser.org/Angular-5
+
+/*------------------------------------------END-ANGULAR.2.4.5.6------------------------------------------*/
+
 ВК ГРУППЫ
 https://vk.com/angular2
 https://vk.com/angular_2
