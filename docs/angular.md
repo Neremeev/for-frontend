@@ -101,6 +101,7 @@ https://www.youtube.com/watch?v=4phNDspMIPE</br>
 http://tparser.org/Angular-2</br>
 http://tparser.org/Angular-4</br>
 http://tparser.org/Angular-5</br>
+http://nnm-club.me</br>
 
 /*------------------------------------------END-ANGULAR.2.4.5.6------------------------------------------*/
 
