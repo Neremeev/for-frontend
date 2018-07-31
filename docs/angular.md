@@ -65,6 +65,7 @@ http://mbenford.github.io/ngTagsInput/demos</br>
 
 /*------------------------------------------ANGULAR.2.4.5.6------------------------------------------*/
 
+https://metanit.com/web/angular2/
 Статьи</br>
 https://webformyself.com/marshrutizaciya-v-angular-5/</br>
 https://code.tutsplus.com/ru/tutorials/get-started-with-angular-2--cms-27268</br>
