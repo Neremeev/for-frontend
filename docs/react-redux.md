@@ -3,6 +3,7 @@ https://abraxabra.ru/react.js/bystryy-start/react-js-formy/ - курс про р
 https://legacy.gitbook.com/book/maxfarseer/react-course-ru/details - реакт курс от макса</br>
 https://legacy.gitbook.com/book/maxfarseer/redux-course-ru/details - редакс курс от макса</br>
 https://maxpfrontend.ru/ - блог по фронту от макса</br>
+https://proglib.io/p/redux-app/</br>
 
 КНИГИ</br>
 https://yadi.sk/d/MGBW3aLq3YNXWW</br>
