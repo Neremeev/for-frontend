@@ -1,3 +1,6 @@
+ОЧЕНЬ МНОГО РАЗЛИЧНЫХ ПРОЕКТОВ НА РЕАКТ-РЕДАКС СУПЕР КАЧАТЬ ВСЕМ!!!</br>
+https://yadi.sk/d/sEO-7UbF3ZtwtH</br>
+
 КУРСЫ РЕАКТ+РЕДАКС</br>
 https://abraxabra.ru/react.js/bystryy-start/react-js-formy/ - курс про реакт</br>
 https://legacy.gitbook.com/book/maxfarseer/react-course-ru/details - реакт курс от макса</br>
