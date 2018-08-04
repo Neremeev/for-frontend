@@ -15,7 +15,6 @@ http://iantonov.me/page/angularjs-osnovy</br>
 https://www.youtube.com/watch?v=CyWJZnNpezU&list=PLY4rE9dstrJxWEX3fCPjFpmcnoU_3GRWW</br>
 https://www.youtube.com/watch?v=iowN1awBZpE</br>
 https://www.youtube.com/watch?v=kWDVt6zpBbU</br>
-https://www.youtube.com/watch?v=g41QNEqTE-E&list=PLIcAMDxr6tpqXzsd4AO0HehPCQtIf4TgP</br>
 https://www.youtube.com/watch?v=Z_QzhQjuFq4</br>
 https://www.youtube.com/watch?v=6NRkZHjDOw0</br>
 https://www.youtube.com/watch?v=P9_nHpdm-fo</br>
@@ -25,6 +24,7 @@ https://www.youtube.com/watch?v=o0wExqfwGbg</br>
 https://www.youtube.com/watch?v=eU9t_cmm7qw</br>
 https://www.youtube.com/watch?v=8ECT34TpypY</br>
 https://www.youtube.com/watch?v=nm2ZhzA3Xhg</br>
+https://www.youtube.com/watch?v=g41QNEqTE-E&list=PLIcAMDxr6tpqXzsd4AO0HehPCQtIf4TgP</br>
 
 Пишем приложение на angular</br>
 https://www.youtube.com/watch?v=U_vGNa8EB1c&list=PLIcAMDxr6tpqXR3K_HNw4EIdBE8YeK7H3</br>
