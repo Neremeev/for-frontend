@@ -39,7 +39,6 @@ https://www.youtube.com/watch?v=Pww35rSOD7E&list=PLDmWuBfh49Z5sCPJjgshknkdhz4duU
 https://www.youtube.com/watch?v=PGyZb-dvKBs</br>
 https://www.youtube.com/watch?v=s7bOkLrawSU&list=PL_q2nF7mNQhST0rkjlr1FD4h9tTR_uv3O</br>
 https://www.youtube.com/watch?v=r4KAPcjSrNM</br>
-https://www.youtube.com/watch?v=U_vGNa8EB1c&list=PLEn3Z2URwSfaeAkKK0XidClAm8C9h7YcM</br>
 https://www.youtube.com/watch?v=zP2O2c31gdM&list=PLRKl6JXepJlI1qCzpCxNOFT9vGGiaQ9lg</br>
 https://www.youtube.com/watch?v=Psa83XpXUAs</br>
 https://www.youtube.com/watch?v=DRYdpLI88jE</br>
