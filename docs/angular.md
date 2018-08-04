@@ -17,13 +17,13 @@ https://www.youtube.com/watch?v=iowN1awBZpE</br>
 https://www.youtube.com/watch?v=kWDVt6zpBbU</br>
 https://www.youtube.com/watch?v=Z_QzhQjuFq4</br>
 https://www.youtube.com/watch?v=6NRkZHjDOw0 пропустил</br>
-https://www.youtube.com/watch?v=P9_nHpdm-fo</br>
-https://www.youtube.com/watch?v=H20fnPashQ4</br>
-https://www.youtube.com/watch?v=MrOOuW6jHWU</br>
-https://www.youtube.com/watch?v=o0wExqfwGbg</br>
-https://www.youtube.com/watch?v=eU9t_cmm7qw</br>
+https://www.youtube.com/watch?v=P9_nHpdm-fo пропустил</br>
+https://www.youtube.com/watch?v=H20fnPashQ4 пропустил juery</br>
 https://www.youtube.com/watch?v=8ECT34TpypY</br>
 https://www.youtube.com/watch?v=nm2ZhzA3Xhg</br>
+https://www.youtube.com/watch?v=MrOOuW6jHWU роутинг</br>
+https://www.youtube.com/watch?v=o0wExqfwGbg</br>
+https://www.youtube.com/watch?v=eU9t_cmm7qw</br>
 https://www.youtube.com/watch?v=g41QNEqTE-E&list=PLIcAMDxr6tpqXzsd4AO0HehPCQtIf4TgP</br>
 
 Пишем приложение на angular</br>
