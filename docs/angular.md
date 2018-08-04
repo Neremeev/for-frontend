@@ -1,3 +1,6 @@
+Книги</br>
+https://yadi.sk/d/GwETHdc93Ztvgy</br>
+
 /*------------------------------------------ANGULARJS------------------------------------------*/
 
 САЙТЫ</br>
@@ -10,7 +13,6 @@ https://m.habr.com/post/246881/</br>
 http://w3.org.ua/angular/angular-1/</br>
 https://webformyself.com/category/premium/javascript-premium/angjspremium/</br>
 http://iantonov.me/page/angularjs-osnovy</br>
-
 
 Видеокурсы</br>
 https://www.youtube.com/watch?v=CyWJZnNpezU&list=PLY4rE9dstrJxWEX3fCPjFpmcnoU_3GRWW</br>
