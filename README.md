@@ -8,3 +8,4 @@
 3.3) [VUE.JS](/docs/vue.md)<br/>
 4) [РАЗНОЕ](/docs/frontend.md)
 5) [IN ENGLISH](/docs/inEnglsh.md)
+6. [СПИСОК ТЕСТОВЫХ ЗАДАНИЙ ОТ Hexlet/ru-test-assignments](/docs/testCase.md)
