@@ -3,6 +3,7 @@
 САЙТЫ</br>
 http://angular-doc.herokuapp.com/misc/started</br>
 https://metanit.com/web/angular/</br>
+https://learn.javascript.ru/courses/angular</br>
 
 СТАТЬИ</br>
 https://m.habr.com/post/246881/</br>
