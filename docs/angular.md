@@ -103,6 +103,7 @@ http://tparser.org/Angular-2</br>
 http://tparser.org/Angular-4</br>
 http://tparser.org/Angular-5</br>
 http://nnm-club.me</br>
+http://nnm-club.me/forum/viewtopic.php?t=1169881</br>
 
 /*------------------------------------------END-ANGULAR.2.4.5.6------------------------------------------*/
 
