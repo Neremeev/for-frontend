@@ -18,6 +18,7 @@ https://mkdev.me/posts/kak-i-zachem-mkdev-pereshyol-na-vue-js</br>
 https://vk.com/vuejs</br>
 Телеграмм</br>
 @vuejs_ru</br>
+@ru_vuejs</br>
 
 Видеокурсы</br>
 https://www.youtube.com/channel/UCrpvmiGAeKSkmM-fpyuwYjw - канал</br>
