@@ -1,5 +1,7 @@
 https://www.youtube.com/watch?v=HSbj0dKErtY&list=PLswdBLT9llbjS2o4xreJqgBRjTmkEz6sv - крутые стримы</br>
 
+https://yadi.sk/d/iym0t54t3ZtvRf - карта для изучения vue</br>
+
 Документация</br>
 https://ru.vuejs.org/index.html</br>
 https://vuex.vuejs.org/ru/guide/</br>
