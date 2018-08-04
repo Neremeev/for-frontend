@@ -24,10 +24,13 @@ https://www.youtube.com/watch?v=nm2ZhzA3Xhg</br>
 https://www.youtube.com/watch?v=MrOOuW6jHWU роутинг</br>
 https://www.youtube.com/watch?v=o0wExqfwGbg</br>
 https://www.youtube.com/watch?v=eU9t_cmm7qw</br>
+
+
+Монстер</br>
 https://www.youtube.com/watch?v=g41QNEqTE-E&list=PLIcAMDxr6tpqXzsd4AO0HehPCQtIf4TgP</br>
+https://www.youtube.com/watch?v=U_vGNa8EB1c&list=PLIcAMDxr6tpqXR3K_HNw4EIdBE8YeK7H3</br>
 
 Пишем приложение на angular</br>
-https://www.youtube.com/watch?v=U_vGNa8EB1c&list=PLIcAMDxr6tpqXR3K_HNw4EIdBE8YeK7H3</br>
 https://www.youtube.com/watch?v=XVzed9zlVfw</br>
 https://www.youtube.com/watch?v=eCQ8IkvANvk</br>
 https://www.youtube.com/watch?v=LnG93lhmVoM</br>
