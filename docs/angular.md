@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=CyWJZnNpezU&list=PLY4rE9dstrJxWEX3fCPjFpmcnoU_3G
 https://www.youtube.com/watch?v=iowN1awBZpE</br>
 https://www.youtube.com/watch?v=kWDVt6zpBbU</br>
 https://www.youtube.com/watch?v=Z_QzhQjuFq4</br>
-https://www.youtube.com/watch?v=6NRkZHjDOw0</br>
+https://www.youtube.com/watch?v=6NRkZHjDOw0 пропустил</br>
 https://www.youtube.com/watch?v=P9_nHpdm-fo</br>
 https://www.youtube.com/watch?v=H20fnPashQ4</br>
 https://www.youtube.com/watch?v=MrOOuW6jHWU</br>
