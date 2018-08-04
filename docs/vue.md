@@ -35,8 +35,6 @@ https://www.youtube.com/watch?v=NeXuUGgiwyw</br>
 https://www.youtube.com/watch?v=1JO1XCyaL_g</br>
 https://www.youtube.com/watch?v=9y_gbVt9oio</br>
 https://www.youtube.com/watch?v=8SeI7Vyfvcc</br>
-https://www.youtube.com/watch?v=NeXuUGgiwyw&t=8s</br>
-https://www.youtube.com/watch?v=1JO1XCyaL_g&t=7s</br>
 
 
 Пишем приложение</br>
