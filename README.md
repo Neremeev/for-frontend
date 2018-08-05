@@ -11,5 +11,5 @@
 6) [Тестовые задания](/docs/test)<br/>
 7) [TYPESCRIPT](/docs/typeScript.md)<br/>
 8) [BOOTSTRAP/FLEXBOX/GRID/SASS](/docs/bootstrap.md)<br/>
-9) [GIT](/docs/git.md)<br/>
+9) [GIT](/docs/git.md)
 10)[WEBPACK](/docs/webpack.md)<br/>
