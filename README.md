@@ -9,3 +9,4 @@
 4) [РАЗНОЕ](/docs/frontend.md)
 5) [IN ENGLISH](/docs/inEnglsh.md)
 5) [Тестовые задания](/docs/test)
+5) [TYPESCRIPT](/docs/typeScript)
