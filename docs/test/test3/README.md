@@ -19,5 +19,5 @@
 •	Использование препроцессоров: LESS/SASS</br>
 •	Размещение исходного кода на ресурсе github с пошаговыми коммитами разработчика.</br>
 
-![Скриншот](https://github.com/Neremeev/for-frontend/new/master/docs/test/test3/test.jpg)
+![Скриншот](https://github.com/Neremeev/for-frontend/tree/master/docs/test/test3/test.png)
 
