@@ -136,17 +136,13 @@ https://mysterious-reef-29460.herokuapp.com/api/v1/user-info/1</br>
 обработать ситуацию, когда пользователь не найден.</br>
 // Запрос:</br>
 
-```</br>
 GET https://mysterious-reef-29460.herokuapp.com/api/v1/user-info/2</br>
-```</br>
 
 // Ответ:</br>
-```</br>
 {</br>
   "status": "err",</br>
   "message": "user_not_found"</br>
 }</br>
-```</br>
 
 
 Новости</br>
