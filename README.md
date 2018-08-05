@@ -8,3 +8,4 @@
 3.3) [VUE.JS](/docs/vue.md)<br/>
 4) [РАЗНОЕ](/docs/frontend.md)
 5) [IN ENGLISH](/docs/inEnglsh.md)
+5) [Тестовые задания](/docs/test/README.md)
