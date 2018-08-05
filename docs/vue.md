@@ -27,6 +27,7 @@ https://vk.com/vuejs</br>
 
 Видеокурсы</br>
 https://www.youtube.com/channel/UCrpvmiGAeKSkmM-fpyuwYjw - канал</br>
+https://www.youtube.com/watch?v=diPpV20TOUs&list=PLLvTAhHe8AYCf1RDc2l2ZWriPfMf-yZel</br>
 https://www.youtube.com/watch?v=NtlVno8igVQ&list=PL0lO_mIqDDFVVNsIt02JBIdBkjNVHIoum</br>
 https://www.youtube.com/watch?v=k3yRfEw1pYk&list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7</br>
 https://www.youtube.com/watch?v=LGyihQvDEw4&list=PLyeqauxei6jd4mL4E9860HnO5GYayooR-</br>
