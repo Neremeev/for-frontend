@@ -108,6 +108,11 @@ https://habr.com/post/114256/</br>
 http://ktonanovenkogo.ru/html/div-verstka-html/blochnaya-verstka-div-verstka-kak-prizhat-footer-k-nizhnej-chasti-ekrana-maket-sajta-blochnoj-verstki.html</br>
 
 
+Торренты
+http://tparser.org/html
+http://tparser.org/css
+http://nnm-club.me
+
 
 КУРСЫ НА ТОРРЕНТАХ</br>
 http://torrentikofilm.com/4166-html5-i-css3-s-nulya-do-profi-2016-videokurs.html</br>
