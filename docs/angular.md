@@ -19,6 +19,7 @@ http://iantonov.me/page/angularjs-osnovy</br>
 Видеокурсы</br>
 https://www.youtube.com/watch?v=CyWJZnNpezU&list=PLY4rE9dstrJxWEX3fCPjFpmcnoU_3GRWW</br>
 https://www.youtube.com/watch?v=1jdqXQgm3zU&list=PLLvTAhHe8AYBYSWX-zaquA-hO9Ya94iQZ</br>
+https://www.youtube.com/watch?v=ELR_bjGqj4M&index=70&list=PLLvTAhHe8AYCflB7fv79TU9Y6WK52L8nb</br>
 https://www.youtube.com/watch?v=iowN1awBZpE</br>
 https://www.youtube.com/watch?v=kWDVt6zpBbU</br>
 https://www.youtube.com/watch?v=Z_QzhQjuFq4</br>
