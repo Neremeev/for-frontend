@@ -8,5 +8,6 @@
 3.3) [VUE.JS](/docs/vue.md)<br/>
 4) [РАЗНОЕ](/docs/frontend.md)
 5) [IN ENGLISH](/docs/inEnglsh.md)
-5) [Тестовые задания](/docs/test)
-5) [TYPESCRIPT](/docs/typeScript.md)
+6) [Тестовые задания](/docs/test)
+7) [TYPESCRIPT](/docs/typeScript.md)
+8) [BOOTSTRAP/FLEXBOX/GRID/SASS](/docs/bootstrap.md)
