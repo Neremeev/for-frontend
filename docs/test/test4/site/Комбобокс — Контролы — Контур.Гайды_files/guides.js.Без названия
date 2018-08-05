@@ -1,0 +1,9 @@
+﻿var _paq = _paq || [];
+(function () {
+    _paq.push(["setSiteId", 9]);
+    _paq.push(["setTrackerUrl", "https://metrika.kontur.ru/track"]);
+    _paq.push(["useDefaults"]);
+    var src = "https://metrika.kontur.ru/static/js/tracker.old.js";
+    var d = document, g = d.createElement("script"), s = d.getElementsByTagName("script")[0];
+    g.type = "text/javascript"; g.async = true; g.defer = true; g.src = src; s.parentNode.insertBefore(g, s);
+})();

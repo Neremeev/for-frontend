@@ -1,0 +1,112 @@
+(function(yaCounterId) {
+  var nodes = initDomNodes();
+  var sel = nodes.sel;
+  var rel1 = nodes.cal1;
+  var rel2 = nodes.cal2;
+  var feedBackTooltip = nodes.feedBackTooltip;
+  var feedbackLink = nodes.feedbackLink;
+
+  var blacklist = ['#datepicker-react'];
+
+  window.addEventListener('mouseup', handleMouseUp);
+
+  feedbackLink.addEventListener('click', handleFeedbackLinkClick);
+
+  function getCounter() {
+    return window[yaCounterId] || { reachGoal: function() {} };
+  }
+
+  function handleMouseUp() {
+    if (!sel.isCollapsed) {
+      var isInBlacklist = blacklist
+        .map(selector => document.querySelector(selector))
+        .filter(Boolean)
+        .some(node => node.contains(sel.anchorNode));
+      if (isInBlacklist) {
+        return;
+      }
+
+      var r = sel.getRangeAt(0).getBoundingClientRect();
+      var rb1 = rel1.getBoundingClientRect();
+      var rb2 = rel2.getBoundingClientRect();
+      var top = (r.top + r.height / 2 - rb2.top - 17) * 100 / (rb1.top - rb2.top);
+      var left = (r.left + r.width - rb2.left + 10) * 100 / (rb1.left - rb2.left);
+      feedBackTooltip.style.top = Math.round(top) + 'px';
+      feedBackTooltip.style.left = Math.round(left) + 'px';
+      showToolip();
+      getCounter().reachGoal('feedbackOpen');
+    } else {
+      hideTooltip();
+    }
+
+    setTimeout(function() {
+      if (sel.isCollapsed) {
+        hideTooltip();
+      }
+    }, 100);
+  }
+
+  function showToolip() {
+    feedBackTooltip.style.display = 'block';
+    feedBackTooltip.style.opacity = 1;
+  }
+
+  function hideTooltip() {
+    setTimeout(function() {
+      feedBackTooltip.style.display = 'none';
+    }, 100);
+    feedBackTooltip.style.opacity = 0;
+  }
+
+  function initDomNodes() {
+    var cal1 = document.createElement('div');
+    cal1.id = 'cal1';
+    var cal2 = document.createElement('div');
+    cal2.id = 'cal2';
+    var feedBackTooltip = document.createElement('div');
+    feedBackTooltip.id = 'feedBackTooltip';
+    feedBackTooltip.classList.add('tooltip_rounded');
+
+    var feedbackLink = document.createElement('a');
+    feedbackLink.id = 'feedBackLink';
+    feedbackLink.classList.add('link');
+    feedbackLink.classList.add('uig-js-link');
+    feedbackLink.nohref = true;
+    feedbackLink.title = 'Напишите нам, если вы заметили ошибку, опечатку или у вас есть вопрос';
+    feedbackLink.innerHTML = '<span class="icon icon__mail-out"></span>';
+    feedBackTooltip.appendChild(feedbackLink);
+
+    document.body.appendChild(cal1);
+    document.body.appendChild(cal2);
+    document.body.appendChild(feedBackTooltip);
+
+    var sel = window.getSelection();
+    var rel1 = document.createRange();
+    var rel2 = document.createRange();
+
+    rel1.selectNode(cal1);
+    rel2.selectNode(cal2);
+
+    return {
+      cal1: cal1,
+      cal2: cal2,
+      feedBackTooltip: feedBackTooltip,
+      sel: sel,
+      feedbackLink
+    };
+  }
+
+  function handleFeedbackLinkClick() {
+    var range = sel.toString();
+
+    window.location.href =
+      'mailto:guides@kontur.ru?subject=' +
+      encodeURIComponent('Комментарий к Гайдам') +
+      '&body=Что-то не так в тексте: «' +
+      encodeURIComponent(range) +
+      '» на странице ' +
+      window.location.href;
+
+    getCounter().reachGoal('feedbackClick');
+  }
+})('yaCounter37969250');

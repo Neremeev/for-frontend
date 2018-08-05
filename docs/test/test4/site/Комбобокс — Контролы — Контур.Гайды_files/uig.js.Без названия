@@ -1,0 +1,180 @@
+;(function() {
+
+  var registeredComponents = []
+
+  var Component = function(name, config) {
+
+    if (this === window) {
+      return new Component(name, config)
+    }
+
+    var elementName = '.' + name + '.uig-js-' + name
+    var _config = config || {}
+    this.name = name
+
+    this.init = function() {
+
+      var eventList = _config.events || []
+      var elementList = document.querySelectorAll(elementName)
+
+      Array.prototype.forEach.call(elementList, function(element) {
+        addEventListeners(element, eventList, name)
+        if (_config.js) _config.js(element)
+      })
+    }
+
+    registerComponent(this)
+  }
+
+  function registerComponent(component) {
+    registeredComponents.push(component)
+  }
+
+  function init() {
+    registeredComponents.forEach(function(component) {
+      component.init()
+    })
+  }
+
+  function addEventListeners(element, eventList, name) {
+
+    var HANDLER_MAP = {
+      click: addClickEventListeners,
+      hover: addHoverEventListeners,
+      focus: addFocusEventListeners
+    }
+
+    eventList.forEach(function(event) {
+      var handler = HANDLER_MAP[event]
+
+      handler(element, name)
+    })
+
+    function addClickEventListeners(element, name) {
+      element.addEventListener('mousedown', function(event) {
+        event.preventDefault()
+        element.classList.add(name + '--pressed')
+      }, false)
+
+      element.addEventListener('mouseup', function() {
+        element.classList.remove(name + '--pressed')
+      }, false)
+
+      element.addEventListener('mouseleave', function() {
+        element.classList.remove(name + '--pressed')
+      }, false)
+    }
+
+    function addHoverEventListeners(element, name) {
+      element.addEventListener('mouseenter', function(event) {
+        event.preventDefault()
+        element.classList.add(name + '--hover')
+      }, false)
+
+      element.addEventListener('mouseleave', function() {
+        element.classList.remove(name + '--hover')
+      }, false)
+    }
+
+    function addFocusEventListeners(element, name) {
+      element.addEventListener('focus', function(event) {
+        event.preventDefault()
+        element.classList.add(name + '--focus')
+      }, false)
+
+      element.addEventListener('blur', function() {
+        element.classList.remove(name + '--focus')
+      }, false)
+    }
+  }
+
+  window.UIG = {
+    Component: Component,
+    init: init
+  }
+})()
+
+var Button = new UIG.Component('button', {
+  events: ['click', 'hover', 'focus'],
+  js: function(element) {
+    var selectMenu = element.parentElement.querySelector('.select-menu')
+
+    if (selectMenu) {
+      var select = element.parentElement
+      element.addEventListener('click', function(e) {
+        e.preventDefault()
+        if (element.classList.contains('button--checked')) {
+          element.classList.remove('button--checked')
+          select.classList.remove('select--open')
+        } else {
+            element.classList.add('button--checked')
+            select.classList.add('select--open')
+        }
+      }, false)
+
+      document.body.addEventListener('click', function(e) {
+        if (e.target === element || e.target.parentElement === element) return
+        element.classList.remove('button--checked')
+        select.classList.remove('select--open')
+      }, false)
+    }
+  }
+})
+
+var Input = new UIG.Component('input', {
+  events: ['hover', 'focus'],
+  js: function(element) {
+    var iconClear = element.querySelector('.icon__clear')
+    var suggestion = element.querySelector('.input__suggestion')
+    var currency = element.querySelector('.input__currency')
+    var input = element.querySelector('input')
+
+    if (iconClear) {
+      iconClear.addEventListener('click', function() {
+        input.value = ''
+      })
+    }
+
+    if (suggestion) {
+      var value = suggestion.querySelector('u').innerText
+      suggestion.addEventListener('click', function(e) {
+        e.preventDefault()
+        input.value = value
+      })
+    }
+
+    if (currency) {
+      // format field value after page load
+      input.value = formatCurrency(input.value)
+
+      // format field after blur event
+      input.addEventListener('blur', function(e) {
+        input.value = formatCurrency(e.target.value)
+      })
+    }
+
+    function formatCurrency(val) {
+      const str = val.replace(/ /g, '').replace(/,/g, '.')
+      const hasFraction = str.split('.')[1] !== undefined
+      const value = parseFloat(str) || 0
+      var parts = []
+      var whole = Math.floor(value)
+      whole = whole.toString()
+
+      for (var pos = whole.length % 3 - 3; pos < whole.length; pos += 3) {
+        if (pos === -3) continue
+        parts.push(whole.substring(Math.max(0, pos), pos + 3))
+      }
+
+      if (hasFraction) {
+        return parts.join(' ') + ',' + value.toFixed(2).slice(-2)
+      }
+
+      return parts.join(' ')
+    }
+  }
+})
+
+var Link = new UIG.Component('link', {
+  events: ['hover', 'focus', 'click']
+})

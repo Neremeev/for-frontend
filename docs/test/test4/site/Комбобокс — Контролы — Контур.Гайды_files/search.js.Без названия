@@ -1,0 +1,128 @@
+﻿/* global jQuery */
+(function($) {
+  var $menuSearchInput
+  var $blockgroups
+  var $blockitem
+  var $clearSearch
+  var $navToggles
+  var module = function() {}
+
+  function bindEvents() {
+    $clearSearch.click(clearSearch)
+    $clearSearch.hide()
+    $menuSearchInput.on('input keyup change', startSearch)
+    $menuSearchInput.keyup(clearOnEsc)
+  }
+
+  function clearSearch() {
+    $menuSearchInput.val('')
+    $navToggles.prop('checked', false)
+    $blockgroups.show()
+    $blockitem.show()
+    $clearSearch.hide()
+  }
+
+  function clearOnEsc(e) {
+    if (e.keyCode === 27) {
+      clearSearch()
+    }
+  }
+
+  function startSearch(e) {
+    const value = (e.target.value || '').toLowerCase()
+
+    if (value.length === 0) {
+      clearSearch()
+      return
+    }
+    var resultCount = matching(value)
+    if (resultCount === 0) {
+      resultCount = matching(autoLayoutKeyboard(value));
+    }
+
+    if (value.length == 1 && e.keyCode != 8  && e.keyCode != 46 ) {
+      yaCounter37969250.reachGoal('openSearchPage');
+    }
+    $navToggles.prop('checked', true)
+    $clearSearch.show()
+    if (e.keyCode === 13  && value.length > 0 && resultCount != 0 ) {
+      const valueUrl = $blockgroups.find('.nav_sub_item').children(':visible')[0].getAttribute("href");
+      console.log(valueUrl);
+      sendMetrics(value);
+      if(valueUrl != null){
+        return location.href = '../..'+valueUrl;
+      }
+    }
+  }
+
+  function matching(valueString) {
+    if (valueString) {
+      sendMetrics(valueString)
+    }
+    var visibleMenus = $blockitem
+      .hide()
+      .filter(function() {
+        var vStr = $(this).text().toLowerCase() + " " + this.children[0].getAttribute("data-aliases").toLowerCase();
+        return vStr.indexOf(valueString) > -1
+      })
+      .show()
+    $blockgroups
+      .show()
+      .each(function() {
+        var $group = $(this)
+        if ($group.find('.nav_main_item_label').text().toLowerCase().indexOf(valueString) > -1) {
+          $group.find('.nav_sub_item').show()
+        } else if ($group.find('.nav_sub_item').children(':visible').length === 0) {
+          $group.hide()
+        }
+      })
+    // $empty.show()
+    // if (visibleMenus.length) {
+    //   $empty.hide()
+    // }
+    return visibleMenus.length
+  }
+  function autoLayoutKeyboard( str ) {
+    replacer = {
+    "q":"й", "w":"ц", "e":"у", "r":"к", "t":"е", "y":"н", "u":"г",
+    "i":"ш", "o":"щ", "p":"з", "[":"х", "]":"ъ", "a":"ф", "s":"ы",
+    "d":"в", "f":"а", "g":"п", "h":"р", "j":"о", "k":"л", "l":"д",
+    ";":"ж", "'":"э", "z":"я", "x":"ч", "c":"с", "v":"м", "b":"и",
+    "n":"т", "m":"ь", ",":"б", ".":"ю", "/":"."
+    };
+    return str.replace(/[A-z/,.;\'\]\[]/g, function ( x ){
+      return x == x.toLowerCase() ? replacer[ x ] : replacer[ x.toLowerCase() ].toUpperCase();
+    });
+  }
+  var sendMetrics = debounce(function(value) {
+    //console.log(value);
+    yaCounter37969250.reachGoal('searchQuery', {searchQuery:{queryWord: value}});
+  }, 900)
+
+  function debounce(func, wait, immediate) {
+    var timeout
+    return function() {
+      var context = this
+      var args = arguments
+      var later = function() {
+        timeout = null
+        if (!immediate) func.apply(context, args)
+      }
+      var callNow = immediate && !timeout
+      clearTimeout(timeout)
+      timeout = setTimeout(later, wait)
+      if (callNow) func.apply(context, args)
+    }
+  }
+
+  module.init = function() {
+    $menuSearchInput = $('#menuSearchInput')
+    $clearSearch = $('#clearSearch')
+    $blockgroups = $('.nav_main_list .nav_main_item')
+    $blockitem = $('.nav_sub_item')
+    $navToggles = $('.nav_menu_list_toggle')
+    bindEvents()
+  }
+
+  return module
+}(jQuery)).init()

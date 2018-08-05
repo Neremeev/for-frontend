@@ -1,0 +1,149 @@
+﻿/* global jQuery */
+(function($) {
+  var $blocksP
+  var $blocksOl
+  var $blocksUl
+  var leftQuote = "«"
+  var rightQuote = "»"
+  var module = function() {}
+  function typograf (textBlock){
+    var text = textBlock.html();
+
+    text = text
+      // Minus
+      //.replace(/\u0020-(\d)/g, "\u0020−$1")
+
+      // Dash
+      //.replace(/(^|\n|\s|>)\-(\s)/g, "$1—$2")
+
+      // Double hyphen
+      //.replace(/\-{2} /g, function(){
+      //  return "— ";
+      //})
+
+      // Multiple bsp
+      //.replace(/\u0020{2,}/g, function(str){
+      //  return "\u00a0";
+      //})
+
+      // HTML-comment
+      //.replace(/<!—/ig, function(){
+      //  return "<!--";
+      //})
+
+      // Numerical interval
+      //.replace(/(\d)(\u0020)?[-—](\u0020)?(\d)/g, function(str, $1, $2, $3, $4){
+      //  return $1 + "–" + $4;
+      //})
+
+      // Copyright
+      //.replace(/\([cс]\)/ig, function(){
+      //  return "©";
+      //})
+
+      // Registered trademark
+      //.replace(/\(r\)/ig, function(){
+      //  return "®";
+      //})
+
+      // Trademark
+      //.replace(/\(tm\)/ig, function(){
+      //  return "™";
+      //})
+
+      // Rouble
+      //.replace(/\([рp]\)/ig, function(){
+      //  return "₽";
+      //})
+
+      // Three dots
+      //.replace(/\.{3}/g, function(){
+      //  return "…";
+      //})
+
+      // Sizes
+      //.replace(/(\d)[xх](\d)/ig, "$1×$2")
+
+      // Open quote
+      .replace(/\"([a-z0-9\u0410-\u042f\u0401…])/ig,
+               leftQuote + "$1")
+
+      // Close quote
+      .replace(/([a-z0-9\u0410-\u042f\u0401…?!])\"/ig,
+               "$1" + rightQuote)
+
+      // Open quote
+      .replace(new RegExp("\"(" + leftQuote + "[a-z0-9\u0410-\u042f\u0401…])", "ig"),
+               leftQuote + "$1")
+
+      // Close quote
+      .replace(new RegExp("([a-z0-9\u0410-\u042f\u0401…?!]" + rightQuote + ")\"", "ig"),
+               "$1" + rightQuote)
+
+      // Fix HTML open quotes
+      .replace(new RegExp("([-a-z0-9]+=)" +
+                          "["   + leftQuote + rightQuote + "]" +
+                          "([^" + leftQuote + rightQuote + "]*?)", "ig"),
+               "$1\"$2")
+
+      // Fix HTML close quotes
+      .replace(new RegExp("([-a-z0-9]+=)[\"]" +
+                          "([^>" + leftQuote + rightQuote + "]*?)" +
+                          "["   + leftQuote + rightQuote + "]", "ig"),
+               "$1\"$2\"")
+
+      // Degree
+      //.replace(new RegExp("([0-6]?[0-9])[\'\′]([0-6]?[0-9])?(\\d+)" +
+      //          "[" + rightQuote + "\"]", "g"),
+      //     "$1\′$2$3\″")
+
+      // Prepositions вставляем неразрывные пробелы
+      .replace(new RegExp("((?:^|\n|\t|\u00a0|\u0020|>)[A-Z\u0410-\u042f\u0401]{1,3})[\u00a0\u0020]", "ig"),
+           "$1\u00a0")
+
+      .replace(new RegExp("\u0020—", "ig"), "\u00a0—")
+
+      .replace(/\-(то|ка)\u00a0/gi, "-$1\u0020")
+
+      .replace(new RegExp("(?:\s|\t|[\u00a0\u0020])(же?|л[иь]|бы?|ка)([.,!?:;])?\u00a0", "ig"),
+           "\u00a0$1$2\u0020")
+
+      // Multiple nbsp
+      //.replace(/\u00a0{2,}|\u00a0\u0020|\u0020\u00a0/g, function(str){
+      //  return "\u00a0";
+      //})
+
+      // Подсвечиваем исправленное
+      //.replace(new RegExp("([…©®™₽×—–„“«»″′])", "g"), "<span class=\"hlb\">$1</span>")
+      // Подсвечиваем неразрывные пробелы
+      //.replace(/\u00a0/g, "<span class=\"hlg\">&nbsp\;</span>")
+
+    textBlock.html(text);
+
+  }
+
+    function bindEvents() {
+      eachBlock($blocksH)
+      eachBlock($blocksP)
+      eachBlock($blocksOl)
+      eachBlock($blocksUl)
+      eachBlock($blocksInner)
+    }
+    function eachBlock(blocks) {
+      var $blocks = blocks;
+      $blocks
+        .each(function() {
+          var $block = $(this);
+          typograf($block);
+        })
+    }
+    module.init = function() {
+      $blocksH = $('.wrapper .block h4')
+      $blocksP = $('.wrapper .block p')
+      $blocksOl = $('.wrapper .block ol li')
+      $blocksUl = $('.wrapper .block ul li')
+      $blocksInner = $('.wrapper .innerNavigationItem a')
+      bindEvents()
+    }
+    return module
+  }(jQuery)).init()

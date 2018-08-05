@@ -1,0 +1,22 @@
+;(function () {
+  // Воспроизведение видяшек только когда до них доскролили
+  var videos = document.querySelectorAll('video')
+  ;[].slice.call(videos, 0).forEach(function (video) {
+    document.addEventListener('scroll', handleAutoPlay(video))
+    handleAutoPlay(video)()
+  })
+
+  function handleAutoPlay (video) {
+    return function () {
+      var bodyHeight = window.document.body.getBoundingClientRect().height
+      var videoRect = video.getBoundingClientRect()
+      if (videoRect.bottom < bodyHeight && videoRect.top > 0) {
+        video.play()
+        return
+      }
+      if (videoRect.bottom < 0 || videoRect.top > bodyHeight) {
+        video.pause()
+      }
+    }
+  }
+})()

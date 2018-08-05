@@ -1,0 +1,67 @@
+/* global localStorage, XMLHttpRequest */
+
+function loadFont(fontName, fontNameSuffix, woffUrl, woff2Url, eotUrl) {
+  var nua = navigator.userAgent
+  var noSupport = !window.addEventListener ||
+    (nua.match(/(Android (2|3|4.0|4.1|4.2|4.3))|(Opera (Mini|Mobi))/) && !nua.match(/Chrome/))
+  var styleElement
+
+  if (!noSupport) {
+    var loSto = {}
+    try {
+      loSto = localStorage || {}
+    } catch (ex) {
+    }
+
+    var localStoragePrefix = 'x-font-' + fontName + fontNameSuffix
+    var localStorageUrlKey = localStoragePrefix + 'url'
+    var localStorageCssKey = localStoragePrefix + 'css'
+    var storedFontUrl = loSto[localStorageUrlKey]
+    var storedFontCss = loSto[localStorageCssKey]
+
+    styleElement = document.createElement('style')
+    styleElement.rel = 'stylesheet'
+    document.head.appendChild(styleElement)
+
+    if (storedFontCss && (storedFontUrl === woffUrl || storedFontUrl === woff2Url)) {
+      styleElement.textContent = storedFontCss
+    } else {
+      var url = (woff2Url && supportsWoff2()) ? woff2Url : woffUrl
+      var request = new XMLHttpRequest()
+      request.open('GET', url)
+      request.onload = function() {
+        if (request.status >= 200 && request.status < 400) {
+          loSto[localStorageUrlKey] = url
+          loSto[localStorageCssKey] = styleElement.textContent = request.responseText
+        }
+      }
+      request.send()
+    }
+  } else if (eotUrl) { // IE8
+    styleElement = document.createElement('link')
+    styleElement.rel = 'stylesheet'
+    styleElement.type = 'text/css'
+    styleElement.href = eotUrl
+    document.getElementsByTagName('head')[0].appendChild(styleElement)
+  }
+
+  function supportsWoff2() {
+    return !!window.FontFace
+  }
+}
+
+const loadSegoeUiFont = function(styleName, namePrefix) {
+  return loadFont(
+    'Segoe-UI',
+    styleName,
+    '/client/fonts/css/' + namePrefix + '.woff.css',
+    '/client/fonts/css/' + namePrefix + '.woff2.css',
+    '/client/fonts/css/' + namePrefix + '.eot.css'
+  )
+}
+
+loadSegoeUiFont('-Light', 'segoeuil')       // Segoe UI Light
+loadSegoeUiFont('-Semilight', 'segoeuisl')  // Segoe UI Semilight
+loadSegoeUiFont('-Regular', 'segoeui')      // Segoe UI Regular
+loadSegoeUiFont('-Semibold', 'segoeuisb')   // Segoe UI Semibold
+loadSegoeUiFont('-Bold', 'segoeuib')        // Segoe UI Bold

@@ -1,0 +1,373 @@
+/* global $, UIG, location, history, React, ReactDOM */
+'use strict'
+
+var handlerDisables = window.handlerDisables = []
+
+$(window).ready(function() {
+  setHandlers()
+  // initWindowPopStateHandler()
+  setAnchors()
+  UIG.init()
+  $('.-disabled').click(function(e) { e.preventDefault() })
+})
+
+function updatePageFromHref(href) {
+  var $container = $('.container')
+  var $nav = $('.nav')
+
+  var content$ = new Promise(function(resolve) {
+    return $container.load(href + ' .wrap > .container > *', undefined, resolve)
+  })
+  var subMenu$ = new Promise(function(resolve) {
+    return $nav.load(href + ' .wrap > .nav > *', undefined, resolve)
+  })
+  Promise.all([content$, subMenu$]).then(function() {
+    UIG.init()
+    setActiveLinks()
+    setHandlers()
+    setAnchors()
+  })
+}
+
+function initWindowPopStateHandler() {
+  $(window).on('popstate', function() {
+    updatePageFromHref(window.location.href)
+  })
+}
+
+function setHandlers() {
+  /**
+   * remove old event handlers
+   */
+  handlerDisables.forEach(function(handlerDisable) {
+    handlerDisable()
+    handlerDisables.shift()
+  })
+
+  /**
+   * Push state handlers
+   */
+  // handlerDisables.push(initMainMenuPushStateHandlers())
+  // handlerDisables.push(initSubMenuPushStateHandlers())
+
+  /**
+   * Edit handlers
+   */
+  if (location.search.indexOf('?edit') === 0) {
+    handlerDisables.push(initEditHandlers())
+    handlerDisables.push(initSortHandlers())
+  }
+}
+
+function initSubMenuPushStateHandlers() {
+  var $links = $('.nav_sub_item a')
+  $links.click(function(e) {
+    e.preventDefault()
+    if ($(this).parent().hasClass('nav_sub_item__active')) return
+    if ($(this).hasClass('-disabled')) return
+    history.pushState({}, 'null', $(this).attr('href'))
+    updatePageFromHref(window.location.pathname + window.location.search)
+  })
+  return function() {
+    return $links.off('click')
+  }
+}
+
+function initMainMenuPushStateHandlers() {
+  var $links = $('.nav_main_item a')
+
+  $links.click(function(e) {
+    e.preventDefault()
+
+    if ($(this).parent().hasClass('nav_main_item__active')) return
+    if ($(this).hasClass('-disabled')) return
+
+    var routes = window.__ROUTES__
+    var href = $(this).attr('href')
+    var params = getParamsFromHref(href)
+    var group = params.group
+    var query = params.query || ''
+    var item = getFirstNoEmptyChild(routes[group].children)
+
+    history.pushState({}, 'null', '/' + item.path + (query ? '?' + query : ''))
+    updatePageFromHref(window.location.href)
+  })
+
+  return function() {
+    return $links.off('click')
+  }
+}
+
+/**
+ * DoubleClick для редактирования пункта меню
+ * @returns {function(): *}
+ */
+function initEditHandlers() {
+  var $items = $('.nav_sub_item_edit, .nav_main_item_edit')
+
+  $items.on('click', editHandler)
+
+  return function() {
+    return $items.off('click')
+  }
+}
+
+function editHandler(e) {
+  e.preventDefault()
+  var path = $(this).data('path')
+  var splitedPath = path.split('/').filter(function(val) {
+    return val
+  })
+  var group = splitedPath[0]
+  var item = splitedPath[1]
+  showModal(group, item)
+}
+
+/**
+ * Навешивает обработчики D'n'D
+ */
+function initSortHandlers() {
+  var $items = $('.nav_sub_list.sortable, .nav_main_list.sortable')
+
+  $items.sortable({
+    axis: 'y',
+    scroll: false,
+    update: function update() {
+      saveMenuSortOrder()
+    }
+  })
+  $items.disableSelection()
+
+  return function() {
+    return $items.sortable('destroy')
+  }
+}
+
+/**
+ * Обработчик сортировки
+ * вызывает функцию handleResort
+ */
+function saveMenuSortOrder() {
+  var weights = {}
+
+  $('.nav_main_item a').each(function(index, el) {
+    var params = getParamsFromHref($(el).attr('href'))
+    var group = params.group
+    weights[group] = weights[group] || {}
+    weights[group].__weight = index
+  })
+
+  $('.nav_sub_item a').each(function(index, el) {
+    var params = getParamsFromHref($(el).attr('href'))
+    var group = params.group
+    var item = params.item
+    var weight = index
+
+    weights[group] = weights[group] || {}
+    weights[group][item] = weight
+  })
+
+  handleResort(weights)
+}
+
+/**
+ * Открывает модальное окно редактирования
+ * @param group
+ * @param item
+ */
+function showModal(group, item) {
+  var routes = window.__ROUTES__
+  var route = item ? routes[group].children[item] : routes[group]
+
+  var $modal = $('.modal')
+  var $labelInput = $modal.find('#label')
+  var $weightInput = $modal.find('#weight')
+  var $descriptionInput = $modal.find('#description')
+  var $publishedInput = $modal.find('#published')
+  var $isNewInput = $modal.find('#isNew')
+  var $indent = $modal.find('#indent')
+  var $submit = $modal.find('[type="submit"]')
+
+  $modal.show()
+  $labelInput.val(route.label)
+  $labelInput.focus()
+  $descriptionInput.val(route.description)
+  $publishedInput.attr('checked', route.published)
+  $isNewInput.attr('checked', route.isNew)
+  $indent.attr('checked', route.indent)
+  $weightInput.val(route.weight)
+
+  var onSave = function onSave() {
+    return handleItemSave(
+      group,
+      item,
+      $labelInput.val(),
+      $weightInput.val(),
+      $descriptionInput.val(),
+      $publishedInput.is(':checked'),
+      $isNewInput.is(':checked'),
+      $indent.is(':checked')
+    ).then(function() {
+      return document.location.reload()
+    })
+  }
+
+  var handleClose = function handleClose() {
+    $modal.hide()
+    $submit.off()
+    $labelInput.off()
+    $weightInput.off()
+  }
+
+  $labelInput.on('keydown', function(e) {
+    return onEnter(e, onSave)
+  })
+  $weightInput.on('keydown', function(e) {
+    return onEnter(e, onSave)
+  })
+  $(document).on('keydown', function(e) {
+    return onEsc(e, handleClose)
+  })
+
+  $submit.click(function() {
+    onSave()
+  })
+
+  $modal.click(function(e) {
+    if (e.target.className === 'modal') {
+      handleClose()
+    }
+  })
+}
+
+function onEnter(e, func) {
+  if (e.keyCode === 13) func(e)
+}
+
+function onEsc(e, func) {
+  if (e.keyCode === 27) func(e)
+}
+
+/**
+ * Обработчик изменения пункта меню
+ * @param group
+ * @param item
+ * @param label
+ * @param weight
+ * @returns {jQuery.promise}
+ */
+function handleItemSave(group, item, label, weight, description, published, isNew, indent) {
+  return $.ajax({
+    url: '/menu/' + group + '/' + (item || ''),
+    type: 'PATCH',
+    data: JSON.stringify({
+      label: label,
+      weight: weight,
+      description: description,
+      published: published,
+      isNew: isNew,
+      indent: indent
+    }),
+    contentType: 'application/json',
+    dataType: 'json'
+  })
+}
+
+/**
+ * Обработчик сортировки
+ * @param weights
+ * @returns {jQuery.promise}
+ */
+function handleResort(weights) {
+  return $.ajax({
+    url: '/resort',
+    type: 'POST',
+    data: JSON.stringify({ weights: weights }),
+    contentType: 'application/json',
+    dataType: 'json'
+  })
+}
+
+/**
+ * Получает параметры из ссылки
+ * @param href
+ * @returns {{group: string, item: string, query: (string)}}
+ */
+function getParamsFromHref(href) {
+  var split = href.split('?')
+  var path = split[0].split('/').filter(function(v) {
+    return v
+  })
+  var group = path[0]
+  var item = path[1]
+  var query = split[1] || ''
+
+  return { group: group, item: item, query: query }
+}
+
+/**
+ * Выбирает первого непустого потомка
+ * @param {Object} children
+ * @returns {Object}
+ */
+function getFirstNoEmptyChild(children) {
+  return Object.keys(children).map(function(key) {
+    return children[key]
+  }).filter(function(child) {
+    return !child.isEmpty
+  }).sort(function(child1, child2) {
+    return child1.weight - child2.weight
+  })[0]
+}
+
+function setActiveLinks() {
+  var path = decodeURIComponent(document.location.pathname)
+  var query = decodeURIComponent(document.location.search)
+  var params = getParamsFromHref(path)
+  var group = params.group
+  var item = params.item
+  var groupLink = '/' + group + '/' + query
+  var itemLink = '/' + group + '/' + item + '/' + query
+  var $groupLink = $('a[href="' + groupLink + '"]')
+  var $itemLink = $('a[href="' + itemLink + '"]')
+
+  $('.nav_sub_item__active').removeClass('nav_sub_item__active')
+  // $('.nav_main_item__active').removeClass('nav_main_item__active')
+  // $groupLink.parent().addClass('nav_main_item__active')
+  $itemLink.parent().addClass('nav_sub_item__active')
+
+  document.title = $groupLink.text() + ' | ' + $itemLink.text()
+}
+
+/**
+ * Set anchors for content blocks
+ */
+function setAnchors() {
+  $('.content').each(function() {
+    var index = 0
+    var text = ''
+    $(this).find('.block').each(function() {
+      index++
+      text = index < 10 ? '0' + index : index
+      $(this).prepend('' +
+        '<div class="block_anchor">' +
+          '<a href="#' + text + '" name="' + text + '">' + text + '</a>' +
+        '</div>')
+    })
+    $('.block_anchor a').click(function(event) {
+      var $anchor = $(this)
+      var name = $anchor.attr('name')
+
+      $('html, body').stop().animate({
+        scrollTop: $anchor.offset().top - 10
+      }, 300, function() {
+        if (history.pushState) {
+          history.pushState(null, '', '#' + name)
+        } else {
+          location.hash = name
+        }
+      })
+      event.preventDefault()
+    })
+  })
+}

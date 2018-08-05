@@ -1,0 +1,69 @@
+﻿/* global jQuery */
+// $( document ).ready(function() {
+//   console.log( "document ready!" );
+//   var $sticky = $('.sticky');
+//   if (!!$sticky.offset()) { // make sure ".sticky" element exists
+//     var generalSidebarHeight = $sticky.innerHeight();
+//     var stickyTop = $sticky.offset().top;
+//     var stickOffset = 0;
+//     $(window).scroll(function(){ // scroll event
+//       var windowTop = $(window).scrollTop(); // returns number
+//       if (stickyTop < windowTop+stickOffset) {
+//           $sticky.css({ position: 'fixed', top: stickOffset });
+//       } else {
+//           $sticky.css({position: 'absolute', top: 'initial'});
+//       }
+//     });
+//   }
+// });
+(function($) {
+  var $blocks1
+  var $blocks2
+  function debounce(func, wait, immediate) {
+    var timeout
+    return function() {
+      var context = this
+      var args = arguments
+      var later = function() {
+        timeout = null
+        if (!immediate) func.apply(context, args)
+      }
+      var callNow = immediate && !timeout
+      clearTimeout(timeout)
+      timeout = setTimeout(later, wait)
+      if (callNow) func.apply(context, args)
+    }
+  }
+  var module = function() {}
+    module.init = function() {
+      $blocks1 = $('.wrapper .tabs-one')
+      $blocks2 = $('.wrapper .tabs-two')
+      $( "#tabs-one" ).click(function() {
+        $( "#tabs-one" ).css( "border-bottom", "solid 3px #41464e" );
+        $( "#tabs-two" ).css( "border-bottom", "none" );
+        $('.wrapper .tabs-one')
+          .each(function() {
+            $(this).show()
+          })
+        $blocks2 = $('.wrapper .tabs-two')
+          .each(function() {
+            $(this).hide()
+          })
+        return false
+      });
+      $( "#tabs-two" ).click(function() {
+        $( "#tabs-one" ).css( "border-bottom", "none" );
+        $( "#tabs-two" ).css( "border-bottom", "solid 3px #41464e" );
+        $('.wrapper .tabs-one')
+          .each(function() {
+            $(this).hide()
+          })
+        $('.wrapper .tabs-two')
+          .each(function() {
+            $(this).show()
+          })
+        return false
+      });
+    }
+    return module
+  }(jQuery)).init()

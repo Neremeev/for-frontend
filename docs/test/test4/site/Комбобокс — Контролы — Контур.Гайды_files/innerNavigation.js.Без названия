@@ -1,0 +1,101 @@
+/* global jQuery, transliteration */
+(function() {
+  var titles = document.getElementsByTagName('H2')
+  var navigationContainer = document.createElement('DIV')
+  navigationContainer.classList.add('innerNavigation')
+
+  Array.prototype.forEach.call(titles, function (title) {
+    var cyrillicName = title.textContent.trim()
+    var transliteratedName = transliteration.cyrillicWordToLatin(cyrillicName)
+
+    title.setAttribute('name', transliteratedName)
+    title.setAttribute('class', "innerNavigationSectionTitle")
+    title.addEventListener('click', function () {
+      updateHash(transliteratedName)
+    })
+    title.addEventListener('click', function () {
+      scrollToTitle(transliteratedName)
+    })
+
+    navigationContainer.appendChild(createLink(cyrillicName, transliteratedName))
+  })
+
+  var hostBlock = document.querySelector('.wrapper')
+  hostBlock.insertBefore(navigationContainer, hostBlock.children[1])
+
+  var handleScroll = debounce(function (event) {
+    var hostOffsetTop = hostBlock.children[2].getBoundingClientRect().top
+    if (hostOffsetTop < 100) {
+      navigationContainer.classList.add('fixed')
+    } else {
+      navigationContainer.classList.remove('fixed')
+    }
+  }, 10)
+
+  window.addEventListener('scroll', handleScroll)
+
+  if (window.location.hash.length !== 0 && document.getElementsByName(window.location.hash.substring(1)).length > 0) {
+    window.addEventListener('load', function() {
+      var titleTop = jQuery('[name="' + window.location.hash.substring(1) + '"]').offset().top - 10
+      window.scrollTo(0, titleTop)
+    })
+  }
+
+  function createLink(cyrillicName, transliteratedName) {
+    var link = document.createElement('A')
+    link.textContent = cyrillicName
+    link.setAttribute('href', '#' + transliteratedName)
+    link.setAttribute('data-name', transliteratedName)
+    link.addEventListener('click', handleClick)
+
+    var linkWrap = document.createElement('DIV')
+    linkWrap.classList.add('innerNavigationItem')
+    linkWrap.appendChild(link)
+
+    return linkWrap
+  }
+
+  function handleClick(event) {
+    var name = event.target.getAttribute('data-name')
+    scrollToTitle(name)
+    event.preventDefault()
+  }
+
+  function scrollToTitle(transliteratedTitleName) {
+    var titleTop = jQuery('[name="' + transliteratedTitleName + '"]').offset().top
+
+    jQuery('html, body').stop().animate({
+      scrollTop: titleTop - 10,
+    }, 300, function () {
+      if (window.history.pushState) {
+        window.history.pushState(null, '', '#' + transliteratedTitleName)
+      } else {
+        window.location.hash = transliteratedTitleName
+      }
+    })
+  }
+
+  function debounce(func, wait, immediate) {
+    var timeout
+    return function() {
+      var context = this
+      var args = arguments
+      var later = function() {
+        timeout = null
+        if (!immediate) func.apply(context, args)
+      }
+      var callNow = immediate && !timeout
+      clearTimeout(timeout)
+      timeout = setTimeout(later, wait)
+      if (callNow) func.apply(context, args)
+    }
+  }
+
+  function updateHash(name) {
+    if (window.location.hash === "") {
+      window.location = window.location.href + '#' + name
+      return
+    }
+    window.location = window.location.href.replace(window.location.hash, "#" + name)
+  }
+})()

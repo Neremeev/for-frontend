@@ -1,0 +1,96 @@
+(function() {
+  var dictionary = {}
+
+  dictionary['Ё'] = 'Yo'
+  dictionary['Й'] = 'I'
+  dictionary['Ц'] = 'Ts'
+  dictionary['У'] = 'U'
+  dictionary['К'] = 'K'
+  dictionary['Е'] = 'E'
+  dictionary['Н'] = 'N'
+  dictionary['Г'] = 'G'
+  dictionary['Ш'] = 'Sh'
+  dictionary['Щ'] = 'Sch'
+  dictionary['З'] = 'Z'
+  dictionary['Х'] = 'H'
+  dictionary['Ъ'] = '\''
+  dictionary['ё'] = 'yo'
+  dictionary['й'] = 'i'
+  dictionary['ц'] = 'ts'
+  dictionary['у'] = 'u'
+  dictionary['к'] = 'k'
+  dictionary['е'] = 'e'
+  dictionary['н'] = 'n'
+  dictionary['г'] = 'g'
+  dictionary['ш'] = 'sh'
+  dictionary['щ'] = 'sch'
+  dictionary['з'] = 'z'
+  dictionary['х'] = 'h'
+  dictionary['ъ'] = '\''
+  dictionary['Ф'] = 'F'
+  dictionary['Ы'] = 'I'
+  dictionary['В'] = 'V'
+  dictionary['А'] = 'А'
+  dictionary['П'] = 'P'
+  dictionary['Р'] = 'R'
+  dictionary['О'] = 'O'
+  dictionary['Л'] = 'L'
+  dictionary['Д'] = 'D'
+  dictionary['Ж'] = 'Zh'
+  dictionary['Э'] = 'E'
+  dictionary['ф'] = 'f'
+  dictionary['ы'] = 'i'
+  dictionary['в'] = 'v'
+  dictionary['а'] = 'a'
+  dictionary['п'] = 'p'
+  dictionary['р'] = 'r'
+  dictionary['о'] = 'o'
+  dictionary['л'] = 'l'
+  dictionary['д'] = 'd'
+  dictionary['ж'] = 'zh'
+  dictionary['э'] = 'e'
+  dictionary['Я'] = 'Ya'
+  dictionary['Ч'] = 'Ch'
+  dictionary['С'] = 'S'
+  dictionary['М'] = 'M'
+  dictionary['И'] = 'I'
+  dictionary['Т'] = 'T'
+  dictionary['Ь'] = '\''
+  dictionary['Б'] = 'B'
+  dictionary['Ю'] = 'Yu'
+  dictionary['я'] = 'ya'
+  dictionary['ч'] = 'ch'
+  dictionary['с'] = 's'
+  dictionary['м'] = 'm'
+  dictionary['и'] = 'i'
+  dictionary['т'] = 't'
+  dictionary['ь'] = '\''
+  dictionary['б'] = 'b'
+  dictionary['ю'] = 'yu'
+  dictionary[' '] = '_'
+
+  function transliterate(word) {
+    return word
+      .split('')
+      .map(validateChar)
+      .join('')
+  }
+
+  function validateChar(ch) {
+    return isCyrillic(ch) || ch === ' '
+      ? cyrillicCharToLatin(ch)
+      : ch
+  }
+
+  function isCyrillic(ch) {
+    return /[а-яА-ЯЁё]/.test(ch)
+  }
+
+  function cyrillicCharToLatin(ch) {
+    return dictionary[ch]
+  }
+
+  window.transliteration = {
+    cyrillicWordToLatin: transliterate
+  }
+})()
