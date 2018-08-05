@@ -1,5 +1,8 @@
 https://www.youtube.com/watch?v=HSbj0dKErtY&list=PLswdBLT9llbjS2o4xreJqgBRjTmkEz6sv - крутые стримы</br>
 
+ОЧЕНЬ МНОГО РАЗЛИЧНЫХ ПРОЕКТОВ НА VUE СУПЕР КАЧАТЬ ВСЕМ!!!</br>
+https://yadi.sk/d/WnXDztJw3Zufv3</br>
+
 https://yadi.sk/d/iym0t54t3ZtvRf - карта для изучения vue</br>
 
 книга - https://yadi.sk/d/3uMB9ewV3Zu2Yx</br>
