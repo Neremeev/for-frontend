@@ -14,6 +14,7 @@ http://bonsaiden.github.io/JavaScript-Garden/ru/</br>
 https://developer.mozilla.org/ru/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript</br>
 
 ВИДЕОУРОКИ</br>
+https://www.youtube.com/watch?v=UJc9-yiMUb0&list=PLLvTAhHe8AYAzyzfqrh-CUKeoHunFtZOA jses6</br>
 https://www.youtube.com/playlist?list=PLuzqCQj6mtdhqSC2nchgExObeL_AInV-e - js</br>
 https://www.youtube.com/playlist?list=PLJcwaWk5uvsBDnddZqMeuskKd8SDolR2w - js & jquery</br>
 https://www.youtube.com/playlist?list=PLeYxjiX1MAInqDvBJUG0B48VaIcsa_UcL - js</br>
