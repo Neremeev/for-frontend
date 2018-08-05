@@ -109,6 +109,10 @@ http://javascript.ru/basic/regular-expression+ - регулярные выраж
 http://keycode.info/ - кейкод</br>
 
 
+Торренты
+http://tparser.org/js
+http://nnm-club.me
+
 ТОРРЕНТ КУРСЫ ПО JS</br>
 https://smart-torrent.org/viewtopic.php?t=119014</br>
 http://torrent-soft.net/torrent-teach/134-javascript-jquery-dlya-nachinayuschih-v-videoformate-2010.html</br>
