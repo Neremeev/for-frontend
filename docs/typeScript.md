@@ -26,3 +26,7 @@ https://www.youtube.com/watch?v=k_ZtVc1S8Ww&t=7s</br>
 Торренты</br>
 http://tparser.org/typescript</br>
 http://nnm-club.me</br>
+
+
+Телеграмм</br>
+@typescript_ru</br>
