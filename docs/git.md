@@ -29,3 +29,9 @@ https://www.youtube.com/watch?v=nRXacgNHNVw</br>
 Торренты </br>
 http://tparser.org/</br>
 http://nnm-club.me</br>
+
+ВК
+https://vk.com/go_git
+Телеграмм
+@githubtrending
+github_repos
