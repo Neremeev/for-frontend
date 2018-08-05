@@ -1,0 +1,22 @@
+.header h1 {
+  font-size: 32px;
+  padding: 30px 0;
+  line-height: normal;}
+
+.header .main-days {
+  display: -webkit-box;
+  display: -webkit-flex;
+  display: -ms-flexbox;
+  display: flex;
+  margin-bottom: 5px;
+  margin-left: 20%;
+  font-size: 16px;
+}
+@media only screen and (max-width: 580px) {
+      .header .main-days {
+        font-size: 14px} }
+
+  .header .main-days .day-name {width: 20%; text-align: center;}
+  @media only screen and (max-width: 481px) {
+    .header .main-days {
+      display: none; } }

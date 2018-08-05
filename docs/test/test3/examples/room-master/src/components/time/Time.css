@@ -1,0 +1,12 @@
+.content .room-days .room-day .room-time {
+        cursor: pointer;
+        width: 70px;
+        margin: 0 auto 1px;
+        padding: 2px;
+        background-color: transparent;
+        -webkit-transition: background-color .2s linear;
+        transition: background-color .2s linear; }
+        .content .room-days .room-day .room-time:hover {
+          background-color: #cccccc; }
+        .content .room-days .room-day .room-time.dis {
+          background-color: #999999; }

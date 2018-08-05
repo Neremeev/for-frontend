@@ -1,0 +1,14 @@
+.content .room-days .room-day {
+      text-align: center; }
+      @media only screen and (max-width: 481px) {
+        .content .room-days .room-day {
+          width: 100%;
+          margin-bottom: 5px;} }
+      .content .room-days .room-day-name {
+        display: none;
+        margin-bottom: 10px; }
+        @media only screen and (max-width: 481px) {
+          .content .room-days .room-day-name {
+            display: block;
+            font-size: 17px;
+            text-decoration: underline;} }
