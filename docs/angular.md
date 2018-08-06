@@ -1,17 +1,16 @@
-https://t.me/angular_rush
-https://t.me/angular_universal_ru
+### Книги
++ https://yadi.sk/d/GwETHdc93Ztvgy
 
-Книги</br>
-https://yadi.sk/d/GwETHdc93Ztvgy</br>
+### Около тысячи проектов с гитхаба на react/redux
++ https://yadi.sk/d/LJfq8sUt3Zuetc</br>
 
-ОЧЕНЬ МНОГО РАЗЛИЧНЫХ ПРОЕКТОВ НА АНГУЛЯР СУПЕР КАЧАТЬ ВСЕМ!!!</br>
-https://yadi.sk/d/LJfq8sUt3Zuetc</br>
+
 /*------------------------------------------ANGULARJS------------------------------------------*/
 
-САЙТЫ</br>
-http://angular-doc.herokuapp.com/misc/started</br>
-https://metanit.com/web/angular/</br>
-https://learn.javascript.ru/courses/angular</br>
+### САЙТЫ
++ http://angular-doc.herokuapp.com/misc/started
++ https://metanit.com/web/angular/
++ https://learn.javascript.ru/courses/angular - платный
 
 СТАТЬИ</br>
 https://m.habr.com/post/246881/</br>
@@ -56,19 +55,31 @@ https://www.youtube.com/watch?v=X8EiFmecLSM&list=PL-ss7IpVOiB5DKGi5wcSPsF1OWcJSW
 https://www.youtube.com/watch?v=jAlXRdNqNtg</br>
 https://www.youtube.com/watch?v=ybWu_Kh75IU</br>
 
-Торрент(через vpn)</br>
-http://tparser.org/angularjs</br>
-http://pipitor.org/torrent/790374/angular-js-videokurs-2016-pcrec</br>
-http://nnm-club.me/forum/viewtopic.php?t=860367</br>
-http://nnm-club.me/forum/viewtopic.php?t=1028674</br>
-http://nnm-club.me/forum/viewtopic.php?t=1195327</br>
-http://nnm-club.me/forum/viewtopic.php?t=966927</br>
-http://nnm-club.me/forum/viewtopic.php?t=926746</br>
-http://nnm-club.me/forum/viewtopic.php?t=930634</br>
-http://nnm-club.me/forum/viewtopic.php?t=861842&start=15</br>
-http://nnm-club.me/forum/viewtopic.php?t=1205998</br>
-http://nnm-club.me/forum/viewtopic.php?t=949064</br>
-http://nnm-club.me/forum/viewtopic.php?t=979856</br>
+### Торрент(через vpn)
++ http://tparser.org/angularjs
++ http://pipitor.org/torrent/790374/angular-js-videokurs-2016-pcrec
++ http://nnm-club.me/forum/viewtopic.php?t=860367
++ http://nnm-club.me/forum/viewtopic.php?t=1028674
++ http://nnm-club.me/forum/viewtopic.php?t=1195327
++ http://nnm-club.me/forum/viewtopic.php?t=966927
++ http://nnm-club.me/forum/viewtopic.php?t=926746
++ http://nnm-club.me/forum/viewtopic.php?t=930634
++ http://nnm-club.me/forum/viewtopic.php?t=861842&start=15
++ http://nnm-club.me/forum/viewtopic.php?t=1205998
++ http://nnm-club.me/forum/viewtopic.php?t=949064
++ http://nnm-club.me/forum/viewtopic.php?t=979856
++ еще трекеры(через внп):
+  + http://torrentikofilm.com
+  + http://underverse.in
+  + http://torrent-soft.net
+  + http://ru-zerkalo.org
+  + https://omn-omn-omn.ru
+  + https://smart-torrent.org
+  + http://torrent-soft.net
+  + http://rutorka.net
+  + http://ba3a.net
+  + http://torrents43
+  + http://trackerok.org
 
 Разное</br>
 http://mbenford.github.io/ngTagsInput/demos</br>
@@ -110,20 +121,34 @@ https://www.youtube.com/watch?v=63SkXao3tsA</br>
 https://www.youtube.com/watch?v=IS0xf8ZQ7-4</br>
 https://www.youtube.com/watch?v=4phNDspMIPE</br>
 
-Торренты</br>
-http://tparser.org/Angular-2</br>
-http://tparser.org/Angular-4</br>
-http://tparser.org/Angular-5</br>
-http://nnm-club.me</br>
-http://nnm-club.me/forum/viewtopic.php?t=1169881</br>
+### Торренты
++ http://tparser.org/Angular-2
++ http://tparser.org/Angular-4
++ http://tparser.org/Angular-5
++ http://nnm-club.me
++ http://nnm-club.me/forum/viewtopic.php?t=1169881
++ еще трекеры(через внп):
+  + http://torrentikofilm.com
+  + http://underverse.in
+  + http://torrent-soft.net
+  + http://ru-zerkalo.org
+  + https://omn-omn-omn.ru
+  + https://smart-torrent.org
+  + http://torrent-soft.net
+  + http://rutorka.net
+  + http://ba3a.net
+  + http://torrents43
+  + http://trackerok.org
 
 /*------------------------------------------END-ANGULAR.2.4.5.6------------------------------------------*/
 
-ВК ГРУППЫ</br>
-https://vk.com/angular2</br>
-https://vk.com/angular_2</br>
-https://vk.com/js_frameworks</br>
+### ВК ГРУППЫ
++ https://vk.com/angular2</br>
++ https://vk.com/angular_2</br>
++ https://vk.com/js_frameworks</br>
 
-ТЕЛЕГРАММ КАНАЛЫ</br>
-https://t.me/angular_ru</br>
-https://t.me/angular2</br>
+### ТЕЛЕГРАММ КАНАЛЫ
++ https://t.me/angular_ru
++ https://t.me/angular2
++ https://t.me/angular_rush
++ https://t.me/angular_universal_ru
