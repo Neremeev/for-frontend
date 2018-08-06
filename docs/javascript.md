@@ -104,9 +104,15 @@ http://keycode.info/ - кейкод</br>
 + https://t.me/js_ru
 + https://t.me/js_noobs_ru
 
-Торренты
-http://tparser.org/js
-http://nnm-club.me
+### Торренты (зайти на сайт и ввести в строке поиска значение)
++ http://tparser.org/js - много курсов со всех торрентов
++ http://nnm-club.me - через внп
++ еще трекеры:
+  + http://torrentikofilm.com
+  + http://underverse.in
+  + http://torrent-soft.net
+  + http://ru-zerkalo.org
+  + https://omn-omn-omn.ru
 
 ТОРРЕНТ КУРСЫ ПО JS</br>
 https://smart-torrent.org/viewtopic.php?t=119014</br>
