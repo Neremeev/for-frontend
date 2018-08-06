@@ -33,32 +33,35 @@
   + http://caniuse.com
   + http://fmbip.com/litmus/#css3-properties
 
-Набор полифилов и рекомендаций </br>
-http://html5please.com </br>
-http://css3please.com </br>
++ Набор полифилов и рекомендаций
+  + http://html5please.com
+  + http://css3please.com
 
-Сборник CSS3 анимаций </br>
-http://daneden.github.io/animate.css/ </br>
++ Сборник CSS3 анимаций
+  + http://daneden.github.io/animate.css/
 
-Генераторы CSS3 свойств </br>
-http://css3generator.com </br>
-Градиенты: http://www.css3factory.com/linear-gradients/ </br>
-http://dreamhelg.ru/2011/02/css-position-in-10-steps/ </br>
++ Генераторы CSS3 свойств
+  + http://css3generator.com
+  
++ Градиенты: 
+  + http://www.css3factory.com/linear-gradients/
+  + http://dreamhelg.ru/2011/02/css-position-in-10-steps/
 
-Макеты для верстки:</br>
-Moose - http://yadi.sk/d/g74XxFDUPyrob - корпоративный сайт</br>
-Hotel - http://yadi.sk/d/5VEeZriDPyroK - туристический сайт</br>
-Seabird - http://yadi.sk/d/XVt_w-TrPyrp4 - корпоративный сайт</br>
-Appmo - https://yadi.sk/d/Ofaah1ZsTNrLf - лендинг приложения</br>
-Cleanwhite - https://yadi.sk/d/b05MLaKITNrLy - корпоративный сайт</br>
-Shoes - https://yadi.sk/d/Cp7qki0yTNrM4 - интернет-магазин обуви.</br>
-http://dbfreebies.co/templates http://freebiesbug.com/psd-freebies/website-template/ - cайты с макетами.</br>
-https://camouf.ru/designes/</br>
++ Макеты для верстки:</br>
+  + Moose - http://yadi.sk/d/g74XxFDUPyrob - корпоративный сайт
+  + Hotel - http://yadi.sk/d/5VEeZriDPyroK - туристический сайт
+  + Seabird - http://yadi.sk/d/XVt_w-TrPyrp4 - корпоративный сайт
+  + Appmo - https://yadi.sk/d/Ofaah1ZsTNrLf - лендинг приложения
+  + Cleanwhite - https://yadi.sk/d/b05MLaKITNrLy - корпоративный сайт
+  + Shoes - https://yadi.sk/d/Cp7qki0yTNrM4 - интернет-магазин обуви.
+  + http://dbfreebies.co/templates 
+  + http://freebiesbug.com/psd-freebies/website-template/ - cайты с макетами.
+  + https://camouf.ru/designes/
 
-Гайды по форматированию кода:</br>
-https://github.com/necolas/idiomatic-css/tree/master/translations/ru-RU</br>
-https://github.com/iamstarkov/CSS-Guidelines/blob/master/README%20Russian.md</br>
-https://github.com/htmlacademy/codeguide</br>
+###### + Гайды по форматированию кода:
+  +https://github.com/necolas/idiomatic-css/tree/master/translations/ru-RU
+  +https://github.com/iamstarkov/CSS-Guidelines/blob/master/README%20Russian.md
+  +https://github.com/htmlacademy/codeguide
 
 Флоаты:</br>
 Раскладка в CSS: float -http://softwaremaniacs.org/blog/2005/12/01/css-layout-float/</br>
