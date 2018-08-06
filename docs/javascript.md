@@ -15,6 +15,7 @@
 
 
 ### ВИДЕОУРОКИ
++ [JavaScript решает](https://www.youtube.com/channel/UCP-xJwnvKCGyS-nbyOx1Wmg)
 + [Обучение Javascript](https://www.youtube.com/playlist?list=PLuzqCQj6mtdhqSC2nchgExObeL_AInV-e)
 + [JavaScript & jQuery с нуля до профи Часть 1](https://www.youtube.com/playlist?list=PLJcwaWk5uvsBDnddZqMeuskKd8SDolR2w)
 + [Базовый JavaScript: бесплатные видео уроки для начинающих JavaScript разрабтчиков](https://www.youtube.com/playlist?list=PLeYxjiX1MAInqDvBJUG0B48VaIcsa_UcL)
