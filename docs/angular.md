@@ -100,28 +100,28 @@
 + [Создание Angular 5 приложения](https://shwanoff.ru/angular-5-app/)
 + [ЧТО НОВОГО В ANGULAR 5](https://itvdn.com/ru/blog/article/angular5)
 
-
-Видеоуроки</br>
+### Видеоуроки
 + [Angular 4. Практика. Разработка реального ](https://www.youtube.com/watch?v=1jdqXQgm3zU&list=PLLvTAhHe8AYBYSWX-zaquA-hO9Ya94iQZ)
 + [Angular 4](https://www.youtube.com/watch?v=ELR_bjGqj4M&index=70&list=PLLvTAhHe8AYCflB7fv79TU9Y6WK52L8nb)
-https://www.youtube.com/watch?v=t3KH5LXHi0s&list=PLqHlAwsJRxANlSuRSgldPWsbNkPqVBeFp&index=1</br>
-https://www.youtube.com/watch?v=3SaIBHeyEgg</br>
-https://www.youtube.com/watch?v=2HcBR3DQUQ4</br>
-https://www.youtube.com/watch?v=2HcBR3DQUQ4&list=PLD-piGJ3Dtl2WotoOks4_bWOv5wvrtOG_</br>
-https://www.youtube.com/watch?v=-pb6_zRokKU</br>
-https://www.youtube.com/watch?v=dREcgHZhHM8</br>
-https://www.youtube.com/watch?v=N2nOGXhZdM8</br>
-https://www.youtube.com/watch?v=IS0xf8ZQ7-4</br>
-https://www.youtube.com/watch?v=cY3T0H0dQHY&list=PL2IR2XHv7LALpS0qZPyOVcZZJDmNocw1Q</br>
-https://www.youtube.com/watch?v=enoghByyWnI</br>
-https://www.youtube.com/watch?v=74CFBFVnsoo</br>
-https://www.youtube.com/playlist?list=PLtULzFUr0kI6dj0_CTdkqM2OI9s4fcANt</br>
++ [Основы Angular 2 - #01 - Установка и наш первый компонент](https://www.youtube.com/watch?v=t3KH5LXHi0s&list=PLqHlAwsJRxANlSuRSgldPWsbNkPqVBeFp&index=1)
++ [Основы Angular 2 - #01 - Установка и наш первый компонент](https://www.youtube.com/watch?v=3SaIBHeyEgg)
++ [Урок 1. Настройка Angular 4. Уроки. Отличие Angular 1, Angular 2, Angular 3 и Angular 4](https://www.youtube.com/watch?v=2HcBR3DQUQ4)
++ [Урок 1. Настройка Angular 4. Уроки. Отличие Angular 1, Angular 2, Angular 3 и Angular 4](https://www.youtube.com/watch?v=2HcBR3DQUQ4&list=PLD-piGJ3Dtl2WotoOks4_bWOv5wvrtOG_)
++ [Создание приложения на Angular 4](https://www.youtube.com/watch?v=-pb6_zRokKU)
++ [Angular 4 с Нуля до Профи. Полное руководство для современной веб-разработки](https://www.youtube.com/watch?v=dREcgHZhHM8)
++ [Angular 4 : От идеи до запуска проекта](https://www.youtube.com/watch?v=N2nOGXhZdM8)
++ [Видеокурс по Angular. 1. Первое приложение на Angular 5](https://www.youtube.com/watch?v=IS0xf8ZQ7-4)
++ [Angular 4 - Что такое Angular (Урок 1)](https://www.youtube.com/watch?v=cY3T0H0dQHY&list=PL2IR2XHv7LALpS0qZPyOVcZZJDmNocw1Q)
++ [Урок 1, Angular5, с нуля (ваще с нуля)](https://www.youtube.com/watch?v=enoghByyWnI)
++ [Создаём проект на Angular 5, устанавливаем Angular Material и верстаем страницу авторизации](https://www.youtube.com/watch?v=74CFBFVnsoo)
++ [Введение в Angular](https://www.youtube.com/playlist?list=PLtULzFUr0kI6dj0_CTdkqM2OI9s4fcANt)
 
-Приложение</br>
-https://www.youtube.com/watch?v=iuMKhvtj_5k</br>
-https://www.youtube.com/watch?v=63SkXao3tsA</br>
-https://www.youtube.com/watch?v=IS0xf8ZQ7-4</br>
-https://www.youtube.com/watch?v=4phNDspMIPE</br>
+### Приложение
++ [Создаем ToDo приложение на Angular 2 - видео #01](https://www.youtube.com/watch?v=iuMKhvtj_5k)
++ [Видеокурс Angular 2 Essential. Урок 1. Введение](https://www.youtube.com/watch?v=63SkXao3tsA)
++ [Видеокурс по Angular. 1. Первое приложение на Angular 5](https://www.youtube.com/watch?v=IS0xf8ZQ7-4)
++ [Angular 4 Material Design приложение для поиска пользователей на Github](https://www.youtube.com/watch?v=4phNDspMIPE)
+
 
 ### Торренты
 + http://tparser.org/Angular-2
