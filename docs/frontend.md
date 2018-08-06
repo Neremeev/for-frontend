@@ -1,44 +1,37 @@
-САЙТ ОТ МОНСТРА - JS и т.д.</br>
-https://monsterlessons.com/project/categories/</br>
+### САЙТ ОТ МОНСТРА - JS и т.д.
++ https://monsterlessons.com/project/categories/
 
-Книги по веб-дизайну
-https://yadi.sk/d/MnGmw2kF3Z4Zvc</br>
+### Книги по веб-дизайну
++ https://yadi.sk/d/MnGmw2kF3Z4Zvc
 
-ТЕЛЕГРАММ КАНАЛЫ</br>
-https://telegram.me/joinchat/Be4rsT3Uyr1TjmSlrRc77g — Новички JavaScript.</br>
-https://telegram.me/JSlang — Разработчики на JavaScript.</br>
-еще каналы</br>
-https://t.me/reactnative_ru </br>
-https://t.me/react_js </br>
-https://t.me/front_end_dev </br>
-https://t.me/proglibrary </br>
-https://t.me/frontend_textbooks </br>
-https://t.me/frontendraccoon </br>
-https://t.me/frontandend </br>
-https://t.me/front_ender </br>
-https://t.me/PROprgmr </br>
+### КНИГА ПО ДИЗАЙНУ И МЕТОДИЧКА ПО ПРОГРАММИРОВАНИЮ
++ https://yadi.sk/d/XkinkQbZ3YNYB9
 
-ПОДПИСКИ НА МЕДИУМ</br>
-https://medium.com/@abraztsov </br>
-https://medium.com/@jmuse </br>
-https://medium.com/@apolyntsev</br>
+### ТЕЛЕГРАММ КАНАЛЫ Для фронт-енд программистов
++ https://t.me/front_end_dev
++ https://t.me/proglibrary
++ https://t.me/frontend_textbooks
++ https://t.me/frontendraccoon
++ https://t.me/frontandend
++ https://t.me/front_ender
++ https://t.me/PROprgmr
 
-ФОРУМЫ ДЛЯ ПРОГРАММИСТОВ</br>
-http://javascript.ru/ - js форум</br>
-http://www.cyberforum.ru/</br>
-http://www.programmersforum.ru/</br>
-https://ru.stackoverflow.com/</br>
-https://htmlforum.io/index.php</br>
-https://toster.ru/</br>
+### ФОРУМЫ ДЛЯ ПРОГРАММИСТОВ</br>
++ http://javascript.ru/ - js форум
++ http://www.cyberforum.ru/
++ http://www.programmersforum.ru/
++ https://ru.stackoverflow.com/
++ https://htmlforum.io/index.php
++ https://toster.ru/
 
-ПОДБОРКИ И СТАТЬИ ПРО FRONTEND</br>
-https://proglib.io/p/js-compilation/ - подборки на пролиб</br>
-ХАБР</br>
-https://habr.com/hub/javascript/ - статьи по js</br>
-https://habr.com/hub/webdev/ - статьи по web</br>
-https://habr.com/hub/reactjs/ - статьи по react</br>
+###  ПОДБОРКИ И СТАТЬИ ПРО FRONTEND
++ https://proglib.io/p/js-compilation/ - подборки на пролиб
++ https://habr.com/hub/javascript/ - статьи по js
++ https://habr.com/hub/webdev/ - статьи по web
++ https://habr.com/hub/reactjs/ - статьи по react и тд. находите подборку статей по вкусу
 
-ЮТУБ РЕСУРСЫ(КОТОРЫХ НЕ БЫЛО В ПРЕДЫДУЩИХ ДОКАХ)</br>
+
+### ЮТУБ РЕСУРСЫ(КОТОРЫХ НЕ БЫЛО В ПРЕДЫДУЩИХ ДОКАХ)</br>
 https://www.youtube.com/channel/UC3dBY4izZRo4OTNqCGdnWuA - html/css</br>
 https://www.youtube.com/watch?v=Jf9FYXuM_Ts&list=PLvItDmb0sZw_TOs9WEh4Iu2vguvJ69Tr- - html/css</br>
 https://www.youtube.com/channel/UCP-xJwnvKCGyS-nbyOx1Wmg - канал про js</br>
@@ -52,37 +45,13 @@ https://www.youtube.com/user/PlurrimiTube/videos - в целом хороший 
 https://www.youtube.com/user/dmitrylavr/playlists - html/css/js</br>
 https://www.youtube.com/watch?v=KmTK8kub_gw - в целом хороший канал</br>
 https://www.youtube.com/channel/UCP-xJwnvKCGyS-nbyOx1Wmg/featured - js</br>
+https://www.youtube.com/watch?v=kqjkAPuyIns&list=PLtOdYVIbXMFSXx1UQlCYYaQS5jp3ottou - лекции по js</br>
+https://www.youtube.com/user/uwebdesign - хороший канал</br>
+https://www.youtube.com/user/HexletUniversity - хекслет</br>
+https://www.youtube.com/watch?v=0e9eyrxB-LU - привет интернет</br>
+https://www.youtube.com/user/HillelITSchool/videos - еще один канал</br>
 
-СООБЩЕСТВА В ВК</br>
-https://vk.com/jovitoru - js </br>
-https://vk.com/fe_development - front </br>
-https://vk.com/mosginfo_frontend_tools </br>
-https://vk.com/frontendowl </br>
-https://vk.com/we_use_js </br>
-https://vk.com/bookflow </br>
-https://vk.com/proglib </br>
-https://vk.com/habr </br>
-https://vk.com/programl </br>
-https://vk.com/itmozg </br>
-https://vk.com/itcookies </br>
-https://vk.com/reactjs </br>
-https://vk.com/frontend_and_backend </br>
-https://vk.com/jsraccoon </br>
-https://vk.com/forwebdev </br>
-https://vk.com/js_kitchen </br>
-https://vk.com/glo_academy </br>
-https://vk.com/love_frontend </br>
-https://vk.com/reactredux </br>
-https://vk.com/webtackles </br>
-https://vk.com/webdevcom/book - группа в вк, где храняться книги по Javascript, html, css</br>
-https://vk.com/it__daily/book - группа в вк, где храняться книги по Javascript, html, css</br>
-
-
-КНИГА ПО ДИЗАЙНУ И МЕТОДИЧКА ПО ПРОГРАММИРОВАНИЮ</br>
-https://yadi.sk/d/XkinkQbZ3YNYB9</br>
-
-
-БИБЛИОТЕКИ ДЛЯ JS</br>
+### БИБЛИОТЕКИ ДЛЯ JS</br>
 lodash</br>
 https://habr.com/post/217515/</br>
 https://www.youtube.com/watch?v=7yl_1X0PmG0</br>
@@ -100,66 +69,86 @@ https://html5book.ru/javascript-jquery/</br>
 http://anton.shevchuk.name/jquery-book/ </br>
 
 
-ПРО NPM</br>
-https://habr.com/post/243335/</br>
-http://prgssr.ru/development/vvedenie-v-paketnyj-menedzher-npm-dlya-nachinayushih.html</br>
-http://webupblog.ru/kak-ustanovit-node-js-na-windows/</br>
+### Последнее
+https://medium.com/devschacht/neil-fenton-improving-react-and-redux-performance-with-reselect-40f1d3efba89 reselect
+https://github.com/cassiozen/ReactCasts/tree/master/episode8 - селекторы redux
+https://habr.com/post/313234/ - проект
+https://www.youtube.com/channel/UCP-xJwnvKCGyS-nbyOx1Wmg/videos - канал js
+https://tproger.ru/translations/9-useful-tips-react/ - про реакт
 
-МОКИ ДЛЯ СОЗДАНИЯ БЭКЕНДА</br>
-https://www.mocky.io/ </br>
 
-валидность url</br>
-https://validator.w3.org/</br>
 
-json парсер </br>
-https://jsoneditoronline.org/ </br>
+### ПРО ГИТ
+https://git-scm.com/book/ru/v1
+http://randomfederation.github.io/
+https://www.youtube.com/watch?v=JfpCicDUMKc
+https://www.youtube.com/playlist?list=PLmRNNqEA7JoM77hOJkPrLOfJQGizCLR3P - git
 
-БЕСПЛАТНЫЙ ХОСТИНГ</br>
-https://www.000webhost.com/migrate?static=true</br>
 
-МОРЕ КУРСОВ НА АНГЛ И РУССКОМ ЯЗЫКЕ</br>
-https://coursehunters.net/</br>
+### СООБЩЕСТВА В ВК
++ https://vk.com/jovitoru
++ https://vk.com/fe_development
++ https://vk.com/mosginfo_frontend_tools
++ https://vk.com/frontendowl
++ https://vk.com/we_use_js
++ https://vk.com/bookflow
++ https://vk.com/proglib
++ https://vk.com/habr
++ https://vk.com/programl
++ https://vk.com/itmozg
++ https://vk.com/itcookies
++ https://vk.com/frontend_and_backend
++ https://vk.com/jsraccoon
++ https://vk.com/forwebdev
++ https://vk.com/js_kitchen
++ https://vk.com/glo_academy
++ https://vk.com/love_frontend
++ https://vk.com/webtackles
++ https://vk.com/webdevcom/book - группа в вк, где храняться книги по Javascript, html, css
++ https://vk.com/it__daily/book - группа в вк, где храняться книги по Javascript, html, css
 
-ПРО БЭМ</br>
-https://ru.bem.info/methodology/ </br>
-https://habr.com/post/203440/</br>
+### ПРО NPM
++ https://habr.com/post/243335/
++ http://prgssr.ru/development/vvedenie-v-paketnyj-menedzher-npm-dlya-nachinayushih.html
++ http://webupblog.ru/kak-ustanovit-node-js-na-windows/
 
-курс по node.js</br>
-https://habr.com/post/206628/</br>
+### МОКИ ДЛЯ СОЗДАНИЯ БЭКЕНДА
++ https://www.mocky.io/
 
-онлайн песочница</br>
-http://plnkr.co/edit/?p=preview</br>
-https://jsfiddle.net/</br>
+### валидность url
++ https://validator.w3.org/
 
-ПРО ГИТ</br>
-https://git-scm.com/book/ru/v1</br>
-http://randomfederation.github.io/</br>
-https://www.youtube.com/watch?v=JfpCicDUMKc</br>
-https://www.youtube.com/playlist?list=PLmRNNqEA7JoM77hOJkPrLOfJQGizCLR3P - git</br>
+### json парсер
++ https://jsoneditoronline.org/
 
-КАРТА РАЗВИТИЯ НАВЫКОВ ПРОГРАММИСТА</br>
-https://github.com/zualex/devmap</br>
+### БЕСПЛАТНЫЙ ХОСТИНГ
++ https://www.000webhost.com/migrate?static=true
++ https://www.heroku.com
 
-ТОРРЕНТ КУРСЫ</br>
-https://torrents-club.org/viewtopic.php?t=91006</br>
-http://tparser.org/LoftBlog</br>
-http://tparser.org/GeekBrains</br>
-https://loftschool.com/uploads/courses/manuals/js-metod.pdf</br>
+### МОРЕ КУРСОВ НА АНГЛ И РУССКОМ ЯЗЫКЕ
++ https://coursehunters.net/
 
-Последнее</br>
-https://medium.com/devschacht/neil-fenton-improving-react-and-redux-performance-with-reselect-40f1d3efba89 reselect</br>
-https://github.com/cassiozen/ReactCasts/tree/master/episode8 - селекторы redux</br>
-https://habr.com/post/313234/ - проект</br>
-https://www.youtube.com/channel/UCP-xJwnvKCGyS-nbyOx1Wmg/videos - канал js</br>
-https://tproger.ru/translations/9-useful-tips-react/ - про реакт</br>
+### ПРО БЭМ</br>
++ https://ru.bem.info/methodology/
++ https://habr.com/post/203440/
 
-для работы с png</br>
-https://www.iloveimg.com/ru/resize-image - менять размер</br>
-https://online-fotoshop.ru/ubrat-fon-online/ - белый фон</br>
-https://www.imgonline.com.ua/replace-color-result.php - менять цвет</br>
+### курс по node.js
++ https://habr.com/post/206628/
 
-https://www.youtube.com/watch?v=kqjkAPuyIns&list=PLtOdYVIbXMFSXx1UQlCYYaQS5jp3ottou - лекции по js</br>
-https://www.youtube.com/user/uwebdesign - хороший канал</br>
-https://www.youtube.com/user/HexletUniversity - хекслет</br>
-https://www.youtube.com/watch?v=0e9eyrxB-LU - привет интернет</br>
-https://www.youtube.com/user/HillelITSchool/videos - еще один канал</br>
+### онлайн песочница
++ http://plnkr.co/edit/?p=preview
++ https://jsfiddle.net/
+
+### КАРТА РАЗВИТИЯ НАВЫКОВ ПРОГРАММИСТА
++ https://github.com/zualex/devmap
+
+### ТОРРЕНТ КУРСЫ
++ https://torrents-club.org/viewtopic.php?t=91006
++ http://tparser.org/LoftBlog
++ http://tparser.org/GeekBrains
++ https://loftschool.com/uploads/courses/manuals/js-metod.pdf
+
+### для работы с png</br>
++ https://www.iloveimg.com/ru/resize-image - менять размер
++ https://online-fotoshop.ru/ubrat-fon-online/ - белый фон
++ https://www.imgonline.com.ua/replace-color-result.php - менять цвет
