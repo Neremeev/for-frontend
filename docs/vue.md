@@ -1,31 +1,35 @@
-https://www.youtube.com/watch?v=HSbj0dKErtY&list=PLswdBLT9llbjS2o4xreJqgBRjTmkEz6sv - крутые стримы</br>
+### крутые стримы на различные темы
++ [Live Streams](https://www.youtube.com/watch?v=HSbj0dKErtY&list=PLswdBLT9llbjS2o4xreJqgBRjTmkEz6sv)
 
-ОЧЕНЬ МНОГО РАЗЛИЧНЫХ ПРОЕКТОВ НА VUE СУПЕР КАЧАТЬ ВСЕМ!!!</br>
-https://yadi.sk/d/WnXDztJw3Zufv3</br>
+### Около тысячи проектов с гитхаба на vue
++ https://yadi.sk/d/WnXDztJw3Zufv3</br>
 
-https://yadi.sk/d/iym0t54t3ZtvRf - карта для изучения vue</br>
+### карта для изучения vue
++ https://yadi.sk/d/iym0t54t3ZtvRf
 
-книга - https://yadi.sk/d/3uMB9ewV3Zu2Yx</br>
+### книга
++ https://yadi.sk/d/3uMB9ewV3Zu2Yx
 
-Документация</br>
-https://ru.vuejs.org/index.html</br>
-https://vuex.vuejs.org/ru/guide/</br>
-https://learn.javascript.ru/courses/vue</br>
-https://metanit.com/web/vuejs/</br>
+### Документация
++ https://ru.vuejs.org/index.html
++ https://vuex.vuejs.org/ru/guide/
++ https://learn.javascript.ru/courses/vue - платный
++ https://metanit.com/web/vuejs/
 
-Статьи</br>
+### Статьи
 https://medium.com/devschacht/vue-js-considerations-and-tricks-58ec768ac237</br>
 https://medium.com/devschacht/%D0%BF%D0%BE%D1%87%D0%B5%D0%BC%D1%83-%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B8-%D1%85%D0%BE%D1%82%D1%8F%D1%82-%D1%83%D1%87%D0%B8%D1%82%D1%8C-vue-js-63aa3b456dfa</br>
 https://habr.com/post/329452/</br>
 https://mkdev.me/posts/kak-i-zachem-mkdev-pereshyol-na-vue-js</br>
 
-ВК</br>
-https://vk.com/vuejs</br>
-Телеграмм</br>
-@vuejs_ru</br>
-@ru_vuejs</br>
+### ВК
++ https://vk.com/vuejs
 
-Видеокурсы</br>
+### Телеграмм
++ @vuejs_ru
++ @ru_vuejs
+
+### Видеокурсы</br>
 https://www.youtube.com/channel/UCrpvmiGAeKSkmM-fpyuwYjw - канал</br>
 https://www.youtube.com/watch?v=diPpV20TOUs&list=PLLvTAhHe8AYCf1RDc2l2ZWriPfMf-yZel</br>
 https://www.youtube.com/watch?v=NtlVno8igVQ&list=PL0lO_mIqDDFVVNsIt02JBIdBkjNVHIoum</br>
@@ -43,10 +47,22 @@ https://www.youtube.com/watch?v=9y_gbVt9oio</br>
 https://www.youtube.com/watch?v=8SeI7Vyfvcc</br>
 
 
-Пишем приложение</br>
+### Пишем приложение</br>
 https://www.youtube.com/watch?v=Bip6Sdn_QpM&list=PLLd6Lzq1_u-emTVzsgpLMTxK9W68Sdzxp</br>
 https://www.youtube.com/watch?v=InAWVrLnycw</br>
 
-Торренты</br>
-http://tparser.org/vue</br>
-http://nnm-club.me/vue</br>
+### Торренты (зайти на сайт и ввести в строке поиска значение)
++ http://tparser.org/vue - много курсов со всех торрентов
++ http://nnm-club.me - через внп
++ еще трекеры(через внп):
+  + http://torrentikofilm.com
+  + http://underverse.in
+  + http://torrent-soft.net
+  + http://ru-zerkalo.org
+  + https://omn-omn-omn.ru
+  + https://smart-torrent.org
+  + http://torrent-soft.net
+  + http://rutorka.net
+  + http://ba3a.net
+  + http://torrents43
+  + http://trackerok.org
