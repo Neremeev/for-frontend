@@ -51,23 +51,22 @@ https://www.youtube.com/user/HexletUniversity - хекслет</br>
 https://www.youtube.com/watch?v=0e9eyrxB-LU - привет интернет</br>
 https://www.youtube.com/user/HillelITSchool/videos - еще один канал</br>
 
-### БИБЛИОТЕКИ ДЛЯ JS</br>
-lodash</br>
-https://habr.com/post/217515/</br>
-https://www.youtube.com/watch?v=7yl_1X0PmG0</br>
-https://www.youtube.com/watch?v=Tv2KWiUtdKM </br>
-JQUERY</br>
-https://www.youtube.com/watch?v=458mWXnWSmA&list=PL0lO_mIqDDFXQk_TTlSO7y7J1l5e-RMgi</br>
-https://www.youtube.com/watch?v=B4jWRrz3FUM</br>
-https://www.youtube.com/watch?v=oIin1ffkYvw&t=64s</br>
-https://www.youtube.com/watch?v=e2cmspV3URY</br>
-https://www.youtube.com/watch?v=_Lhhw_Tdv24</br>
-http://getbootstrap.com/</br>
-https://habr.com/post/38208/</br>
-http://www.wisdomweb.ru/JQ/jquery-first.php</br>
-https://html5book.ru/javascript-jquery/</br>
-http://anton.shevchuk.name/jquery-book/ </br>
-
+### БИБЛИОТЕКИ ДЛЯ JS
++ lodash
+  + [lodash (underscore) — знай свою стандартную библиотеку](https://habr.com/post/217515/)
+  + [Lodash](https://www.youtube.com/watch?v=7yl_1X0PmG0)
+  + [Библиотека Lodash.js.](https://www.youtube.com/watch?v=Tv2KWiUtdKM)
++ JQUERY
+  + [Изучаем jQuery ](https://www.youtube.com/watch?v=458mWXnWSmA&list=PL0lO_mIqDDFXQk_TTlSO7y7J1l5e-RMgi)
+  + [Уроки jQuery #1](https://www.youtube.com/watch?v=B4jWRrz3FUM)
+  + [Как сделать калькулятор на сайт на JQUERY. Учимся писать скрипты.](https://www.youtube.com/watch?v=oIin1ffkYvw&t=64s)
+  + [Практика. Пишем меню на jQuery](https://www.youtube.com/watch?v=e2cmspV3URY)
+  + [jQuery #1: Адаптивное меню](https://www.youtube.com/watch?v=_Lhhw_Tdv24)
+  + [jQuery для начинающих](https://habr.com/post/38208/)
+  + [Что такое jQuery?](http://www.wisdomweb.ru/JQ/jquery-first.php)
+  + [JavaScript и jQuery](https://html5book.ru/javascript-jquery/)
+  + [Учебник “jQuery для начинающих”](http://anton.shevchuk.name/jquery-book/ )
+  
 ### СООБЩЕСТВА В ВК
 + https://vk.com/jovitoru
 + https://vk.com/fe_development
