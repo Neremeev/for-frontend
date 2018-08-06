@@ -46,6 +46,39 @@ https://ru.hexlet.io/blog/posts/css-grid-is-better</br>
 https://tproger.ru/translations/getting-started-with-css-grid/</br>
 
 
+Флексбокс:</br> 
+https://css-tricks.com/snippets/css/a-guide-to-flexbox/ - гайд по флексам.</br>
+http://css-live.ru/articles/vizualnoe-rukovodstvo-po-svojstvam-flexbox-iz-css3.html</br>
+https://www.youtube.com/watch?v=38bMnJ2l4bg&t=1s</br>
+https://www.youtube.com/watch?v=7Lg-438gAc8&list=PLqHlAwsJRxAPs942EdJ1akeWpOg2yatiM</br>
+https://www.youtube.com/watch?v=duWfUzXPgNc</br>
+https://www.youtube.com/watch?v=hrFPD0nkRVA</br>
+https://www.youtube.com/watch?v=yK7WEt-CdhI</br>
+https://www.youtube.com/watch?v=FLbvUFVr3bg</br>
+https://www.youtube.com/watch?v=C2W7ICgGRbo&list=PLVfMKQXDAhGVkBdjLJmb4TwLAnEhtiQf-</br>
+
+Грид</br> 
+https://www.youtube.com/watch?v=-fDqBEjfzGo&t=1993s</br> 
+https://www.youtube.com/watch?v=m16v1KkZoi8</br> 
+https://www.youtube.com/watch?v=s6RCsjcQADc</br> 
+https://www.youtube.com/watch?v=IPZbSM-Wpos</br> 
+https://www.youtube.com/watch?v=iNPE0zGucTo</br> 
+
+bootstrap 4</br> 
+https://www.youtube.com/watch?v=2JMMnNOhDoc</br> 
+https://www.youtube.com/watch?v=Xoo5WT5tW2I&list=PLVfMKQXDAhGUxJ4prQSC2K13-YlYj8LgB</br> 
+https://www.youtube.com/watch?v=SQIh8SBXc5c</br> 
+
+
+предпроцессоры</br>
+http://sass-lang.com/, http://lesscss.ru/, http://lesscss.org/, http://learnboost.github.io/stylus/</br> 
+https://www.youtube.com/watch?v=H4cG4tbc-xQ - sass</br> 
+https://www.youtube.com/watch?v=EO8mZZxNuBI - sass</br> 
+https://sass-scss.ru/ - sass документация на русском</br> 
+
+
+
+
 Видеоуроки</br>
 https://www.youtube.com/watch?v=TZSY6rDUDrE&list=PL0lO_mIqDDFUQI5lrRlZfkApMWtJJ7GFE</br>
 https://www.youtube.com/watch?v=AYkEfr-5b1o&list=PLypd1VrGv7FPokhw3f5pwBQTHsU9T2mBq</br>
