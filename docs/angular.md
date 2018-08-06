@@ -1,3 +1,6 @@
+https://t.me/angular_rush
+https://t.me/angular_universal_ru
+
 Книги</br>
 https://yadi.sk/d/GwETHdc93Ztvgy</br>
 
