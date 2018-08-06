@@ -107,17 +107,21 @@ http://keycode.info/ - кейкод</br>
 ### Торренты (зайти на сайт и ввести в строке поиска значение)
 + http://tparser.org/js - много курсов со всех торрентов
 + http://nnm-club.me - через внп
-+ еще трекеры:
++ еще трекеры(через внп):
   + http://torrentikofilm.com
   + http://underverse.in
   + http://torrent-soft.net
   + http://ru-zerkalo.org
   + https://omn-omn-omn.ru
+  + https://smart-torrent.org
+  + http://torrent-soft.net
+  + http://rutorka.net
+  + http://ba3a.net
+  + http://torrents43
 
 ТОРРЕНТ КУРСЫ ПО JS</br>
-https://smart-torrent.org/viewtopic.php?t=119014</br>
-http://torrent-soft.net/torrent-teach/134-javascript-jquery-dlya-nachinayuschih-v-videoformate-2010.html</br>
-http://rutorka.net/mihail-rusakov-javascript-jquery-i-ajax-s-nulya-do-guru-pcrec-t20761.html</br>
-http://ba3a.net/view.php?t=800300-kompleksnoe-obuchenie-javascript-videokurs-2016-pcrec</br>
-http://torrents43.com/torrent/858375/</br>
-http://underverse.in/viewtopic.php?t=98207</br>
++ [HTML Academy | Интенсивный онлайн-курс «Базовый JavaScript» (2017) PCRec [H.264]](https://smart-torrent.org/viewtopic.php?t=119014)
++ [Михаил Русаков | javascript, jQuery и Ajax с Нуля до Гуру [2013] PCRec](http://rutorka.net/mihail-rusakov-javascript-jquery-i-ajax-s-nulya-do-guru-pcrec-t20761.html)
++ [Комплексное обучение JavaScript. Видеокурс (2016) PCRec](http://ba3a.net/view.php?t=800300-kompleksnoe-obuchenie-javascript-videokurs-2016-pcrec)
++ [Специалист | JavaScript. Уровень 2. Расширенные возможности (2014) PCRec](http://torrents43.com/torrent/858375/)
++ [Джон Дакетт - Javascript и jQuery. Интерактивная веб-разработка 2017](http://underverse.in/viewtopic.php?t=98207)
