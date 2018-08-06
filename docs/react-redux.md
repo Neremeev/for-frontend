@@ -68,12 +68,14 @@ https://learn-reactjs.ru/introduction/introduction-in-reactjs - сайт learn.r
 ### Торренты (зайти на сайт и ввести в строке поиска значение)
 + http://tparser.org/react - много курсов со всех торрентов
 + http://nnm-club.me - через внп
-+ еще трекеры:
++ еще трекеры(через внп):
   + http://torrentikofilm.com
   + http://underverse.in
   + http://torrent-soft.net
   + http://ru-zerkalo.org
   + https://omn-omn-omn.ru
+  + https://smart-torrent.org
+  + http://torrent-soft.net
   + http://rutorka.net
   + http://ba3a.net
   + http://torrents43
