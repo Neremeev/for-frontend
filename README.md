@@ -7,7 +7,7 @@
 3.2) [ANGULARJS](/docs/angular.md)<br/>
 3.3) [VUE.JS](/docs/vue.md)<br/>
 4) [РАЗНОЕ](/docs/frontend.md)<br/>
-5) [IN ENGLISH](/docs/inEnglsh.md)<br/>
+5) [IN ENGLISH](/docs/inEnglish.md)<br/>
 6) [Тестовые задания](/docs/test)<br/>
 7) [TYPESCRIPT](/docs/typeScript.md)<br/>
 8) [BOOTSTRAP/FLEXBOX/GRID/SASS](/docs/bootstrap.md)<br/>
