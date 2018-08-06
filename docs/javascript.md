@@ -62,39 +62,20 @@
 + [Урок 11 - Как сделать игру на javascript. Создаем игру Agar.io (Агарио) / PointJS](https://www.youtube.com/watch?v=A7XvDwmRULc)
 + [Урок 1 - Как сделать свою игру и анимацию на языке JavaScript. Создание игр. Движок PointJS](https://www.youtube.com/watch?v=44HQzJJRGI4)
 + [Как сделать ВЕБ приложение? Пишем пианино на HTML, CSS, JavaScript](https://www.youtube.com/watch?v=8REIh6onObw)
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-
-1. Пишем змейку за 4 мин 30 сек. </br>
-https://www.youtube.com/watch?v=xGmXxpIj6vs</br>
-2. Создание цветных часов на JS</br>
-https://www.youtube.com/watch?v=demj6ly-Mjg</br>
-3. Создание игры "Крестики-нолики" </br>
-https://www.youtube.com/watch?v=PrXD97zx_Rc</br>
-4. Создание рейтинга на сайт </br>
-https://www.youtube.com/watch?v=M2snoHCkR_I</br>
-5. Разработка игры змейка от начала до конца </br>
-https://www.youtube.com/watch?v=GA9SftvhiuE</br>
-6. Создание раннера</br>
-https://www.youtube.com/watch?v=s1NwMmjnrTY</br>
-7. Создание основы для популярной игры "Жизнь" с помощью JS и Canvas</br>
-https://www.youtube.com/watch?v=OayZHKZvcsg</br>
-https://www.youtube.com/watch?v=PjmMIngDj0c</br>
-https://habr.com/post/202304/</br>
-
-https://www.youtube.com/watch?v=9Ec7n7yryQU</br>
-https://www.youtube.com/watch?v=YNZjcDk98rs</br>
-https://www.youtube.com/watch?v=N-_LIlymjPs</br>
-https://www.youtube.com/watch?v=xNSjZfFygL0</br>
-https://www.youtube.com/watch?v=043YeuJt6-4</br>
-https://www.youtube.com/watch?v=F9S5IQkntuc</br>
-https://www.youtube.com/watch?v=blLxGaEoTNQ</br>
-https://www.youtube.com/watch?v=cJxcsu0IH10</br>
++ [Создание цветных часов на JavaScript](https://www.youtube.com/watch?v=demj6ly-Mjg)
++ [Рейтинг на сайт на чистом Javascript. Звездный рейтинг](https://www.youtube.com/watch?v=M2snoHCkR_I)
++ [JavaScript - Разработка игры ЗМЕЙКА от начала до конца.](https://www.youtube.com/watch?v=GA9SftvhiuE)
++ [Создание раннера](https://www.youtube.com/watch?v=s1NwMmjnrTY)
++ [JavaScript Canvas 8. Игра "Жизнь"](https://www.youtube.com/watch?v=OayZHKZvcsg)
++ [JavaScript Решает. Бургер меню](https://www.youtube.com/watch?v=PjmMIngDj0c)
++ [Крошечный Excel на чистом JavaScript (30 строк кода)](https://habr.com/post/202304/)
++ [Создание JavaScript Игры - 01 Начало](https://www.youtube.com/watch?v=9Ec7n7yryQU)
++ [Игра "Змейка" на HTML5 (чистый JavaScript) [Таймлапс]](https://www.youtube.com/watch?v=YNZjcDk98rs)
++ [Учимся разрабатывать 2D realtime игры на JavaScript [GeekBrains]](https://www.youtube.com/watch?v=N-_LIlymjPs)
++ [Создание игры Bounce, меню, уровни, развитие игры на JavaScript](https://www.youtube.com/watch?v=xNSjZfFygL0)
++ [Игра сапер на JS](https://www.youtube.com/watch?v=043YeuJt6-4)
++ [Как создать онлайн игру? MMORPG on JavaScript - Авторизация в игре](https://www.youtube.com/watch?v=blLxGaEoTNQ)
++ [Уроки по JavaScript. Делаем игру Лабиринт на Джаваскрипт (Часть 2)](https://www.youtube.com/watch?v=cJxcsu0IH10)
 
 
 ЗАДАЧИ ПО JS</br>
