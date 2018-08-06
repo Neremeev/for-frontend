@@ -17,10 +17,10 @@
 + https://metanit.com/web/vuejs/
 
 ### Статьи
-https://medium.com/devschacht/vue-js-considerations-and-tricks-58ec768ac237</br>
-https://medium.com/devschacht/%D0%BF%D0%BE%D1%87%D0%B5%D0%BC%D1%83-%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B8-%D1%85%D0%BE%D1%82%D1%8F%D1%82-%D1%83%D1%87%D0%B8%D1%82%D1%8C-vue-js-63aa3b456dfa</br>
-https://habr.com/post/329452/</br>
-https://mkdev.me/posts/kak-i-zachem-mkdev-pereshyol-na-vue-js</br>
++ [Vue.js — соображения и трюки](https://medium.com/devschacht/vue-js-considerations-and-tricks-58ec768ac237)
++ [Почему 43% фронтенд-разработчиков хотят изучить Vue.js](https://medium.com/devschacht/%D0%BF%D0%BE%D1%87%D0%B5%D0%BC%D1%83-%D1%84%D1%80%D0%BE%D0%BD%D1%82%D0%B5%D0%BD%D0%B4-%D1%80%D0%B0%D0%B7%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D1%87%D0%B8%D0%BA%D0%B8-%D1%85%D0%BE%D1%82%D1%8F%D1%82-%D1%83%D1%87%D0%B8%D1%82%D1%8C-vue-js-63aa3b456dfa)
++ [Как и зачем mkdev перешёл на Vue.js](https://mkdev.me/posts/kak-i-zachem-mkdev-pereshyol-na-vue-js)
++ [Vue.js для сомневающихся. Все, что нужно знать](https://habr.com/post/329452/)
 
 ### ВК
 + https://vk.com/vuejs
@@ -29,7 +29,9 @@ https://mkdev.me/posts/kak-i-zachem-mkdev-pereshyol-na-vue-js</br>
 + @vuejs_ru
 + @ru_vuejs
 
-### Видеокурсы</br>
+### Видеокурсы
++ []()
++ []()
 https://www.youtube.com/channel/UCrpvmiGAeKSkmM-fpyuwYjw - канал</br>
 https://www.youtube.com/watch?v=diPpV20TOUs&list=PLLvTAhHe8AYCf1RDc2l2ZWriPfMf-yZel</br>
 https://www.youtube.com/watch?v=NtlVno8igVQ&list=PL0lO_mIqDDFVVNsIt02JBIdBkjNVHIoum</br>
@@ -47,9 +49,9 @@ https://www.youtube.com/watch?v=9y_gbVt9oio</br>
 https://www.youtube.com/watch?v=8SeI7Vyfvcc</br>
 
 
-### Пишем приложение</br>
-https://www.youtube.com/watch?v=Bip6Sdn_QpM&list=PLLd6Lzq1_u-emTVzsgpLMTxK9W68Sdzxp</br>
-https://www.youtube.com/watch?v=InAWVrLnycw</br>
+### Пишем приложение
++ [Vue.js 2 Урок 1 Первые шаги](https://www.youtube.com/watch?v=Bip6Sdn_QpM&list=PLLd6Lzq1_u-emTVzsgpLMTxK9W68Sdzxp)
++ [Делаем учебный проект «Каталог фильмов» на Vue.js](https://www.youtube.com/watch?v=InAWVrLnycw)
 
 ### Торренты (зайти на сайт и ввести в строке поиска значение)
 + http://tparser.org/vue - много курсов со всех торрентов
