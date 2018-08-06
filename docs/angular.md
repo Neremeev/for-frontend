@@ -37,7 +37,20 @@
 + [AngularJS - уроки по созданию Trello](https://www.youtube.com/watch?v=U_vGNa8EB1c&list=PLIcAMDxr6tpqXR3K_HNw4EIdBE8YeK7H3)
 
 ### Пишем приложение на angular
-https://www.youtube.com/watch?v=XVzed9zlVfw
++ [Простое приложение на Angular за 2 часа | Компьютерная школа Hillel](https://www.youtube.com/watch?v=XVzed9zlVfw)
++ [Создание веб-приложения с Angular 1.5, Firebase и Gulp]()
++ [Angular - вступительные лекция]()
++ [Создаем TO DO приложение на Angular с нуля. SPA на Angular. Часть 1. Вступление.]()
++ [Создание одностраничного Веб-приложения на AngularJS. Использование WEB.API сервисов]()
++ [Angular.js]()
++ [Создание сервиса в Angular JS]()
++ [Обзор Angular JS]()
++ [Angular+Meteor. Ускоренное создание приложений [GeekBrains]]()
++ []()
++ []()
++ []()
++ []()
+
 https://www.youtube.com/watch?v=eCQ8IkvANvk
 https://www.youtube.com/watch?v=LnG93lhmVoM
 https://www.youtube.com/watch?v=vN6GUWSA0CM
