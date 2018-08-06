@@ -1,5 +1,5 @@
-книги</br>
-https://yadi.sk/d/77shUeGW3Zuwgu</br>
+### книги
++ https://yadi.sk/d/77shUeGW3Zuwgu
 
 Сайты</br>
 https://git-scm.com/book/ru/v1/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-Git</br>
@@ -16,7 +16,7 @@ https://www.youtube.com/watch?v=JfpCicDUMKc
 https://www.youtube.com/playlist?list=PLmRNNqEA7JoM77hOJkPrLOfJQGizCLR3P - git
 
 
-Статьи</br>
+### Статьи</br>
 https://tproger.ru/translations/git-quick-start/</br>
 https://habr.com/post/342116/</br>
 https://www.hostinger.ru/rukovodstva/osnovi-git-chto-takoe-git</br>
@@ -28,7 +28,7 @@ http://webdesign.ru.net/article/pravila-oformleniya-fayla-readmemd-na-github.htm
 http://coddism.com/zametki/razmetka_readmemd_v_github</br>
 
 
-Видеоуроки</br>
+### Видеоуроки</br>
 https://www.youtube.com/watch?v=en6gms6e54Q&list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR</br>
 https://www.youtube.com/watch?v=mpK_MYb38zs&list=PLoonZ8wII66iUm84o7nadL-oqINzBLk5g</br>
 https://www.youtube.com/watch?v=JfpCicDUMKc&t=14s</br>
@@ -41,12 +41,25 @@ https://www.youtube.com/watch?v=UAIADVwXwUo&list=PLOQDek48BpZFaSumYo2kwQfcyrZEF6
 https://www.youtube.com/watch?v=ttDK7nwoGnU&list=PLIcAMDxr6tpqJ3FHGVpYVn-puu6CJiOKh</br>
 https://www.youtube.com/watch?v=nRXacgNHNVw</br>
 
-Торренты </br>
-http://tparser.org/</br>
-http://nnm-club.me</br>
+### Торренты (зайти на сайт и ввести в строке поиска значение)
++ http://tparser.org/git - много курсов со всех торрентов
++ http://nnm-club.me - через внп
++ еще трекеры(через внп):
+  + http://torrentikofilm.com
+  + http://underverse.in
+  + http://torrent-soft.net
+  + http://ru-zerkalo.org
+  + https://omn-omn-omn.ru
+  + https://smart-torrent.org
+  + http://torrent-soft.net
+  + http://rutorka.net
+  + http://ba3a.net
+  + http://torrents43
+  + http://trackerok.org
 
-ВК
-https://vk.com/go_git
-Телеграмм
-@githubtrending
-github_repos
+### ВК
++ https://vk.com/go_git
+
+### Телеграмм
++ @githubtrending
++ github_repos
