@@ -1,10 +1,10 @@
-книги</br>
-https://yadi.sk/d/1_JOIMkm3Zuwjg</br>
+### книги
++ https://yadi.sk/d/1_JOIMkm3Zuwjg
 
 
 https://www.youtube.com/watch?v=LP7s_ThcO5k&index=3&list=PLOQDek48BpZEs9-NCQGC6HOSfEbXReVjA
 
-Сайты</br>
+### Сайты</br>
 http://bootstrap-4.ru/</br>
 http://getbootstrap.ru/</br>
 http://mybootstrap.ru/</br>
@@ -18,7 +18,7 @@ http://css.yoksel.ru/flexbox/</br>
 http://css-live.ru/articles/vizualnoe-rukovodstvo-po-svojstvam-flexbox-iz-css3.html</br>
 
 
-Статьи</br>
+### Статьи</br>
 https://proglib.io/p/bootstrap-4-part-1/</br>
 https://helpx.adobe.com/ru/dreamweaver/using/bootstrap.html</br>
 https://medium.com/@stasonmars/%D1%81%D0%B0%D0%BC%D1%8B%D0%B5-%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B5-%D1%85%D0%B8%D1%82%D1%80%D0%BE%D1%81%D1%82%D0%B8-%D0%B2-bootstrap-f194058dc177</br>
@@ -46,7 +46,7 @@ https://ru.hexlet.io/blog/posts/css-grid-is-better</br>
 https://tproger.ru/translations/getting-started-with-css-grid/</br>
 
 
-Флексбокс:</br> 
+### Флексбокс:</br> 
 https://css-tricks.com/snippets/css/a-guide-to-flexbox/ - гайд по флексам.</br>
 http://css-live.ru/articles/vizualnoe-rukovodstvo-po-svojstvam-flexbox-iz-css3.html</br>
 https://www.youtube.com/watch?v=38bMnJ2l4bg&t=1s</br>
@@ -57,20 +57,20 @@ https://www.youtube.com/watch?v=yK7WEt-CdhI</br>
 https://www.youtube.com/watch?v=FLbvUFVr3bg</br>
 https://www.youtube.com/watch?v=C2W7ICgGRbo&list=PLVfMKQXDAhGVkBdjLJmb4TwLAnEhtiQf-</br>
 
-Грид</br> 
+### Грид</br> 
 https://www.youtube.com/watch?v=-fDqBEjfzGo&t=1993s</br> 
 https://www.youtube.com/watch?v=m16v1KkZoi8</br> 
 https://www.youtube.com/watch?v=s6RCsjcQADc</br> 
 https://www.youtube.com/watch?v=IPZbSM-Wpos</br> 
 https://www.youtube.com/watch?v=iNPE0zGucTo</br> 
 
-bootstrap 4</br> 
+### bootstrap 4</br> 
 https://www.youtube.com/watch?v=2JMMnNOhDoc</br> 
 https://www.youtube.com/watch?v=Xoo5WT5tW2I&list=PLVfMKQXDAhGUxJ4prQSC2K13-YlYj8LgB</br> 
 https://www.youtube.com/watch?v=SQIh8SBXc5c</br> 
 
 
-предпроцессоры</br>
+### предпроцессоры</br>
 http://sass-lang.com/, http://lesscss.ru/, http://lesscss.org/, http://learnboost.github.io/stylus/</br> 
 https://www.youtube.com/watch?v=H4cG4tbc-xQ - sass</br> 
 https://www.youtube.com/watch?v=EO8mZZxNuBI - sass</br> 
@@ -79,7 +79,7 @@ https://sass-scss.ru/ - sass документация на русском</br>
 
 
 
-Видеоуроки</br>
+### Видеоуроки</br>
 https://www.youtube.com/watch?v=TZSY6rDUDrE&list=PL0lO_mIqDDFUQI5lrRlZfkApMWtJJ7GFE</br>
 https://www.youtube.com/watch?v=AYkEfr-5b1o&list=PLypd1VrGv7FPokhw3f5pwBQTHsU9T2mBq</br>
 https://www.youtube.com/watch?v=9akF4udEueA&list=PLY4rE9dstrJwP_JUTts9AtMVtJlJVGxWK</br>
@@ -126,13 +126,23 @@ https://www.youtube.com/watch?v=iWOGk_b2yac</br>
 https://www.youtube.com/watch?v=iy5geRAZGm8</br>
 https://www.youtube.com/watch?v=viWBi8YZHXU&list=PLcVuGt1dXgc0G1pCG1J9KjTFtTMsSs_9z</br>
 
+### Торренты (зайти на сайт и ввести в строке поиска значение)
++ http://tparser.org/
++ http://nnm-club.me - через внп
++ еще трекеры(через внп):
+  + http://torrentikofilm.com
+  + http://underverse.in
+  + http://torrent-soft.net
+  + http://ru-zerkalo.org
+  + https://omn-omn-omn.ru
+  + https://smart-torrent.org
+  + http://torrent-soft.net
+  + http://rutorka.net
+  + http://ba3a.net
+  + http://torrents43
+  + http://trackerok.org
 
-Торренты </br>
-http://tparser.org/</br>
-http://nnm-club.me</br>
-
-
-ВК</br>
-https://vk.com/twitter_bootstrap</br>
-https://vk.com/bootstraphtml5</br>
-https://vk.com/free_web_wordpress</br>
+### ВК
++ https://vk.com/twitter_bootstrap
++ https://vk.com/bootstraphtml5
++ https://vk.com/free_web_wordpress
