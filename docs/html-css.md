@@ -89,12 +89,18 @@
 + http://tparser.org/html - много курсов со всех торрентов
 + http://tparser.org/css - много курсов со всех торрентов
 + http://nnm-club.me - через внп
-+ еще трекеры:
++ еще трекеры(через внп):
   + http://torrentikofilm.com
   + http://underverse.in
   + http://torrent-soft.net
   + http://ru-zerkalo.org
   + https://omn-omn-omn.ru
+  + https://smart-torrent.org
+  + http://torrent-soft.net
+  + http://rutorka.net
+  + http://ba3a.net
+  + http://torrents43
+  + http://trackerok.org
 
 ### КУРСЫ НА ТОРРЕНТАХ (возможно ссылки уже не работают)
 + [012345
