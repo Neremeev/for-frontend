@@ -42,24 +42,34 @@
 + [про ajax запросы](https://www.youtube.com/watch?v=eexjaaFlOPY)
 + [большая лекция про асихнхронность в js](https://www.youtube.com/watch?v=Ih6Q7ka2eSQ)
 
-### ЦИКЛ ВИДЕОУРОКОВ НА ТЕМУ: "ПИШЕМ ПРИЛОЖЕНИЕ НА JS"</br>
-https://www.youtube.com/watch?v=XByK_MG_T_M</br>
-https://www.youtube.com/watch?v=1ieQD20Cs0o</br>
-https://www.youtube.com/watch?v=iGCMkmnm89M&list=PLf0k8CBUad-sHxpoBHLHIr3CwWfSmOYZR</br>
-https://www.youtube.com/watch?v=-YWO-YFW9Ag</br>
-https://www.youtube.com/watch?v=PrXD97zx_Rc</br>
-https://www.youtube.com/watch?v=7Z0mvB6X5f8</br>
-https://www.youtube.com/watch?v=742Yk1W41tc</br>
-https://www.youtube.com/watch?v=Ac0A2x7RxUw</br>
-https://www.youtube.com/watch?v=_x2LKYwgrPU&t=523s</br>
-https://www.youtube.com/watch?v=rLNxhkmVdE8&t=9s</br>
-https://www.youtube.com/watch?v=4FuuyOSdOhc</br>
-https://www.youtube.com/watch?v=asnp3xm_vfY</br>
-https://www.youtube.com/watch?v=oIin1ffkYvw</br>
-https://www.youtube.com/watch?v=Xfh689C9QNU</br>
-https://www.youtube.com/watch?v=A7XvDwmRULc</br>
-https://www.youtube.com/watch?v=44HQzJJRGI4</br>
-https://www.youtube.com/watch?v=8REIh6onObw</br>
+
+### ЦИКЛ ВИДЕОУРОКОВ НА ТЕМУ: "ПИШЕМ ПРИЛОЖЕНИЕ НА JS"
+
++ [Создание приложения на JavaScript](https://www.youtube.com/watch?v=XByK_MG_T_M)
++ [Создание игры на чистом JavaScript за 20 минут](https://www.youtube.com/watch?v=1ieQD20Cs0o)
++ [Основное понятие Игрового цикла, JavaScript requestAnimationFrame. Ссылки на функции](https://www.youtube.com/watch?v=iGCMkmnm89M&list=PLf0k8CBUad-sHxpoBHLHIr3CwWfSmOYZR)
++ [Учим JavaScript 31. Крестики-нолики](https://www.youtube.com/watch?v=-YWO-YFW9Ag)
++ [Практика Javascript. Создаем игру крестики-нолики на чистом Javascript](https://www.youtube.com/watch?v=PrXD97zx_Rc)
++ [Уроки по JavaScript. Как сделать простую игру кликер на JavaScript](https://www.youtube.com/watch?v=7Z0mvB6X5f8)
++ [Учим JavaScript 33. Создаем ToDo список дел](https://www.youtube.com/watch?v=742Yk1W41tc)
++ [Практика JavaScript. Задача #2. ToDo List.](https://www.youtube.com/watch?v=Ac0A2x7RxUw)
++ [Создаем свой первый to do list на JavaScript](https://www.youtube.com/watch?v=_x2LKYwgrPU&t=523s)
++ [Как просто создать to do list на JavaScript [GeekBrains]](https://www.youtube.com/watch?v=rLNxhkmVdE8&t=9s)
++ [Создаём чат-ботов Telegram на JavaScript [GeekBrains]](https://www.youtube.com/watch?v=4FuuyOSdOhc)
++ [Учим JavaScript 5. Простой калькулятор](https://www.youtube.com/watch?v=asnp3xm_vfY)
++ [Как сделать калькулятор на сайт на JQUERY. Учимся писать скрипты.](https://www.youtube.com/watch?v=oIin1ffkYvw)
++ [Учим Java Script 8. Игра "Угадай число"](https://www.youtube.com/watch?v=Xfh689C9QNU)
++ [Урок 11 - Как сделать игру на javascript. Создаем игру Agar.io (Агарио) / PointJS](https://www.youtube.com/watch?v=A7XvDwmRULc)
++ [Урок 1 - Как сделать свою игру и анимацию на языке JavaScript. Создание игр. Движок PointJS](https://www.youtube.com/watch?v=44HQzJJRGI4)
++ [Как сделать ВЕБ приложение? Пишем пианино на HTML, CSS, JavaScript](https://www.youtube.com/watch?v=8REIh6onObw)
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
+
 1. Пишем змейку за 4 мин 30 сек. </br>
 https://www.youtube.com/watch?v=xGmXxpIj6vs</br>
 2. Создание цветных часов на JS</br>
