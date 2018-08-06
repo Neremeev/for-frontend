@@ -15,6 +15,8 @@ https://eax.me/git-commands/</br>
 https://proglib.io/p/git-for-half-an-hour/</br>
 https://ruhighload.com/5+%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%BE%D0%B2+%D0%BF%D0%BE+%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E+git</br>
 
+http://webdesign.ru.net/article/pravila-oformleniya-fayla-readmemd-na-github.html - как оформить readme.md
+
 
 Видеоуроки</br>
 https://www.youtube.com/watch?v=en6gms6e54Q&list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR</br>
