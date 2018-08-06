@@ -76,15 +76,6 @@ https://habr.com/post/313234/ - проект
 https://www.youtube.com/channel/UCP-xJwnvKCGyS-nbyOx1Wmg/videos - канал js
 https://tproger.ru/translations/9-useful-tips-react/ - про реакт
 
-
-
-### ПРО ГИТ
-https://git-scm.com/book/ru/v1
-http://randomfederation.github.io/
-https://www.youtube.com/watch?v=JfpCicDUMKc
-https://www.youtube.com/playlist?list=PLmRNNqEA7JoM77hOJkPrLOfJQGizCLR3P - git
-
-
 ### СООБЩЕСТВА В ВК
 + https://vk.com/jovitoru
 + https://vk.com/fe_development
