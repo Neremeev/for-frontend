@@ -103,6 +103,8 @@ http://keycode.info/ - кейкод</br>
 + https://t.me/javascriptjobs
 + https://t.me/js_ru
 + https://t.me/js_noobs_ru
++ https://t.me/joinchat/Be4rsT3Uyr1TjmSlrRc77g
++ https://t.me/JSlang
 
 ### Торренты (зайти на сайт и ввести в строке поиска значение)
 + http://tparser.org/js - много курсов со всех торрентов
