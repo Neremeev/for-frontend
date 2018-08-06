@@ -7,6 +7,15 @@ https://htmlacademy.ru/blog/187-git-console</br>
 https://githowto.com/ru</br>
 https://proglib.io/p/system-git/</br>
 
+
+
+### ПРО ГИТ
+https://git-scm.com/book/ru/v1
+http://randomfederation.github.io/
+https://www.youtube.com/watch?v=JfpCicDUMKc
+https://www.youtube.com/playlist?list=PLmRNNqEA7JoM77hOJkPrLOfJQGizCLR3P - git
+
+
 Статьи</br>
 https://tproger.ru/translations/git-quick-start/</br>
 https://habr.com/post/342116/</br>
