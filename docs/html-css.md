@@ -8,7 +8,6 @@
 + [world-html.narod.ru - html](http://world-html.narod.ru/page/teg.htm)
 + [freecodecamp.org - html/css/js](https://www.freecodecamp.org/)
 + [camouf.ru - html/css](https://camouf.ru/blog-note/?PAGEN_1=5)
-+ []()
 
 
 #### ВИДЕОУРОКИ
@@ -20,7 +19,6 @@
 + [HTML для начинающих - loftblog](https://www.youtube.com/playlist?list=PLY4rE9dstrJyeZlPWoKJr1xKVVnG4w-Hc)
 + [33 фишки CSS которые заменяют JS](https://www.youtube.com/watch?v=Ky6hZZUR9Wo)
 + [CSS анимация для самых маленьких. Анимация логотипа на миллион долларов](https://www.youtube.com/watch?v=YWjuEzhPYqs)
-+ []()
 
 
 #### КНИГИ
@@ -28,12 +26,12 @@
 
 
 
-CSS</br>
-Тесты поддержки новых возможностей в браузерах </br>
-http://html5test.com </br>
-http://css3test.com </br>
-http://caniuse.com </br>
-http://fmbip.com/litmus/#css3-properties </br>
+#### CSS
++ Тесты поддержки новых возможностей в браузерах
+  + http://html5test.com
+  + http://css3test.com
+  + http://caniuse.com
+  + http://fmbip.com/litmus/#css3-properties
 
 Набор полифилов и рекомендаций </br>
 http://html5please.com </br>
