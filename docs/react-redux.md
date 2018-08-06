@@ -60,12 +60,6 @@ https://learn-reactjs.ru/introduction/introduction-in-reactjs - сайт learn.r
 
 ### Телеграмм
 + https://t.me/reactivex
-+ https://t.me/reactnative_ru
-+ https://t.me/react_js
-
-### ВК
-+ https://vk.com/reactredux
-+ https://vk.com/reactjs
 
 ### КУРСЫ НА ТОРРЕНТ
 + [React, Redux и ES2015 с Нуля до Гуру (2016)](https://torrents-club.org/viewtopic.php?t=55779)
@@ -87,7 +81,6 @@ https://learn-reactjs.ru/introduction/introduction-in-reactjs - сайт learn.r
   + http://torrents43
   + http://trackerok.org
 
-
 ### ИНТЕРЕСНЫЕ СТАТЬИ
 + [как создать git page с приложением на react](https://codeburst.io/deploy-react-to-github-pages-to-create-an-amazing-website-42d8b09cd4d)
 + [11 библиотек для реакта](https://habr.com/company/ruvds/blog/346090/)
@@ -97,9 +90,3 @@ https://learn-reactjs.ru/introduction/introduction-in-reactjs - сайт learn.r
 + [По поводу паттернов в React](https://medium.com/@abraztsov/%D0%BF%D0%B0%D1%82%D1%82%D0%B5%D1%80%D0%BD%D1%8B-%D0%B2-react-e5092c06f019)
 + [Паттерны React](https://habr.com/post/309422/)
 + [отличные примеры на реакт](https://avrylkov.github.io/react/)
-
-
-### ПОДПИСКИ НА МЕДИУМ
-+ https://medium.com/@abraztsov
-+ https://medium.com/@jmuse
-+ https://medium.com/@apolyntsev
