@@ -40,8 +40,6 @@
 + [Начало работы с CSS Grid Layout: подборка полезных ресурсов и руководств](https://tproger.ru/translations/getting-started-with-css-grid/)
 
 
-
-
 ### Видеоуроки
 
 + Плейлисты
@@ -77,58 +75,27 @@
   + [CSS Grid: адаптивная верстка реального макета (CSS Grid Real Example)](https://www.youtube.com/watch?v=iNPE0zGucTo)
   + [Sass для самых маленьких - подробное руководство](https://www.youtube.com/watch?v=H4cG4tbc-xQ)
   + [Sass. Учим основы Sass - быстро и просто](https://www.youtube.com/watch?v=EO8mZZxNuBI)
-  + []()
-  + []()
-  + []()
-  + []()
-  + []()
-  + []()
-  + []()
-  + []()
-  + []()
-  + []()
-  + []()
-  + []()
-  + []()
-  + []()
-  + []()
-  + []()
-  + []()
-  + []()
-  + []()
-  + []()
-  + []()
-  + []()
-  + []()
-  + []()
-  + []()
-  + []()
-  + []()
-
-https://www.youtube.com/watch?v=s6RCsjcQADc&t=26s
-https://www.youtube.com/watch?v=RNjnRA0QSug
-https://www.youtube.com/watch?v=IPZbSM-Wpos&t=10s
-https://www.youtube.com/watch?v=8COwPk7H2hk
-https://www.youtube.com/watch?v=txOKjSEwHVM
-https://www.youtube.com/watch?v=38bMnJ2l4bg&t=14s
-https://www.youtube.com/watch?v=RCZxzk9tyE4
-https://www.youtube.com/watch?v=hrFPD0nkRVA&t=12s
-https://www.youtube.com/watch?v=duWfUzXPgNc&t=4s
-https://www.youtube.com/watch?v=yK7WEt-CdhI&t=4s
-https://www.youtube.com/watch?v=FLbvUFVr3bg&t=717s
-https://www.youtube.com/watch?v=fecXcorm6Ms
-https://www.youtube.com/watch?v=CvX-jx-a_EI
-https://www.youtube.com/watch?v=CDWMSF0nI2A&t=9s
-https://www.youtube.com/watch?v=KkH_i4nw_Bs
-https://www.youtube.com/watch?v=WM1fzRm152g
-https://www.youtube.com/watch?v=EVROZN5B6OI
-https://www.youtube.com/watch?v=zFIltkLv5eI
-https://www.youtube.com/watch?v=H4cG4tbc-xQ&t=14s
-https://www.youtube.com/watch?v=EO8mZZxNuBI&t=9s
-https://www.youtube.com/watch?v=9QnJO7gXk3o&t=341s
-https://www.youtube.com/watch?v=ColaCPC08ZY&t=551s
-https://www.youtube.com/watch?v=iWOGk_b2yac
-https://www.youtube.com/watch?v=iy5geRAZGm8
+  + [SASS | Видео уроки ](https://www.youtube.com/watch?v=iy5geRAZGm8)
+  + [Sass — основы CSS препроцессора (variables, mixins)](https://www.youtube.com/watch?v=iWOGk_b2yac)
+  + [Sass. Учим mixin, include, extend](https://www.youtube.com/watch?v=ColaCPC08ZY&t=551s)
+  + [Адаптивная верстка сайта под Wordpress на Bootstrap 4 + Sass | Реальный заказ.](https://www.youtube.com/watch?v=9QnJO7gXk3o&t=341s)
+  + [Что умеет FLEXBOX CSS?! Основы верстки на flex](https://www.youtube.com/watch?v=zFIltkLv5eI)
+  + [В чем разница Flexbox и CSS Grid. Что использовать CSS Grid layout или Flexbox.](https://www.youtube.com/watch?v=EVROZN5B6OI)
+  + [Flexbox CSS #1 - практика выравнивания элементов](https://www.youtube.com/watch?v=WM1fzRm152g)
+  + [Flexbox - полезные примеры](https://www.youtube.com/watch?v=KkH_i4nw_Bs)
+  + [Все о flexbox в одном уроке. Основы flexbox.](https://www.youtube.com/watch?v=CDWMSF0nI2A&t=9s)
+  + [Верстка сайта с нуля. Верстка на Flexbox. Адаптивные изображения](https://www.youtube.com/watch?v=CvX-jx-a_EI)
+  + [Уроки Flexbox Практика - Делаем header и навигацию сайта](https://www.youtube.com/watch?v=fecXcorm6Ms)
+  + [Вёрстка по сетке на flexbox + интерактивный тренажёр](https://www.youtube.com/watch?v=FLbvUFVr3bg&t=717s)
+  + [Реальная верстка на Flexbox из макета PSD](https://www.youtube.com/watch?v=yK7WEt-CdhI&t=4s)
+  + [[Все О Flexbox CSS] Полный Урок: Верстка На FLEX](https://www.youtube.com/watch?v=duWfUzXPgNc&t=4s)
+  + [Flexbox - основы технологии и идеи удобной вёрстки по сетке](https://www.youtube.com/watch?v=hrFPD0nkRVA&t=12s)
+  + [Особенности Flexbox вёрстки [GeekBrains]](https://www.youtube.com/watch?v=RCZxzk9tyE4)
+  + [Flexbox CSS3 в одном видео за 20 минут!](https://www.youtube.com/watch?v=38bMnJ2l4bg&t=14s)
+  + [Создание адаптивных сайтов - урок четвертый. Гибкая сетка (Fluid grid)](https://www.youtube.com/watch?v=txOKjSEwHVM)
+  + [Вебинар "Верстка на Float, Flexbox, Grid. Преимущества и недостатки."](https://www.youtube.com/watch?v=8COwPk7H2hk)
+  + [CSS Grid верстка - Введение. Что такое гриды и зачем они нужны.](https://www.youtube.com/watch?v=IPZbSM-Wpos&t=10s)
+  + [CSS Grid Layout vs Flexbox - противостояние или гармония](https://www.youtube.com/watch?v=s6RCsjcQADc&t=26s)
 
 
 ### Торренты (зайти на сайт и ввести в строке поиска значение)
