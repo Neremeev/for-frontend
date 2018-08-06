@@ -11,41 +11,38 @@
 + [metanit](https://metanit.com/web/)
 + [JavaScript-Garden](http://bonsaiden.github.io/JavaScript-Garden/ru/)
 + [MDN](https://developer.mozilla.org/ru/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
-+ []()
++ [Уроки JavaScript (EcmaScript 6) ](https://www.youtube.com/watch?v=UJc9-yiMUb0&list=PLLvTAhHe8AYAzyzfqrh-CUKeoHunFtZOA)
 
 
-ВИДЕОУРОКИ</br>
-https://www.youtube.com/watch?v=UJc9-yiMUb0&list=PLLvTAhHe8AYAzyzfqrh-CUKeoHunFtZOA jses6</br>
-https://www.youtube.com/playlist?list=PLuzqCQj6mtdhqSC2nchgExObeL_AInV-e - js</br>
-https://www.youtube.com/playlist?list=PLJcwaWk5uvsBDnddZqMeuskKd8SDolR2w - js & jquery</br>
-https://www.youtube.com/playlist?list=PLeYxjiX1MAInqDvBJUG0B48VaIcsa_UcL - js</br>
-https://www.youtube.com/playlist?list=PLvItDmb0sZw9GTaAsuPGRydAUG61MnCsy - js</br>
-https://www.youtube.com/playlist?list=PL0WA-kKU2gpacRHGtW_JXc4D1UKiUcDr3 - js</br>
-https://www.youtube.com/playlist?list=PLiXnnBSNPDOcPxTnGmtiyW1mlnF0Unmh1 - js</br>
-https://www.youtube.com/playlist?list=PLY4rE9dstrJzNRmAeTHXAlT7lJFC2YjDg - js</br>
-https://www.youtube.com/playlist?list=PLY4rE9dstrJymG1GyPLgOKsJNq9r-p6pX - js</br>
-https://www.youtube.com/playlist?list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem - js</br>
-https://www.youtube.com/playlist?list=PLhe16itim17dxbQVkQPwCGLwgEKNk4ZUw - json</br>
-https://www.youtube.com/playlist?list=PL0lO_mIqDDFUGX9k45bZFuz1ixTvUhd7b - плейлист по js</br>
+### ВИДЕОУРОКИ
++ [Обучение Javascript](https://www.youtube.com/playlist?list=PLuzqCQj6mtdhqSC2nchgExObeL_AInV-e)
++ [JavaScript & jQuery с нуля до профи Часть 1](https://www.youtube.com/playlist?list=PLJcwaWk5uvsBDnddZqMeuskKd8SDolR2w)
++ [Базовый JavaScript: бесплатные видео уроки для начинающих JavaScript разрабтчиков](https://www.youtube.com/playlist?list=PLeYxjiX1MAInqDvBJUG0B48VaIcsa_UcL)
++ [Видеокурс по JavaScript Шаблонам](https://www.youtube.com/playlist?list=PLvItDmb0sZw9GTaAsuPGRydAUG61MnCsy)
++ [Уроки - JavaScript от специалиста](https://www.youtube.com/playlist?list=PL0WA-kKU2gpacRHGtW_JXc4D1UKiUcDr3)
++ [Основы программирования JavaScript [GeekBrains]](https://www.youtube.com/playlist?list=PLiXnnBSNPDOcPxTnGmtiyW1mlnF0Unmh1)
++ [Продвинутый javascript](https://www.youtube.com/playlist?list=PLY4rE9dstrJzNRmAeTHXAlT7lJFC2YjDg)
++ [Основы javascript](https://www.youtube.com/playlist?list=PLY4rE9dstrJymG1GyPLgOKsJNq9r-p6pX)
++ [Основы JavaScript](https://www.youtube.com/playlist?list=PL363QX7S8MfSxcHzvkNEqMYbOyhLeWwem)
++ [JSON](https://www.youtube.com/playlist?list=PLhe16itim17dxbQVkQPwCGLwgEKNk4ZUw)
++ [Изучение JavaScript от нуля до гуру](https://www.youtube.com/playlist?list=PL0lO_mIqDDFUGX9k45bZFuz1ixTvUhd7b)
++ [Уроки JavaScript (EcmaScript 6) ](https://www.youtube.com/watch?v=UJc9-yiMUb0&list=PLLvTAhHe8AYAzyzfqrh-CUKeoHunFtZOA)
 
+### КНИГИ
++ https://yadi.sk/d/TWlU2ZLM3YNURM
 
-КНИГИ</br>
-https://yadi.sk/d/TWlU2ZLM3YNURM</br>
+### ВЕБИНАРЫ:
++ [про es6](https://www.youtube.com/watch?v=Spme1IW1ejg)
++ [работа с ДОМ](https://www.youtube.com/watch?v=x2DTiziYq7g)
++ [ajax от Гоши Дударя](https://www.youtube.com/watch?v=-2WiaSvOj78)
++ [ajax на примере](https://www.youtube.com/watch?v=Q-n_uPsXr_g)
++ [стрим про ajax и json](https://www.youtube.com/watch?v=_2X_TgZGdTY)
++ [что такое rest api](https://www.youtube.com/watch?v=2CrjWD3VGG4)
++ [про асинхронность](https://www.youtube.com/watch?v=5kAPExqSZ1I)
++ [про ajax запросы](https://www.youtube.com/watch?v=eexjaaFlOPY)
++ [большая лекция про асихнхронность в js](https://www.youtube.com/watch?v=Ih6Q7ka2eSQ)
 
-
-ВЕБИНАРЫ:</br>
-https://www.youtube.com/watch?v=x2DTiziYq7g - про ajax запросы</br>
-https://www.youtube.com/watch?v=-2WiaSvOj78 - работа с ДОМ</br>
-https://www.youtube.com/watch?v=eexjaaFlOPY - ajax от Гоши Дударя</br>
-https://www.youtube.com/watch?v=Q-n_uPsXr_g - ajax на примере</br>
-https://www.youtube.com/watch?v=_2X_TgZGdTY - стрим про ajax и json</br>
-https://www.youtube.com/watch?v=2CrjWD3VGG4 - что такое rest api</br>
-https://www.youtube.com/watch?v=Ih6Q7ka2eSQ - большая лекция про асихнхронность в js</br>
-https://www.youtube.com/watch?v=5kAPExqSZ1I - еще про асинхронность</br>
-https://www.youtube.com/watch?v=Spme1IW1ejg - про es6</br>
-
-
-ЦИКЛ ВИДЕОУРОКОВ НА ТЕМУ: "ПИШЕМ ПРИЛОЖЕНИЕ НА JS"</br>
+### ЦИКЛ ВИДЕОУРОКОВ НА ТЕМУ: "ПИШЕМ ПРИЛОЖЕНИЕ НА JS"</br>
 https://www.youtube.com/watch?v=XByK_MG_T_M</br>
 https://www.youtube.com/watch?v=1ieQD20Cs0o</br>
 https://www.youtube.com/watch?v=iGCMkmnm89M&list=PLf0k8CBUad-sHxpoBHLHIr3CwWfSmOYZR</br>
