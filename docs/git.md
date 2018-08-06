@@ -1,22 +1,15 @@
 ### книги
 + https://yadi.sk/d/77shUeGW3Zuwgu
 
-Сайты</br>
-https://git-scm.com/book/ru/v1/%D0%92%D0%B2%D0%B5%D0%B4%D0%B5%D0%BD%D0%B8%D0%B5-%D0%9E%D1%81%D0%BD%D0%BE%D0%B2%D1%8B-Git</br>
-https://htmlacademy.ru/blog/187-git-console</br>
-https://githowto.com/ru</br>
-https://proglib.io/p/system-git/</br>
+### Сайты
++ [гитбук](https://git-scm.com/book/ru/v1)
++ [Основы Git](https://git-scm.com/book/ru/v1/Введение-Основы-Git)
++ [Работа с Git через консоль](https://htmlacademy.ru/blog/187-git-console)
++ [Лучший курс по Git от Lynda.com. На русском](https://proglib.io/p/system-git/)
++ [Git How To](https://githowto.com/ru)
 
-
-
-### ПРО ГИТ
-https://git-scm.com/book/ru/v1
-http://randomfederation.github.io/
-https://www.youtube.com/watch?v=JfpCicDUMKc
-https://www.youtube.com/playlist?list=PLmRNNqEA7JoM77hOJkPrLOfJQGizCLR3P - git
-
-
-### Статьи</br>
+### Статьи
++ [Как сделать репозиторий на Github Pages и как закоммитить в него изменения через Github for Desktop без командной строки](http://randomfederation.github.io)
 https://tproger.ru/translations/git-quick-start/</br>
 https://habr.com/post/342116/</br>
 https://www.hostinger.ru/rukovodstva/osnovi-git-chto-takoe-git</br>
@@ -24,9 +17,9 @@ https://eax.me/git-commands/</br>
 https://proglib.io/p/git-for-half-an-hour/</br>
 https://ruhighload.com/5+%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%BE%D0%B2+%D0%BF%D0%BE+%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E+git</br>
 
-http://webdesign.ru.net/article/pravila-oformleniya-fayla-readmemd-na-github.html - как оформить readme.md</br>
-http://coddism.com/zametki/razmetka_readmemd_v_github</br>
-
+### Разметка в readme.md файлах
++ http://webdesign.ru.net/article/pravila-oformleniya-fayla-readmemd-na-github.html
++ http://coddism.com/zametki/razmetka_readmemd_v_github
 
 ### Видеоуроки</br>
 https://www.youtube.com/watch?v=en6gms6e54Q&list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR</br>
