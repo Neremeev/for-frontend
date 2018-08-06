@@ -43,78 +43,67 @@
 
 
 ### Видеоуроки
-https://www.youtube.com/watch?v=2JMMnNOhDoc&t=2s
-https://www.youtube.com/watch?v=SQIh8SBXc5c&t=12s
-https://www.youtube.com/watch?v=-wcy1Bsq-Ls
-https://www.youtube.com/watch?v=mVxkR50XL_E
-https://www.youtube.com/watch?v=38bMnJ2l4bg&t=1s
-https://www.youtube.com/watch?v=duWfUzXPgNc
-https://www.youtube.com/watch?v=hrFPD0nkRVA
-https://www.youtube.com/watch?v=yK7WEt-CdhI
-https://www.youtube.com/watch?v=FLbvUFVr3bg
-https://www.youtube.com/watch?v=-fDqBEjfzGo&t=1993s
-https://www.youtube.com/watch?v=m16v1KkZoi8
-https://www.youtube.com/watch?v=s6RCsjcQADc
-https://www.youtube.com/watch?v=IPZbSM-Wpos
-https://www.youtube.com/watch?v=iNPE0zGucTo
-https://www.youtube.com/watch?v=2JMMnNOhDoc
-https://www.youtube.com/watch?v=SQIh8SBXc5c
-https://www.youtube.com/watch?v=H4cG4tbc-xQ
-https://www.youtube.com/watch?v=EO8mZZxNuBI
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ [SASS](https://www.youtube.com/watch?v=viWBi8YZHXU&list=PLcVuGt1dXgc0G1pCG1J9KjTFtTMsSs_9z)
-+ [Flexbox CSS3](https://www.youtube.com/watch?v=RNjnRA0QSug&list=PLY4rE9dstrJzj68Y8SlQlhIdb5hbGQLIU)
-+ [Flexbox верстка практика](https://www.youtube.com/watch?v=C2W7ICgGRbo&list=PLVfMKQXDAhGVkBdjLJmb4TwLAnEhtiQf-)
-+ [Основы SASS](https://www.youtube.com/watch?v=4Fl23vtPRx0&list=PLVfMKQXDAhGXMqOHEUVvn8WREVuXNfxZ-)
-+ [Flexbox уроки](https://www.youtube.com/watch?v=CDWMSF0nI2A&list=PLVfMKQXDAhGUfYoL11n_cnM7yE1aW1x4E)
-+ [Забавная вёрстка - HTML CSS](https://www.youtube.com/watch?v=LP7s_ThcO5k&index=3&list=PLOQDek48BpZEs9-NCQGC6HOSfEbXReVjA)
-+ [Bootstrap 4](https://www.youtube.com/watch?v=g25wH4Xtyh8&list=PLVfMKQXDAhGWUv_Q0b6WbBzBPtf6T1wE8)
-+ [Bootstrap 4 уроки](https://www.youtube.com/watch?v=Xoo5WT5tW2I&list=PLVfMKQXDAhGUxJ4prQSC2K13-YlYj8LgB)
-+ [Знакомство с CSS Flexbox](https://www.youtube.com/watch?v=7Lg-438gAc8&list=PLqHlAwsJRxAPs942EdJ1akeWpOg2yatiM)
-+ [Анатомия Bootstrap 4](https://www.youtube.com/watch?v=s4tZoHSAW2g&list=PLvWwA9iDlhHA0KfoHyxP6RmTg0fj2ProC)
-+ [Разработка одностраничного приложения](https://www.youtube.com/watch?v=9fzopWJcdMc&list=PLzBCKSyQEHOWprnModVfJSfBqpzxQ4R16)
-+ [Bootstrap](https://www.youtube.com/watch?v=9akF4udEueA&list=PLY4rE9dstrJwP_JUTts9AtMVtJlJVGxWK)
-+ [Уроки по Bootstrap 3](https://www.youtube.com/watch?v=AYkEfr-5b1o&list=PLypd1VrGv7FPokhw3f5pwBQTHsU9T2mBq)
-+ [Уроки по Bootstrap для начинающих](https://www.youtube.com/watch?v=TZSY6rDUDrE&list=PL0lO_mIqDDFUQI5lrRlZfkApMWtJJ7GFE)
 
++ Плейлисты
+  + [SASS](https://www.youtube.com/watch?v=viWBi8YZHXU&list=PLcVuGt1dXgc0G1pCG1J9KjTFtTMsSs_9z)
+  + [Flexbox CSS3](https://www.youtube.com/watch?v=RNjnRA0QSug&list=PLY4rE9dstrJzj68Y8SlQlhIdb5hbGQLIU)
+  + [Flexbox верстка практика](https://www.youtube.com/watch?v=C2W7ICgGRbo&list=PLVfMKQXDAhGVkBdjLJmb4TwLAnEhtiQf-)
+  + [Основы SASS](https://www.youtube.com/watch?v=4Fl23vtPRx0&list=PLVfMKQXDAhGXMqOHEUVvn8WREVuXNfxZ-)
+  + [Flexbox уроки](https://www.youtube.com/watch?v=CDWMSF0nI2A&list=PLVfMKQXDAhGUfYoL11n_cnM7yE1aW1x4E)
+  + [Забавная вёрстка - HTML CSS](https://www.youtube.com/watch?v=LP7s_ThcO5k&index=3&list=PLOQDek48BpZEs9-NCQGC6HOSfEbXReVjA)
+  + [Bootstrap 4](https://www.youtube.com/watch?v=g25wH4Xtyh8&list=PLVfMKQXDAhGWUv_Q0b6WbBzBPtf6T1wE8)
+  + [Bootstrap 4 уроки](https://www.youtube.com/watch?v=Xoo5WT5tW2I&list=PLVfMKQXDAhGUxJ4prQSC2K13-YlYj8LgB)
+  + [Знакомство с CSS Flexbox](https://www.youtube.com/watch?v=7Lg-438gAc8&list=PLqHlAwsJRxAPs942EdJ1akeWpOg2yatiM)
+  + [Анатомия Bootstrap 4](https://www.youtube.com/watch?v=s4tZoHSAW2g&list=PLvWwA9iDlhHA0KfoHyxP6RmTg0fj2ProC)
+  + [Разработка одностраничного приложения](https://www.youtube.com/watch?v=9fzopWJcdMc&list=PLzBCKSyQEHOWprnModVfJSfBqpzxQ4R16)
+  + [Bootstrap](https://www.youtube.com/watch?v=9akF4udEueA&list=PLY4rE9dstrJwP_JUTts9AtMVtJlJVGxWK)
+  + [Уроки по Bootstrap 3](https://www.youtube.com/watch?v=AYkEfr-5b1o&list=PLypd1VrGv7FPokhw3f5pwBQTHsU9T2mBq)
+  + [Уроки по Bootstrap для начинающих](https://www.youtube.com/watch?v=TZSY6rDUDrE&list=PL0lO_mIqDDFUQI5lrRlZfkApMWtJJ7GFE)
+
++ Видео
+  + [Bootstrap 4. Сетка. Подробное руководство](https://www.youtube.com/watch?v=2JMMnNOhDoc&t=2s)
+  + [Создаем Адаптивный Сайт На Bootstrap 4 За 2 Часа](https://www.youtube.com/watch?v=SQIh8SBXc5c&t=12s)
+  + [Bootstrap: Как создаются современные адаптивные сайты (УРОК)](https://www.youtube.com/watch?v=-wcy1Bsq-Ls)
+  + [Bootstrap, flexbox, новая сетка - беседы об адаптивной вёрстке](https://www.youtube.com/watch?v=mVxkR50XL_E)
+  + [Flexbox CSS3 в одном видео за 20 минут!](https://www.youtube.com/watch?v=38bMnJ2l4bg&t=1s)
+  + [[Все О Flexbox CSS] Полный Урок: Верстка На FLEX](https://www.youtube.com/watch?v=duWfUzXPgNc)
+  + [Flexbox - основы технологии и идеи удобной вёрстки по сетке](https://www.youtube.com/watch?v=hrFPD0nkRVA)
+  + [Реальная верстка на Flexbox из макета PSD](https://www.youtube.com/watch?v=yK7WEt-CdhI)
+  + [Вёрстка по сетке на flexbox + интерактивный тренажёр](https://www.youtube.com/watch?v=FLbvUFVr3bg)
+  + [CSS Grid: Новый взгляд на адаптивную верстку сайтов. Руководство](https://www.youtube.com/watch?v=-fDqBEjfzGo&t=1993s)
+  + [Float, inline-block, flex, grid layout - способы создания разметки. Назначение технологий](https://www.youtube.com/watch?v=m16v1KkZoi8)
+  + [CSS Grid Layout vs Flexbox - противостояние или гармония](https://www.youtube.com/watch?v=s6RCsjcQADc)
+  + [CSS Grid верстка - Введение. Что такое гриды и зачем они нужны.](https://www.youtube.com/watch?v=IPZbSM-Wpos)
+  + [CSS Grid: адаптивная верстка реального макета (CSS Grid Real Example)](https://www.youtube.com/watch?v=iNPE0zGucTo)
+  + [Sass для самых маленьких - подробное руководство](https://www.youtube.com/watch?v=H4cG4tbc-xQ)
+  + [Sass. Учим основы Sass - быстро и просто](https://www.youtube.com/watch?v=EO8mZZxNuBI)
+  + []()
+  + []()
+  + []()
+  + []()
+  + []()
+  + []()
+  + []()
+  + []()
+  + []()
+  + []()
+  + []()
+  + []()
+  + []()
+  + []()
+  + []()
+  + []()
+  + []()
+  + []()
+  + []()
+  + []()
+  + []()
+  + []()
+  + []()
+  + []()
+  + []()
+  + []()
+  + []()
 
 https://www.youtube.com/watch?v=s6RCsjcQADc&t=26s
 https://www.youtube.com/watch?v=RNjnRA0QSug
