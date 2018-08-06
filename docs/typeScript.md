@@ -14,14 +14,14 @@
 + [TypeScript — Работа с массивами](https://webformyself.com/typescript-rabota-s-massivami/)
 + [Как выучить TypeScript за 2 дня и почему стоит начать прямо сейчас: опыт автора Tproger](https://tproger.ru/articles/how-to-learn-typescript/)
 
-Видеокурс</br>
-https://www.youtube.com/watch?v=5pAizRpodu4&list=PL16-BCTzDtaFwuQmD2izA_TGQlbVRF6Qh</br>
-https://www.youtube.com/watch?v=n_OAH9JOyUo&list=PLD-piGJ3Dtl3ChTNpxEGwBtffBVQuJCah</br>
-https://www.youtube.com/watch?v=U0bnSOWVoEw&list=PLLvTAhHe8AYDri85O-x9wHPZ_iIZ1M9EV</br>
-https://www.youtube.com/watch?v=bSoIeNo-aiw&list=PLvItDmb0sZw-IMHd1YSzLZ4UayqSQP6-I</br>
-https://www.youtube.com/watch?v=U0bnSOWVoEw&list=PLLvTAhHe8AYDri85O-x9wHPZ_iIZ1M9EV</br>
-https://www.youtube.com/watch?v=_3n4JdZdXWo</br>
-https://www.youtube.com/watch?v=k_ZtVc1S8Ww&t=7s</br>
+### Видеокурс
++ [Премиум курс по TypeScript](https://www.youtube.com/watch?v=5pAizRpodu4&list=PL16-BCTzDtaFwuQmD2izA_TGQlbVRF6Qh)
++ [Курс по TypeScript](https://www.youtube.com/watch?v=n_OAH9JOyUo&list=PLD-piGJ3Dtl3ChTNpxEGwBtffBVQuJCah)
++ [Уроки JavaScript (курс по TypeScript)](https://www.youtube.com/watch?v=U0bnSOWVoEw&list=PLLvTAhHe8AYDri85O-x9wHPZ_iIZ1M9EV)
++ [Видеокурс по TypeScript Fundamentals](https://www.youtube.com/watch?v=bSoIeNo-aiw&list=PLvItDmb0sZw-IMHd1YSzLZ4UayqSQP6-I)
++ [Уроки JavaScript (курс по TypeScript)](https://www.youtube.com/watch?v=U0bnSOWVoEw&list=PLLvTAhHe8AYDri85O-x9wHPZ_iIZ1M9EV)
++ [Разработка на TypeScript](https://www.youtube.com/watch?v=_3n4JdZdXWo)
++ [TypeScript. Урок 2 курса Экспресс-погружение в разработку приложений на JavaScript](https://www.youtube.com/watch?v=k_ZtVc1S8Ww&t=7s)
 
 ### Торренты (зайти на сайт и ввести в строке поиска значение)
 + http://tparser.org/typescript - много курсов со всех торрентов
