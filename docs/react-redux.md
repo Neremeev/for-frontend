@@ -38,15 +38,12 @@ https://learn-reactjs.ru/introduction/introduction-in-reactjs - сайт learn.r
 + [пишем интернет магазин на реакт/редакс](https://www.youtube.com/watch?v=3rq4b6Ozjf8)
 + [пишем интернет магазин на реакт/редакс](https://coursehunters.net/course/internet-magazin-na-react-redux)
 
-
-
 ### ЖИЗНЕННЫЕ ЦИКЛЫ В РЕАКТ
 + [1](https://abraxabra.ru/react.js/bystryy-start/react-js-sostoyanie-i-zhiznennyy-tsikl/)
 + [2](https://www.youtube.com/watch?v=fKUCg6Vxnb4)
 + [3](https://www.youtube.com/watch?v=Y7u3IhuiUrs&list=PLvTBThJr861xh3fCMf91Ip5_r6TdR15O9&index=3)
 + [4](https://www.youtube.com/watch?v=i2NE0cbuQa4)
 + [5](https://www.youtube.com/watch?v=Y7u3IhuiUrs)
-
 
 ### ОДНОНАПРАВЛЕННЫЕ ДАННЫЕ В РЕАКТ
 + [1](https://www.youtube.com/watch?v=Y9bUR6IaBY4)
@@ -96,6 +93,7 @@ https://learn-reactjs.ru/introduction/introduction-in-reactjs - сайт learn.r
 + [По поводу паттернов в React](https://medium.com/@abraztsov/%D0%BF%D0%B0%D1%82%D1%82%D0%B5%D1%80%D0%BD%D1%8B-%D0%B2-react-e5092c06f019)
 + [Паттерны React](https://habr.com/post/309422/)
 + [отличные примеры на реакт](https://avrylkov.github.io/react/)
++ [9 полезных советов для тех, кто начинает знакомство с React.js](https://tproger.ru/translations/9-useful-tips-react/)
 
 ### ПОДПИСКИ НА МЕДИУМ
 + https://medium.com/@abraztsov
