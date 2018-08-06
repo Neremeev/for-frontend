@@ -30,23 +30,21 @@
 + @ru_vuejs
 
 ### Видеокурсы
-+ []()
-+ []()
-https://www.youtube.com/channel/UCrpvmiGAeKSkmM-fpyuwYjw - канал</br>
-https://www.youtube.com/watch?v=diPpV20TOUs&list=PLLvTAhHe8AYCf1RDc2l2ZWriPfMf-yZel</br>
-https://www.youtube.com/watch?v=NtlVno8igVQ&list=PL0lO_mIqDDFVVNsIt02JBIdBkjNVHIoum</br>
-https://www.youtube.com/watch?v=k3yRfEw1pYk&list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7</br>
-https://www.youtube.com/watch?v=LGyihQvDEw4&list=PLyeqauxei6jd4mL4E9860HnO5GYayooR-</br>
-https://www.youtube.com/watch?v=Zwiu5yBU_Gk&list=PLu_62Q68DvTrWAR_3-iOfIdbqKU912i3z</br>
-https://www.youtube.com/watch?v=PCOP3uC_VwY&list=PLNkWIWHIRwMH7ahn9uvvc5PG3o1tLscgB</br>
-https://www.youtube.com/watch?v=qHBSc_LuHnU&list=PLD-piGJ3Dtl0C2gVy-_vZoxYRFWRwUvWL</br>
-https://www.youtube.com/watch?v=3TurSb_ETxQ&list=PLYfFMdgVk4_y-_vpH32TtFDefaO5j8jnB</br>
-https://www.youtube.com/watch?v=IMYO487lpxg&list=PLVfMKQXDAhGWFP61AzOs_PowY7OAaFRHU</br>
-https://www.youtube.com/watch?v=O9p4dRBRSXE&list=PLEyOhcqU3T9VL6wathF8CoHnHGvUAdzq6</br>
-https://www.youtube.com/watch?v=NeXuUGgiwyw</br>
-https://www.youtube.com/watch?v=1JO1XCyaL_g</br>
-https://www.youtube.com/watch?v=9y_gbVt9oio</br>
-https://www.youtube.com/watch?v=8SeI7Vyfvcc</br>
++ [VueJS.fun](https://www.youtube.com/channel/UCrpvmiGAeKSkmM-fpyuwYjw)
++ [Vue.js - варианты применения на практике](https://www.youtube.com/watch?v=8SeI7Vyfvcc)
++ [От jQuery к Vue.js - эволюция программирования на javascript](https://www.youtube.com/watch?v=9y_gbVt9oio)
++ [Возможности Vue.js для веб разработчика](https://www.youtube.com/watch?v=1JO1XCyaL_g)
++ [Фреймворк Vue.js - идеи и нормальная разработка с webpack](https://www.youtube.com/watch?v=NeXuUGgiwyw)
++ [Vue.js](https://www.youtube.com/watch?v=O9p4dRBRSXE&list=PLEyOhcqU3T9VL6wathF8CoHnHGvUAdzq6)
++ [Уроки Vue js](https://www.youtube.com/watch?v=IMYO487lpxg&list=PLVfMKQXDAhGWFP61AzOs_PowY7OAaFRHU)
++ [VueJS](https://www.youtube.com/watch?v=3TurSb_ETxQ&list=PLYfFMdgVk4_y-_vpH32TtFDefaO5j8jnB)
++ [Фреймворк VueJS: быстрый старт, первые ](https://www.youtube.com/watch?v=qHBSc_LuHnU&list=PLD-piGJ3Dtl0C2gVy-_vZoxYRFWRwUvWL)
++ [Vue JS](https://www.youtube.com/watch?v=PCOP3uC_VwY&list=PLNkWIWHIRwMH7ahn9uvvc5PG3o1tLscgB)
++ [Vue.js](https://www.youtube.com/watch?v=Zwiu5yBU_Gk&list=PLu_62Q68DvTrWAR_3-iOfIdbqKU912i3z)
++ [Vue.js - подключение, объект data и реактивность данных [урок1]](https://www.youtube.com/watch?v=LGyihQvDEw4&list=PLyeqauxei6jd4mL4E9860HnO5GYayooR-)
++ [Vue.js с нуля (часть 1) - Hello World](https://www.youtube.com/watch?v=k3yRfEw1pYk&list=PL5r0NkdgM0UOxb4Hl81FV5UIgexwTf8h7)
++ [Vue.js для начинающих](https://www.youtube.com/watch?v=NtlVno8igVQ&list=PL0lO_mIqDDFVVNsIt02JBIdBkjNVHIoum)
++ [Vue JS (Лучшие рускоязычные уроки)](https://www.youtube.com/watch?v=diPpV20TOUs&list=PLLvTAhHe8AYCf1RDc2l2ZWriPfMf-yZel)
 
 
 ### Пишем приложение
