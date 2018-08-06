@@ -68,14 +68,6 @@ http://www.wisdomweb.ru/JQ/jquery-first.php</br>
 https://html5book.ru/javascript-jquery/</br>
 http://anton.shevchuk.name/jquery-book/ </br>
 
-
-### Последнее
-https://medium.com/devschacht/neil-fenton-improving-react-and-redux-performance-with-reselect-40f1d3efba89 reselect
-https://github.com/cassiozen/ReactCasts/tree/master/episode8 - селекторы redux
-https://habr.com/post/313234/ - проект
-https://www.youtube.com/channel/UCP-xJwnvKCGyS-nbyOx1Wmg/videos - канал js
-https://tproger.ru/translations/9-useful-tips-react/ - про реакт
-
 ### СООБЩЕСТВА В ВК
 + https://vk.com/jovitoru
 + https://vk.com/fe_development
@@ -108,6 +100,9 @@ https://tproger.ru/translations/9-useful-tips-react/ - про реакт
 
 ### валидность url
 + https://validator.w3.org/
+
+### кейкод
++ http://keycode.info/
 
 ### json парсер
 + https://jsoneditoronline.org/
