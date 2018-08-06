@@ -1,14 +1,14 @@
 #### САЙТЫ ДЛЯ ОБУЧЕНИЯ HTML/CSS:
-1)[html академия](https://htmlacademy.ru/courses)
-2)[html академия - программа](https://htmlacademy.ru/program)
-3)[html book](http://htmlbook.ru/)
-4)[codebra.ru - html/css/js](https://codebra.ru/)
-5)[postroika.ru - html/css/js](http://www.postroika.ru/html/)
-6)[html5book.ru](https://html5book.ru/html-tags/)
-7)[world-html.narod.ru - html](http://world-html.narod.ru/page/teg.htm)
-8)[freecodecamp.org - html/css/js](https://www.freecodecamp.org/)
-9)[camouf.ru - html/css](https://camouf.ru/blog-note/?PAGEN_1=5)
-[]()</br>
++[html академия](https://htmlacademy.ru/courses)</br>
++[html академия - программа](https://htmlacademy.ru/program)</br>
++[html book](http://htmlbook.ru/)</br>
++[codebra.ru - html/css/js](https://codebra.ru/)</br>
++[postroika.ru - html/css/js](http://www.postroika.ru/html/)</br>
++[html5book.ru](https://html5book.ru/html-tags/)</br>
++[world-html.narod.ru - html](http://world-html.narod.ru/page/teg.htm)</br>
++[freecodecamp.org - html/css/js](https://www.freecodecamp.org/)</br>
++[camouf.ru - html/css](https://camouf.ru/blog-note/?PAGEN_1=5)</br>
++[]()</br>
 
 
 ВИДЕОУРОКИ</br>
