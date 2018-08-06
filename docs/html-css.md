@@ -25,7 +25,6 @@
 + [HTML/CSS](https://yadi.sk/d/REFMJB4U3YNSjQ)
 
 
-
 #### CSS
 + Тесты поддержки новых возможностей в браузерах
   + http://html5test.com
@@ -58,70 +57,43 @@
   + http://freebiesbug.com/psd-freebies/website-template/ - cайты с макетами.
   + https://camouf.ru/designes/
 
-###### + Гайды по форматированию кода:
++ Гайды по форматированию кода:
   +https://github.com/necolas/idiomatic-css/tree/master/translations/ru-RU
   +https://github.com/iamstarkov/CSS-Guidelines/blob/master/README%20Russian.md
   +https://github.com/htmlacademy/codeguide
 
-Флоаты:</br>
-Раскладка в CSS: float -http://softwaremaniacs.org/blog/2005/12/01/css-layout-float/</br>
-пара статей на Хабре: раз - http://habrahabr.ru/post/136588/ - и два - http://habrahabr.ru/post/136622/</br>
++ Флоаты:
+  + Раскладка в CSS: float -http://softwaremaniacs.org/blog/2005/12/01/css-layout-float/
++ пара статей на Хабре:
+  + http://habrahabr.ru/post/136588/ 
+  + http://habrahabr.ru/post/136622/
 
-Флексбокс:</br> 
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/ - гайд по флексам.</br>
-http://css-live.ru/articles/vizualnoe-rukovodstvo-po-svojstvam-flexbox-iz-css3.html</br>
-https://www.youtube.com/watch?v=38bMnJ2l4bg&t=1s</br>
-https://www.youtube.com/watch?v=7Lg-438gAc8&list=PLqHlAwsJRxAPs942EdJ1akeWpOg2yatiM</br>
-https://www.youtube.com/watch?v=duWfUzXPgNc</br>
-https://www.youtube.com/watch?v=hrFPD0nkRVA</br>
-https://www.youtube.com/watch?v=yK7WEt-CdhI</br>
-https://www.youtube.com/watch?v=FLbvUFVr3bg</br>
-https://www.youtube.com/watch?v=C2W7ICgGRbo&list=PLVfMKQXDAhGVkBdjLJmb4TwLAnEhtiQf-</br>
-
-Грид</br> 
-https://www.youtube.com/watch?v=-fDqBEjfzGo&t=1993s</br> 
-https://www.youtube.com/watch?v=m16v1KkZoi8</br> 
-https://www.youtube.com/watch?v=s6RCsjcQADc</br> 
-https://www.youtube.com/watch?v=IPZbSM-Wpos</br> 
-https://www.youtube.com/watch?v=iNPE0zGucTo</br> 
-
-bootstrap 4</br> 
-https://www.youtube.com/watch?v=2JMMnNOhDoc</br> 
-https://www.youtube.com/watch?v=Xoo5WT5tW2I&list=PLVfMKQXDAhGUxJ4prQSC2K13-YlYj8LgB</br> 
-https://www.youtube.com/watch?v=SQIh8SBXc5c</br> 
++ ПАРА СТАТЕЙ
+  + [чек лист верстки](https://habr.com/post/114256/)
+  + [локальная вертска](http://ktonanovenkogo.ru/html/div-verstka-html/blochnaya-verstka-div-verstka-kak-prizhat-footer-k-nizhnej-chasti-ekrana-maket-sajta-blochnoj-verstki.html)
 
 
-предпроцессоры</br>
-http://sass-lang.com/, http://lesscss.ru/, http://lesscss.org/, http://learnboost.github.io/stylus/</br> 
-https://www.youtube.com/watch?v=H4cG4tbc-xQ - sass</br> 
-https://www.youtube.com/watch?v=EO8mZZxNuBI - sass</br> 
-https://sass-scss.ru/ - sass документация на русском</br> 
+### Телеграмм
++ @css_ru
 
+### Торренты (зайти на сайт и ввести в строке поиска значение)
++ http://tparser.org/html - много курсов со всех торрентов
++ http://tparser.org/css - много курсов со всех торрентов
++ http://nnm-club.me - через внп
++ еще трекеры:
+  + http://torrentikofilm.com
+  + http://underverse.in
+  + http://torrent-soft.net
+  + http://ru-zerkalo.org
+  + https://omn-omn-omn.ru
 
+### КУРСЫ НА ТОРРЕНТАХ (возможно ссылки уже не работают)
++ [012345
+HTML5 и CSS3 с нуля до профи (2016) Видеокурс](http://torrentikofilm.com/4166-html5-i-css3-s-nulya-do-profi-2016-videokurs.html)
++ [HTML Academy (Базовый HTML и CSS. Видеокурс)/2017](https://omn-omn-omn.ru/details.php?id=625441)
++ [HTML Academy - Профессиональный HTML и CSS, уровень 1 (2018)](http://underverse.in/viewtopic.php?t=100398)
++ [курс 2015](http://torrent-soft.net/torrent-teach/9283-html-css-osnovy-sozdaniya-saytov-2015-pcrec.html)
++ [Профессиональный HTML и CSS, уровень 2](http://ru-zerkalo.org/viewtopic.php?t=131225)
++ [Специалист - HTML5 и CSS3 (Уровень 1,2,3) (2016) PCRec](http://underverse.in/viewtopic.php?t=95783)
++ [Скачать торрент HTML-верстка: инструменты профессиональной front-end разработки. Видеокурс (2015) PCRec](http://ba3a.net/view.php?t=773226-kak-izuchit-html-i-css-za-3-dnya-videokurs-2013-pcrec)
 
-
-ПАРА СТАТЕЙ</br>
-чек лист верстки</br>
-https://habr.com/post/114256/</br>
-локальная вертска</br>
-http://ktonanovenkogo.ru/html/div-verstka-html/blochnaya-verstka-div-verstka-kak-prizhat-footer-k-nizhnej-chasti-ekrana-maket-sajta-blochnoj-verstki.html</br>
-
-
-Торренты
-http://tparser.org/html
-http://tparser.org/css
-http://nnm-club.me
-
-
-КУРСЫ НА ТОРРЕНТАХ</br>
-http://torrentikofilm.com/4166-html5-i-css3-s-nulya-do-profi-2016-videokurs.html</br>
-https://omn-omn-omn.ru/details.php?id=625441</br>
-http://underverse.in/viewtopic.php?t=100398</br>
-http://tparser.org/HTML-%D0%B8-CSS</br>
-http://torrent-soft.net/torrent-teach/9283-html-css-osnovy-sozdaniya-saytov-2015-pcrec.html</br>
-http://ru-zerkalo.org/viewtopic.php?t=131225</br>
-http://fost.ws/films/uroki-i-treningi/31439-specialist-html5-i-css3-uroven-123-2016-pcrec.html</br>
-http://underverse.in/viewtopic.php?t=95783</br>
-http://ba3a.net/view.php?t=764365-html-verstka-instrumenti-professionalnoy-front-end-razrabotki-videokurs-2015-pcrec</br>
-http://ba3a.net/view.php?t=773226-kak-izuchit-html-i-css-za-3-dnya-videokurs-2013-pcrec</br>
-http://btracker.org/books/221485-HTML_Academy__professionalnyiy_HTML_i_CSS_uroven_1_2018_PCRec_H264.html</br>
