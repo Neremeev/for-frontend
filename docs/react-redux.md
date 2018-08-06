@@ -2,11 +2,13 @@
 + https://yadi.sk/d/sEO-7UbF3ZtwtH
 
 ### КУРСЫ РЕАКТ+РЕДАКС
-https://abraxabra.ru/react.js/bystryy-start/react-js-formy/ - курс про реакт</br>
-https://legacy.gitbook.com/book/maxfarseer/react-course-ru/details - реакт курс от макса</br>
-https://legacy.gitbook.com/book/maxfarseer/redux-course-ru/details - редакс курс от макса</br>
-https://maxpfrontend.ru/ - блог по фронту от макса</br>
-https://proglib.io/p/redux-app/ - пишем приложение на redux</br>
+https://abraxabra.ru/react.js/bystryy-start/react-js-formy/ - курс про реакт
+https://legacy.gitbook.com/book/maxfarseer/react-course-ru/details - реакт курс от макса
+https://legacy.gitbook.com/book/maxfarseer/redux-course-ru/details - редакс курс от макса
+https://maxpfrontend.ru/ - блог по фронту от макса
+https://proglib.io/p/redux-app/ - пишем приложение на redux
+https://github.com/krambertech/react-essential-course - курс по реакт
+https://learn-reactjs.ru/introduction/introduction-in-reactjs - сайт learn.react
 
 ### КНИГИ
 + https://yadi.sk/d/MGBW3aLq3YNXWW
@@ -59,35 +61,36 @@ https://proglib.io/p/redux-app/ - пишем приложение на redux</br
 ### Телеграмм
 + https://t.me/reactivex
 
-
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
 ### КУРСЫ НА ТОРРЕНТ
-https://torrents-club.org/viewtopic.php?t=55779</br>
-http://trackerok.org/other/800900-learnjavascriptru_polnyiy_kurs_po_ReactJS_2017_RUS.html</br>
-http://fost.ws/films/uroki-i-treningi/40384-codedojo-osnovy-react-2016-pcrec-h264-720p-lq.html</br>
-https://github.com/krambertech/react-essential-course - курс по реакт</br>
-https://learn-reactjs.ru/introduction/introduction-in-reactjs - сайт learn.react</br>
++ [React, Redux и ES2015 с Нуля до Гуру (2016)](https://torrents-club.org/viewtopic.php?t=55779)
++ [[learn.javascript.ru] Полный курс по React.JS [2017, RUS]](http://trackerok.org/other/800900-learnjavascriptru_polnyiy_kurs_po_ReactJS_2017_RUS.html)
+
+### Торренты (зайти на сайт и ввести в строке поиска значение)
++ http://tparser.org/react - много курсов со всех торрентов
++ http://nnm-club.me - через внп
++ еще трекеры:
+  + http://torrentikofilm.com
+  + http://underverse.in
+  + http://torrent-soft.net
+  + http://ru-zerkalo.org
+  + https://omn-omn-omn.ru
+  + http://rutorka.net
+  + http://ba3a.net
+  + http://torrents43
+  + http://trackerok.org
 
 
 
 
-ИНТЕРЕСНЫЕ СТАТЬИ</br>
-https://codeburst.io/deploy-react-to-github-pages-to-create-an-amazing-website-42d8b09cd4d - как создать git page с приложением на react</br>
-https://habr.com/company/ruvds/blog/346090/ - 11 библиотек для реакта</br>
-https://tuhub.ru/posts/luchshie-praktiki-react-ajax - лучшие реакт практики</br>
-https://medium.com/@WoTzap/%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-setstate-%D1%8D%D1%82%D0%BE-%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B5-react-d262be6a6c02 - Функциональный setState()?—?это будущее React.</br>
-https://medium.com/@apolyntsev/9-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%BE%D0%B2-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5-%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD-%D0%B7%D0%BD%D0%B0%D1%82%D1%8C-%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%BE%D0%BA-%D0%B2-react-js-454e964062b - 9 принципов, которые должен знать новичок в React.js</br>
-https://medium.com/@abraztsov/%D0%BF%D0%B0%D1%82%D1%82%D0%B5%D1%80%D0%BD%D1%8B-%D0%B2-react-e5092c06f019 - По поводу паттернов в React</br>
-https://habr.com/post/309422/ - Паттерны React</br>
-https://avrylkov.github.io/react/ - отличные примеры на реакт</br>
+
+
+
+### ИНТЕРЕСНЫЕ СТАТЬИ
++ [как создать git page с приложением на react](https://codeburst.io/deploy-react-to-github-pages-to-create-an-amazing-website-42d8b09cd4d)
++ [11 библиотек для реакта](https://habr.com/company/ruvds/blog/346090/)
++ [лучшие реакт практики](https://tuhub.ru/posts/luchshie-praktiki-react-ajax)
++ [Функциональный setState()?—?это будущее React](https://medium.com/@WoTzap/%D1%84%D1%83%D0%BD%D0%BA%D1%86%D0%B8%D0%BE%D0%BD%D0%B0%D0%BB%D1%8C%D0%BD%D1%8B%D0%B9-setstate-%D1%8D%D1%82%D0%BE-%D0%B1%D1%83%D0%B4%D1%83%D1%89%D0%B5%D0%B5-react-d262be6a6c02)
++ [9 принципов, которые должен знать новичок в React.js](https://medium.com/@apolyntsev/9-%D0%BF%D1%80%D0%B8%D0%BD%D1%86%D0%B8%D0%BF%D0%BE%D0%B2-%D0%BA%D0%BE%D1%82%D0%BE%D1%80%D1%8B%D0%B5-%D0%B4%D0%BE%D0%BB%D0%B6%D0%B5%D0%BD-%D0%B7%D0%BD%D0%B0%D1%82%D1%8C-%D0%BD%D0%BE%D0%B2%D0%B8%D1%87%D0%BE%D0%BA-%D0%B2-react-js-454e964062b)
++ [По поводу паттернов в React](https://medium.com/@abraztsov/%D0%BF%D0%B0%D1%82%D1%82%D0%B5%D1%80%D0%BD%D1%8B-%D0%B2-react-e5092c06f019)
++ [Паттерны React](https://habr.com/post/309422/)
++ [отличные примеры на реакт](https://avrylkov.github.io/react/)
