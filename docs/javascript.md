@@ -119,7 +119,7 @@ http://keycode.info/ - кейкод</br>
   + http://ba3a.net
   + http://torrents43
 
-ТОРРЕНТ КУРСЫ ПО JS</br>
+### ТОРРЕНТ КУРСЫ ПО JS
 + [HTML Academy | Интенсивный онлайн-курс «Базовый JavaScript» (2017) PCRec [H.264]](https://smart-torrent.org/viewtopic.php?t=119014)
 + [Михаил Русаков | javascript, jQuery и Ajax с Нуля до Гуру [2013] PCRec](http://rutorka.net/mihail-rusakov-javascript-jquery-i-ajax-s-nulya-do-guru-pcrec-t20761.html)
 + [Комплексное обучение JavaScript. Видеокурс (2016) PCRec](http://ba3a.net/view.php?t=800300-kompleksnoe-obuchenie-javascript-videokurs-2016-pcrec)
