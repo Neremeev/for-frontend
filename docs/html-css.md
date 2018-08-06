@@ -1,5 +1,4 @@
-САЙТЫ ДЛЯ ОБУЧЕНИЯ:</br>
-html/css</br>
+h3 САЙТЫ ДЛЯ ОБУЧЕНИЯ HTML/CSS:</br>
 https://htmlacademy.ru/courses - html академия</br>
 https://htmlacademy.ru/program</br>
 http://htmlbook.ru/ - html book</br>
