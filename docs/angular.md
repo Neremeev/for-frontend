@@ -85,18 +85,21 @@
 
 /*------------------------------------------ANGULAR.2.4.5.6------------------------------------------*/
 
-https://metanit.com/web/angular2/
-Статьи</br>
-https://webformyself.com/marshrutizaciya-v-angular-5/</br>
-https://code.tutsplus.com/ru/tutorials/get-started-with-angular-2--cms-27268</br>
-https://habr.com/post/281190/</br>
-https://monsterlessons.com/project/lessons/angular2-tur-geroev-ustanovka</br>
-https://habr.com/post/335318/</br>
-https://habr.com/post/318682/</br>
-https://code.tutsplus.com/ru/tutorials/introduction-to-forms-in-angular-4-template-driven-forms--cms-29766</br>
-http://thewebland.net/angular-2/</br>
-https://shwanoff.ru/angular-5-app/</br>
-https://itvdn.com/ru/blog/article/angular5</br>
+### Руководство по Angular 6
++ https://metanit.com/web/angular2/
+
+### Статьи
++[Маршрутизация в Angular 5](https://webformyself.com/marshrutizaciya-v-angular-5/)
++ [Начинаем работать с Angular 2 и TypeScript](https://code.tutsplus.com/ru/tutorials/get-started-with-angular-2--cms-27268)
++ [Angular 2 Beta, обучающий курс «Тур героев» часть 1](https://habr.com/post/281190/)
++ [Angular2. Тур героев.](https://monsterlessons.com/project/lessons/angular2-tur-geroev-ustanovka)
++ [Angular 4 Material. Часть 1 — Создание и настройка проекта](https://habr.com/post/335318/)
++ [Просто Angular](https://habr.com/post/318682/)
++ [Введение в формы в Angular 4: шаблоны](https://code.tutsplus.com/ru/tutorials/introduction-to-forms-in-angular-4-template-driven-forms--cms-29766)
++ [Angular 2 / Angular 4](http://thewebland.net/angular-2/)
++ [Создание Angular 5 приложения](https://shwanoff.ru/angular-5-app/)
++ [ЧТО НОВОГО В ANGULAR 5](https://itvdn.com/ru/blog/article/angular5)
+
 
 Видеоуроки</br>
 + [Angular 4. Практика. Разработка реального ](https://www.youtube.com/watch?v=1jdqXQgm3zU&list=PLLvTAhHe8AYBYSWX-zaquA-hO9Ya94iQZ)
