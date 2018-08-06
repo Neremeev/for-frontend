@@ -27,6 +27,7 @@
 + [JSON](https://www.youtube.com/playlist?list=PLhe16itim17dxbQVkQPwCGLwgEKNk4ZUw)
 + [Изучение JavaScript от нуля до гуру](https://www.youtube.com/playlist?list=PL0lO_mIqDDFUGX9k45bZFuz1ixTvUhd7b)
 + [Уроки JavaScript (EcmaScript 6) ](https://www.youtube.com/watch?v=UJc9-yiMUb0&list=PLLvTAhHe8AYAzyzfqrh-CUKeoHunFtZOA)
++ [JavaScript решает](https://www.youtube.com/channel/UCP-xJwnvKCGyS-nbyOx1Wmg/videos)
 
 ### КНИГИ
 + https://yadi.sk/d/TWlU2ZLM3YNURM
@@ -94,9 +95,9 @@
 + [Топ вопросы на собеседовании по JavaScript: 3) Ключевое слово this](https://www.youtube.com/watch?v=qZDjK5BqLbM)
 
 
-СТАТЬИ</br>
-http://javascript.ru/basic/regular-expression+ - регулярные выражения</br>
-http://keycode.info/ - кейкод</br>
+### СТАТЬИ
++ [JavaScript 2016, а можно попроще?](https://habr.com/post/313234/)
++ [регулярные выражения](http://javascript.ru/basic/regular-expression+) - </br>
 
 ### Телеграмм
 + https://t.me/javascript_jobs
