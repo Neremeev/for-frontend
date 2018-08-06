@@ -78,25 +78,31 @@
 + [Уроки по JavaScript. Делаем игру Лабиринт на Джаваскрипт (Часть 2)](https://www.youtube.com/watch?v=cJxcsu0IH10)
 
 
-ЗАДАЧИ ПО JS</br>
-http://htmllab.ru/zadachi-po-javascript/</br>
-http://www.itmathrepetitor.ru/zadachi-po-javascript-iz-knigi-vyrazitelnyjj-javascript/</br>
-https://www.freecodecamp.org/</br>
-https://vk.com/zadachi_javascript_jquery/</br>
-http://theory.phphtml.net/tasks/javascript/</br>
-https://gist.github.com/codedokode/ce30e7a036f18f416ae0</br>
-http://belarusweb.net/js/js_exercises/js_exercises.html</br>
-https://proghub.ru/t/js-basic - тесты</br>
-http://www.quizful.net/test - тесты</br>
-https://techrocks.ru/2018/05/16/javascript-tasks-for-juniors/</br>
-https://www.youtube.com/watch?v=qQFJgsulLc4 реш</br>
-https://www.youtube.com/watch?v=G6t2sZEPhSI</br>
-https://www.youtube.com/watch?v=qZDjK5BqLbM</br>
+### ЗАДАЧИ ПО JS
++ [HTML лаборатория | htmllab.ru](http://htmllab.ru/zadachi-po-javascript/)
++ [ЗАДАЧИ ПО JAVASCRIPT ИЗ КНИГИ "ВЫРАЗИТЕЛЬНЫЙ JAVASCRIPT"](http://www.itmathrepetitor.ru/zadachi-po-javascript-iz-knigi-vyrazitelnyjj-javascript/)
++ [крутой сайт для решения разныз задач - freecodecamp.org](https://www.freecodecamp.org)
++ [zadachi_javascript_jquery](http://vk.com/club95028787)
++ [Задачник JavaScript и jQuery от Трепачёва Дмитрия](http://theory.phphtml.net/tasks/javascript/)
++ [Простые задачи на яваскрипт](https://gist.github.com/codedokode/ce30e7a036f18f416ae0)
++ [http://belarusweb.net](http://belarusweb.net)
++ [не работает ссылка](https://proghub.ru/t/js-basic)
++ [тесты](http://www.quizful.net/test)
++ [Где JavaScript джуну получать тестовые задания для практики?](https://techrocks.ru/2018/05/16/javascript-tasks-for-juniors/)
++ [JavaScript. Решение задач из собеседований](https://www.youtube.com/watch?v=qQFJgsulLc4)
++ [JavaScript. Решение задач из собеседований](https://www.youtube.com/watch?v=G6t2sZEPhSI)
++ [Топ вопросы на собеседовании по JavaScript: 3) Ключевое слово this](https://www.youtube.com/watch?v=qZDjK5BqLbM)
+
 
 СТАТЬИ</br>
 http://javascript.ru/basic/regular-expression+ - регулярные выражения</br>
 http://keycode.info/ - кейкод</br>
 
+### Телеграмм
++ https://t.me/javascript_jobs
++ https://t.me/javascriptjobs
++ https://t.me/js_ru
++ https://t.me/js_noobs_ru
 
 Торренты
 http://tparser.org/js
