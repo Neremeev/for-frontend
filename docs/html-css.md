@@ -1,5 +1,5 @@
 #### САЙТЫ ДЛЯ ОБУЧЕНИЯ HTML/CSS:
-<li>([html академия](https://htmlacademy.ru/courses))
+<li>[html академия](https://htmlacademy.ru/courses)</li>
 <li>[html академия - программа](https://htmlacademy.ru/program)
 <li>[html book](http://htmlbook.ru/)
 <li>[codebra.ru - html/css/js](https://codebra.ru/)
