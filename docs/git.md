@@ -10,12 +10,12 @@
 
 ### Статьи
 + [Как сделать репозиторий на Github Pages и как закоммитить в него изменения через Github for Desktop без командной строки](http://randomfederation.github.io)
-https://tproger.ru/translations/git-quick-start/</br>
-https://habr.com/post/342116/</br>
-https://www.hostinger.ru/rukovodstva/osnovi-git-chto-takoe-git</br>
-https://eax.me/git-commands/</br>
-https://proglib.io/p/git-for-half-an-hour/</br>
-https://ruhighload.com/5+%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%BE%D0%B2+%D0%BF%D0%BE+%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E+git</br>
++ [Git. Быстрый старт по использованию основных операций с объяснениями](https://tproger.ru/translations/git-quick-start/)
++ [Git на практике](https://habr.com/post/342116/)
++ [Что Такое GIT – Руководство по Основам GIT](https://www.hostinger.ru/rukovodstva/osnovi-git-chto-takoe-git)
++ [Моя шпаргалка по работе с Git](https://eax.me/git-commands/)
++ [Git за полчаса: руководство для начинающих](https://proglib.io/p/git-for-half-an-hour/)
++ [5 советов по использованию Git](https://ruhighload.com/5+%D1%81%D0%BE%D0%B2%D0%B5%D1%82%D0%BE%D0%B2+%D0%BF%D0%BE+%D0%B8%D1%81%D0%BF%D0%BE%D0%BB%D1%8C%D0%B7%D0%BE%D0%B2%D0%B0%D0%BD%D0%B8%D1%8E+git)
 
 ### Разметка в readme.md файлах
 + http://webdesign.ru.net/article/pravila-oformleniya-fayla-readmemd-na-github.html
