@@ -1,18 +1,18 @@
-Сайты
-https://metanit.com/web/typescript/1.1.php
-https://learn.javascript.ru/courses/typescript
-http://typescript-lang.ru/docs/
+### Сайты
++ [Введение в TypeScript](https://metanit.com/web/typescript/1.1.php)
++ [Курс по TypeScript платные](https://learn.javascript.ru/courses/typescript)
++ [Перевод официальной документации Typescript на русский](http://typescript-lang.ru/docs/)
 
-Статьи</br>
-https://habr.com/post/308374/</br>
-https://habr.com/post/258957/</br>
-https://medium.com/@sergey.bakaev/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D1%8B-%D0%B2-typescript-5ac4ae1de797</br>
-https://medium.com/devschacht/%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D1%8B-%D0%B8-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D1%8B-%D0%B2-typescript-ce556514b7d5
-https://proglib.io/p/javascript-vs-typescript/</br>
-https://medium.com/@frontman/%D0%BA%D0%BE%D1%80%D1%82%D0%B5%D0%B6%D0%B8-%D0%B2-javascript-%D0%B8-typescript-74950fac15c3</br>
-https://tproger.ru/translations/es5-es6-or-typescript/</br>
-https://webformyself.com/typescript-rabota-s-massivami/</br>
-https://tproger.ru/articles/how-to-learn-typescript/</br>
+### Статьи
++ [Стоит ли Typescript усилий?](https://habr.com/post/308374/)
++ [TypeScript: общие впечатления](https://habr.com/post/258957/)
++ [Интерфейсы в TypeScript](https://medium.com/@sergey.bakaev/%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D1%8B-%D0%B2-typescript-5ac4ae1de797)
++ [Классы и интерфейсы в TypeScript](https://medium.com/devschacht/%D0%BA%D0%BB%D0%B0%D1%81%D1%81%D1%8B-%D0%B8-%D0%B8%D0%BD%D1%82%D0%B5%D1%80%D1%84%D0%B5%D0%B9%D1%81%D1%8B-%D0%B2-typescript-ce556514b7d5)
++ [JavaScript vs TypeScript: что в каких случаях лучше использовать](https://proglib.io/p/javascript-vs-typescript/)
++ [Кортежи в JavaScript и TypeScript](https://medium.com/@frontman/%D0%BA%D0%BE%D1%80%D1%82%D0%B5%D0%B6%D0%B8-%D0%B2-javascript-%D0%B8-typescript-74950fac15c3)
++ [Что лучше изучить: JavaScript стандарта ES5, стандарта ES6 или TypeScript?](https://tproger.ru/translations/es5-es6-or-typescript/)
++ [TypeScript — Работа с массивами](https://webformyself.com/typescript-rabota-s-massivami/)
++ [Как выучить TypeScript за 2 дня и почему стоит начать прямо сейчас: опыт автора Tproger](https://tproger.ru/articles/how-to-learn-typescript/)
 
 Видеокурс</br>
 https://www.youtube.com/watch?v=5pAizRpodu4&list=PL16-BCTzDtaFwuQmD2izA_TGQlbVRF6Qh</br>
