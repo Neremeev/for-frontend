@@ -8,6 +8,10 @@
 + [world-html.narod.ru - html](http://world-html.narod.ru/page/teg.htm)
 + [freecodecamp.org - html/css/js](https://www.freecodecamp.org/)
 + [camouf.ru - html/css](https://camouf.ru/blog-note/?PAGEN_1=5)
++ [ruseller.com](https://ruseller.com/)
++ [intuit.ru](https://www.intuit.ru/search)
++ [htmlweb.ru](htmlweb.ru/ajax/ajax1.php)
++ [metanit](https://metanit.com/web/)
 
 
 #### ВИДЕОУРОКИ
@@ -72,9 +76,14 @@
   + [чек лист верстки](https://habr.com/post/114256/)
   + [локальная вертска](http://ktonanovenkogo.ru/html/div-verstka-html/blochnaya-verstka-div-verstka-kak-prizhat-footer-k-nizhnej-chasti-ekrana-maket-sajta-blochnoj-verstki.html)
 
+### ЗАДАЧИ
++ [Занимательные задачи CSS](http://vk.com/club77175148)
++ [http://belarusweb.net](http://belarusweb.net)
+
 
 ### Телеграмм
-+ @css_ru
++ https://t.me/css_ru
++ https://t.me/htmlacademy
 
 ### Торренты (зайти на сайт и ввести в строке поиска значение)
 + http://tparser.org/html - много курсов со всех торрентов
