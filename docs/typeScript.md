@@ -1,7 +1,7 @@
-Сайты</br>
-https://metanit.com/web/typescript/1.1.php</br>
-https://learn.javascript.ru/courses/typescript</br>
-http://typescript-lang.ru/docs/</br>
+Сайты
+https://metanit.com/web/typescript/1.1.php
+https://learn.javascript.ru/courses/typescript
+http://typescript-lang.ru/docs/
 
 Статьи</br>
 https://habr.com/post/308374/</br>
@@ -23,10 +23,21 @@ https://www.youtube.com/watch?v=U0bnSOWVoEw&list=PLLvTAhHe8AYDri85O-x9wHPZ_iIZ1M
 https://www.youtube.com/watch?v=_3n4JdZdXWo</br>
 https://www.youtube.com/watch?v=k_ZtVc1S8Ww&t=7s</br>
 
-Торренты</br>
-http://tparser.org/typescript</br>
-http://nnm-club.me</br>
+### Торренты (зайти на сайт и ввести в строке поиска значение)
++ http://tparser.org/typescript - много курсов со всех торрентов
++ http://nnm-club.me - через внп
++ еще трекеры(через внп):
+  + http://torrentikofilm.com
+  + http://underverse.in
+  + http://torrent-soft.net
+  + http://ru-zerkalo.org
+  + https://omn-omn-omn.ru
+  + https://smart-torrent.org
+  + http://torrent-soft.net
+  + http://rutorka.net
+  + http://ba3a.net
+  + http://torrents43
+  + http://trackerok.org
 
-
-Телеграмм</br>
-@typescript_ru</br>
+### Телеграмм
++ @typescript_ru
