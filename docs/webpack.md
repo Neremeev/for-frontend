@@ -14,31 +14,17 @@
 + [Узнайте, как включить Bootstrap в свой проект с помощью Webpack 3.](http://bootstrap-4.ru/docs/4.0/getting-started/webpack/)
 
 ### Видеоуроки
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-+ []()
-https://www.youtube.com/watch?v=MRlBKfGktwI</br>
-https://www.youtube.com/watch?v=kLMjOd-x0aQ&list=PLDyvV36pndZHfBThhg4Z0822EEG9VGenn</br>
-https://www.youtube.com/watch?v=X6qde-zvw00</br>
-https://www.youtube.com/watch?v=BDQ-5e-WFG8</br>
-https://www.youtube.com/watch?v=Vqple_TvaQA</br>
-https://www.youtube.com/watch?v=YgmupTGXkR4</br>
-https://www.youtube.com/watch?v=uSYN9Fign-s</br>
-https://www.youtube.com/watch?v=mU_vRythpgY</br>
-https://www.youtube.com/watch?v=HvUatWnQa60</br>
-https://www.youtube.com/watch?v=X6qde-zvw00&list=PLbZerpEHZ8s0GgEcddz186-xRs8X0t0rA</br>
-https://www.youtube.com/watch?v=mU_vRythpgY&list=PLIcAMDxr6tpoydz_xjYlcFdZ1ZzFIMGtE</br>
++ [Webpack 4 - простая сборка проекта](https://www.youtube.com/watch?v=MRlBKfGktwI)
++ [Webpack 1: Введение](https://www.youtube.com/watch?v=kLMjOd-x0aQ&list=PLDyvV36pndZHfBThhg4Z0822EEG9VGenn)
++ [Webpack 2 — #1 — Знакомство](https://www.youtube.com/watch?v=X6qde-zvw00)
++ [Что такое Webpack и зачем нужен Webpack](https://www.youtube.com/watch?v=BDQ-5e-WFG8)
++ [Настройка Webpack для быстрой front-end разработки [GeekBrains]](https://www.youtube.com/watch?v=Vqple_TvaQA)
++ [Webpack для самых маленьких](https://www.youtube.com/watch?v=YgmupTGXkR4)
++ [Собираем фронтенд с Webpack](https://www.youtube.com/watch?v=uSYN9Fign-s)
++ [Webpack - #1 - Знакомимся с сборщиком модулей](https://www.youtube.com/watch?v=mU_vRythpgY)
++ [Webpack. Что такое Webpack](https://www.youtube.com/watch?v=HvUatWnQa60)
++ [Webpack 2](https://www.youtube.com/watch?v=X6qde-zvw00&list=PLbZerpEHZ8s0GgEcddz186-xRs8X0t0rA)
++ [Webpack уроки](https://www.youtube.com/watch?v=mU_vRythpgY&list=PLIcAMDxr6tpoydz_xjYlcFdZ1ZzFIMGtE)
 
 ### Телеграмм
 + @webpack_ru
