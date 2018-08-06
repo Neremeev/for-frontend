@@ -1,21 +1,16 @@
 ### книги
 + https://yadi.sk/d/1_JOIMkm3Zuwjg
 
-
-https://www.youtube.com/watch?v=LP7s_ThcO5k&index=3&list=PLOQDek48BpZEs9-NCQGC6HOSfEbXReVjA
-
-### Сайты</br>
-http://bootstrap-4.ru/</br>
-http://getbootstrap.ru/</br>
-http://mybootstrap.ru/</br>
-http://bootstrap-ru.com/</br>
-
-https://sass-scss.ru/</br>
-https://tokar.ua/read/6672</br>
-http://www.unix-lab.org/posts/sass/</br>
-
-http://css.yoksel.ru/flexbox/</br>
-http://css-live.ru/articles/vizualnoe-rukovodstvo-po-svojstvam-flexbox-iz-css3.html</br>
+### Сайты
++ [Документация bootstrap-4](http://bootstrap-4.ru/)
++ [Bootstrap 4 на русском, уже сейчас!](http://getbootstrap.ru/)
++ [Bootstrap](http://mybootstrap.ru/)
++ [Bootstrap](http://bootstrap-ru.com/)
++ [SASS](https://sass-scss.ru/)
++ [Руководство по SASS](https://tokar.ua/read/6672)
++ [Верстаем макеты с SASS/SCSS](http://www.unix-lab.org/posts/sass/)
++ [Flexbox](http://css.yoksel.ru/flexbox/)
++ [Визуальное руководство по свойствам Flexbox из CSS3](http://css-live.ru/articles/vizualnoe-rukovodstvo-po-svojstvam-flexbox-iz-css3.html)
 
 
 ### Статьи</br>
@@ -68,7 +63,7 @@ https://www.youtube.com/watch?v=iNPE0zGucTo</br>
 https://www.youtube.com/watch?v=2JMMnNOhDoc</br> 
 https://www.youtube.com/watch?v=Xoo5WT5tW2I&list=PLVfMKQXDAhGUxJ4prQSC2K13-YlYj8LgB</br> 
 https://www.youtube.com/watch?v=SQIh8SBXc5c</br> 
-
+https://www.youtube.com/watch?v=LP7s_ThcO5k&index=3&list=PLOQDek48BpZEs9-NCQGC6HOSfEbXReVjA
 
 ### предпроцессоры</br>
 http://sass-lang.com/, http://lesscss.ru/, http://lesscss.org/, http://learnboost.github.io/stylus/</br> 
