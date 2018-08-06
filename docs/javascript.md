@@ -1,17 +1,18 @@
-САЙТЫ ДЛЯ ОБУЧЕНИЯ JS</br>
-http://compteacher.ru/programming/589-javascript-uroki-obuchenie-onlayn.html</br>
-http://irbis-school.com/</br>
-https://learn.javascript.ru/</br>
-https://loftblog.ru/</br>
-http://frontend-science.com/advanced/#format - платный ресурс</br>
-https://ru.hexlet.io/ - платный ресурс</br>
-https://ru.hexlet.io/professions#frontend</br>
-https://ruseller.com/</br>
-https://www.intuit.ru/search</br>
-https://htmlweb.ru/ajax/ajax1.php</br>
-https://metanit.com/web/</br>
-http://bonsaiden.github.io/JavaScript-Garden/ru/</br>
-https://developer.mozilla.org/ru/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript</br>
+### САЙТЫ ДЛЯ ОБУЧЕНИЯ JS
++ [IRBIS-school](http://irbis-school.com/)
++ [Javascript уроки (обучение онлайн)](http://compteacher.ru/programming/589-javascript-uroki-obuchenie-onlayn.html)
++ [learn.javascript.ru](https://learn.javascript.ru/)
++ [loftblog](https://loftblog.ru/lessons/frontend/)
++ [платный ресурс](http://frontend-science.com/advanced/#format)
++ [платный ресурс](https://ru.hexlet.io/)
++ [ruseller.com](https://ruseller.com/)
++ [intuit.ru](https://www.intuit.ru/search)
++ [htmlweb.ru](htmlweb.ru/ajax/ajax1.php)
++ [metanit](https://metanit.com/web/)
++ [JavaScript-Garden](http://bonsaiden.github.io/JavaScript-Garden/ru/)
++ [MDN](https://developer.mozilla.org/ru/docs/Web/JavaScript/Introduction_to_Object-Oriented_JavaScript)
++ []()
+
 
 ВИДЕОУРОКИ</br>
 https://www.youtube.com/watch?v=UJc9-yiMUb0&list=PLLvTAhHe8AYAzyzfqrh-CUKeoHunFtZOA jses6</br>
