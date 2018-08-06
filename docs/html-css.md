@@ -1,14 +1,14 @@
 #### САЙТЫ ДЛЯ ОБУЧЕНИЯ HTML/CSS:
-<li>
-[html академия](https://htmlacademy.ru/courses)
-<li>[html академия - программа](https://htmlacademy.ru/program)
-<li>[html book](http://htmlbook.ru/)
-<li>[codebra.ru - html/css/js](https://codebra.ru/)
-<li>[postroika.ru - html/css/js](http://www.postroika.ru/html/)
-<li>[html5book.ru](https://html5book.ru/html-tags/)
-<li>[world-html.narod.ru - html](http://world-html.narod.ru/page/teg.htm)
-<li>[freecodecamp.org - html/css/js](https://www.freecodecamp.org/)
-<li>[camouf.ru - html/css](https://camouf.ru/blog-note/?PAGEN_1=5)
+
+<li>)[html академия](https://htmlacademy.ru/courses)
+[html академия - программа](https://htmlacademy.ru/program)
+[html book](http://htmlbook.ru/)
+[codebra.ru - html/css/js](https://codebra.ru/)
+[postroika.ru - html/css/js](http://www.postroika.ru/html/)
+[html5book.ru](https://html5book.ru/html-tags/)
+[world-html.narod.ru - html](http://world-html.narod.ru/page/teg.htm)
+[freecodecamp.org - html/css/js](https://www.freecodecamp.org/)
+[camouf.ru - html/css](https://camouf.ru/blog-note/?PAGEN_1=5)
 []()</br>
 
 
