@@ -12,13 +12,13 @@
 + https://metanit.com/web/angular/
 + https://learn.javascript.ru/courses/angular - платный
 
-СТАТЬИ</br>
-https://m.habr.com/post/246881/</br>
-http://w3.org.ua/angular/angular-1/</br>
-https://webformyself.com/category/premium/javascript-premium/angjspremium/</br>
-http://iantonov.me/page/angularjs-osnovy</br>
+### СТАТЬИ
++ [Учебник AngularJS: Всеобъемлющее руководство](https://m.habr.com/post/246881/)
++ [W3.ORG.UA](http://w3.org.ua/angular/angular-1/)
++ [Уроки AngularJS](https://webformyself.com/category/premium/javascript-premium/angjspremium/)
++ [Angular.JS. Быстрое знакомство с популярным фреймворком от Google](http://iantonov.me/page/angularjs-osnovy)
 
-Видеокурсы</br>
+### Видеокурсы
 https://www.youtube.com/watch?v=CyWJZnNpezU&list=PLY4rE9dstrJxWEX3fCPjFpmcnoU_3GRWW</br>
 https://www.youtube.com/watch?v=1jdqXQgm3zU&list=PLLvTAhHe8AYBYSWX-zaquA-hO9Ya94iQZ</br>
 https://www.youtube.com/watch?v=ELR_bjGqj4M&index=70&list=PLLvTAhHe8AYCflB7fv79TU9Y6WK52L8nb</br>
@@ -34,6 +34,15 @@ https://www.youtube.com/watch?v=MrOOuW6jHWU роутинг</br>
 https://www.youtube.com/watch?v=o0wExqfwGbg</br>
 https://www.youtube.com/watch?v=eU9t_cmm7qw</br>
 
++ []()
+
++ []()
++ []()
++ []()
+
++ []()
++ []()
++ []()
 
 Монстер</br>
 https://www.youtube.com/watch?v=g41QNEqTE-E&list=PLIcAMDxr6tpqXzsd4AO0HehPCQtIf4TgP</br>
