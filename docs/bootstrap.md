@@ -11,39 +11,36 @@
 + [Верстаем макеты с SASS/SCSS](http://www.unix-lab.org/posts/sass/)
 + [Flexbox](http://css.yoksel.ru/flexbox/)
 + [Визуальное руководство по свойствам Flexbox из CSS3](http://css-live.ru/articles/vizualnoe-rukovodstvo-po-svojstvam-flexbox-iz-css3.html)
++ [гайд по флексам](https://css-tricks.com/snippets/css/a-guide-to-flexbox/)
 
 
-### Статьи</br>
-https://proglib.io/p/bootstrap-4-part-1/</br>
-https://helpx.adobe.com/ru/dreamweaver/using/bootstrap.html</br>
-https://medium.com/@stasonmars/%D1%81%D0%B0%D0%BC%D1%8B%D0%B5-%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B5-%D1%85%D0%B8%D1%82%D1%80%D0%BE%D1%81%D1%82%D0%B8-%D0%B2-bootstrap-f194058dc177</br>
-https://habr.com/company/ruvds/blog/350758/</br>
-
-https://proglib.io/p/sass-for-15-minutes/</br>
-http://www.internet-technologies.ru/articles/izuchaem-sass-rukovodstvo-dlya-novichka.html</br>
-
-https://proglib.io/p/css-grid-vs-flexbox/</br>
-https://tproger.ru/translations/css-flexbox-grid/</br>
-http://www.internet-technologies.ru/articles/polnoe-rukovodstvo-po-flexbox.html</br>
-http://www.webmasters.by/articles/html-coding/3467-guide-to-css3-flexbox-properties.html</br>
-https://webformyself.com/modul-flexbox-urok-1/</br>
-http://htmlbook.ru/blog/css-grid-i-flexbox-sravnenie-na-praktike</br>
-https://html5book.ru/css3-flexbox/</br>
-https://tuhub.ru/posts/flexbox-complete-guide</br>
-https://tproger.ru/translations/how-css-flexbox-works/</br>
-https://habr.com/post/313938/</br>
-http://htmlbook.ru/metki/flexbox</br>
-https://tuhub.ru/posts/css-grid-complete-guide</br>
-https://habr.com/company/edison/blog/343614/</br>
-https://medium.com/@stasonmars/%D0%B2%D0%B5%CC%88%D1%80%D1%81%D1%82%D0%BA%D0%B0-%D0%BD%D0%B0-grid-%D0%B2-css-%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5-%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%B8-%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA-220508316f8b</br>
-https://proglib.io/p/css-grid/</br>
-https://ru.hexlet.io/blog/posts/css-grid-is-better</br>
-https://tproger.ru/translations/getting-started-with-css-grid/</br>
+### Статьи
++ [Знакомимся с Bootstrap 4: нововведения, основные стили](https://proglib.io/p/bootstrap-4-part-1/)
++ [Создание динамичных веб-сайтов с помощью Bootstrap](https://helpx.adobe.com/ru/dreamweaver/using/bootstrap.html)
++ [Самые полезные хитрости в Bootstrap](https://medium.com/@stasonmars/%D1%81%D0%B0%D0%BC%D1%8B%D0%B5-%D0%BF%D0%BE%D0%BB%D0%B5%D0%B7%D0%BD%D1%8B%D0%B5-%D1%85%D0%B8%D1%82%D1%80%D0%BE%D1%81%D1%82%D0%B8-%D0%B2-bootstrap-f194058dc177)
++ [Начинающему веб-мастеру: делаем одностраничник на Bootstrap 4 за полчаса](https://habr.com/company/ruvds/blog/350758/)
++ [Sass за 15 минут](https://proglib.io/p/sass-for-15-minutes/)
++ [Изучаем SASS: руководство для новичка](http://www.internet-technologies.ru/articles/izuchaem-sass-rukovodstvo-dlya-novichka.html)
++ [CSS-Grid VS Flexbox](https://proglib.io/p/css-grid-vs-flexbox/)
++ [Flexbox и Grid: знакомство с CSS-вёрсткой в 2017 году](https://tproger.ru/translations/css-flexbox-grid/)
++ [Полное руководство по Flexbox](http://www.internet-technologies.ru/articles/polnoe-rukovodstvo-po-flexbox.html)
++ [Подробное руководство по свойству CSS3 Flexbox](http://www.webmasters.by/articles/html-coding/3467-guide-to-css3-flexbox-properties.html)
++ [Модуль Flexbox. Урок 1](https://webformyself.com/modul-flexbox-urok-1/)
++ [CSS Grid и Flexbox: сравнение на практике](http://htmlbook.ru/blog/css-grid-i-flexbox-sravnenie-na-praktike)
++ [CSS3 flexbox](https://html5book.ru/css3-flexbox/)
++ [Полное руководство по Flexbox](https://tuhub.ru/posts/flexbox-complete-guide)
++ [Как работает CSS Flexbox: наглядное введение в систему компоновки элементов на веб-странице](https://tproger.ru/translations/how-css-flexbox-works/)
++ [Шпаргалка по Flexbox (CSS3 Flexible Box)](https://habr.com/post/313938/)
++ [Flexbox](http://htmlbook.ru/metki/flexbox)
++ [Полное руководство по CSS Grid](https://tuhub.ru/posts/css-grid-complete-guide)
++ [Учим CSS Grid за 5 минут](https://habr.com/company/edison/blog/343614/)
++ [Вёрстка на Grid в CSS. Полное руководство и справочник](https://medium.com/@stasonmars/%D0%B2%D0%B5%CC%88%D1%80%D1%81%D1%82%D0%BA%D0%B0-%D0%BD%D0%B0-grid-%D0%B2-css-%D0%BF%D0%BE%D0%BB%D0%BD%D0%BE%D0%B5-%D1%80%D1%83%D0%BA%D0%BE%D0%B2%D0%BE%D0%B4%D1%81%D1%82%D0%B2%D0%BE-%D0%B8-%D1%81%D0%BF%D1%80%D0%B0%D0%B2%D0%BE%D1%87%D0%BD%D0%B8%D0%BA-220508316f8b)
++ [Выучить CSS Grid за 5 минут – миссия выполнима](https://proglib.io/p/css-grid/)
++ [Почему CSS Grid лучше Bootstrap для создания макетов](https://ru.hexlet.io/blog/posts/css-grid-is-better)
++ [Начало работы с CSS Grid Layout: подборка полезных ресурсов и руководств](https://tproger.ru/translations/getting-started-with-css-grid/)
 
 
 ### Флексбокс:</br> 
-https://css-tricks.com/snippets/css/a-guide-to-flexbox/ - гайд по флексам.</br>
-http://css-live.ru/articles/vizualnoe-rukovodstvo-po-svojstvam-flexbox-iz-css3.html</br>
 https://www.youtube.com/watch?v=38bMnJ2l4bg&t=1s</br>
 https://www.youtube.com/watch?v=7Lg-438gAc8&list=PLqHlAwsJRxAPs942EdJ1akeWpOg2yatiM</br>
 https://www.youtube.com/watch?v=duWfUzXPgNc</br>
