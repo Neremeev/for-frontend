@@ -46,7 +46,7 @@
 + [Создание сервиса в Angular JS](https://www.youtube.com/watch?v=Psa83XpXUAs)
 + [Обзор Angular JS](https://www.youtube.com/watch?v=X8EiFmecLSM&list=PL-ss7IpVOiB5DKGi5wcSPsF1OWcJSW791)
 + [Angular+Meteor. Ускоренное создание приложений [GeekBrains]](https://www.youtube.com/watch?v=jAlXRdNqNtg)
-+ Знакомство с Angular (CLI, Material): пишем ToDo приложение[](https://www.youtube.com/watch?v=eCQ8IkvANvk)
++ [Знакомство с Angular (CLI, Material): пишем ToDo приложение](https://www.youtube.com/watch?v=eCQ8IkvANvk)
 + [AngularJS Приложение "Phonebook" Ч. 1](https://www.youtube.com/watch?v=vN6GUWSA0CM)
 + [AngularJS на практике - пример реальной директивы](https://www.youtube.com/watch?v=r4KAPcjSrNM)
 + [Урок 81. Angular js. Валидация формы](https://www.youtube.com/watch?v=DRYdpLI88jE)
