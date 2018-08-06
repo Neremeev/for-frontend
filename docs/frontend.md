@@ -16,7 +16,7 @@
 + https://t.me/front_ender
 + https://t.me/PROprgmr
 
-### ФОРУМЫ ДЛЯ ПРОГРАММИСТОВ</br>
+### ФОРУМЫ ДЛЯ ПРОГРАММИСТОВ
 + http://javascript.ru/ - js форум
 + http://www.cyberforum.ru/
 + http://www.programmersforum.ru/
@@ -30,26 +30,24 @@
 + https://habr.com/hub/webdev/ - статьи по web
 + https://habr.com/hub/reactjs/ - статьи по react и тд. находите подборку статей по вкусу
 
-
-### ЮТУБ РЕСУРСЫ(КОТОРЫХ НЕ БЫЛО В ПРЕДЫДУЩИХ ДОКАХ)</br>
-https://www.youtube.com/channel/UC3dBY4izZRo4OTNqCGdnWuA - html/css</br>
-https://www.youtube.com/watch?v=Jf9FYXuM_Ts&list=PLvItDmb0sZw_TOs9WEh4Iu2vguvJ69Tr- - html/css</br>
-https://www.youtube.com/channel/UCP-xJwnvKCGyS-nbyOx1Wmg - канал про js</br>
-https://www.youtube.com/channel/UCIIt69f5D44s2cdb9vXQNzA - в целом хороший канал</br>
-https://www.youtube.com/channel/UC0Fl0gKuawQQs8jf35T_kfg - css</br>
-https://www.youtube.com/channel/UCUzksGhlJU0rNF5KneUZkSA - html/css</br>
-https://www.youtube.com/user/RomeroSanFran/videos - советы программиста</br>
-https://www.youtube.com/user/ArtSorax/videos - html/css/js</br>
-https://www.youtube.com/user/agragregra/playlists - веб дизайн</br>
-https://www.youtube.com/user/PlurrimiTube/videos - в целом хороший канал</br>
-https://www.youtube.com/user/dmitrylavr/playlists - html/css/js</br>
-https://www.youtube.com/watch?v=KmTK8kub_gw - в целом хороший канал</br>
-https://www.youtube.com/channel/UCP-xJwnvKCGyS-nbyOx1Wmg/featured - js</br>
-https://www.youtube.com/watch?v=kqjkAPuyIns&list=PLtOdYVIbXMFSXx1UQlCYYaQS5jp3ottou - лекции по js</br>
-https://www.youtube.com/user/uwebdesign - хороший канал</br>
-https://www.youtube.com/user/HexletUniversity - хекслет</br>
-https://www.youtube.com/watch?v=0e9eyrxB-LU - привет интернет</br>
-https://www.youtube.com/user/HillelITSchool/videos - еще один канал</br>
+### ЮТУБ РЕСУРСЫ(КОТОРЫХ НЕ БЫЛО В ПРЕДЫДУЩИХ ДОКАХ)
++ [хороший канал](https://www.youtube.com/user/HexletUniversity)
++ [хекслет](https://www.youtube.com/user/uwebdesign)
++ [лекции по js](https://www.youtube.com/watch?v=kqjkAPuyIns&list=PLtOdYVIbXMFSXx1UQlCYYaQS5jp3ottou)
++ [js](https://www.youtube.com/channel/UCP-xJwnvKCGyS-nbyOx1Wmg/featured)
++ [в целом хороший канал](https://www.youtube.com/watch?v=KmTK8kub_gw)
++ [html/css/js](https://www.youtube.com/user/dmitrylavr/playlists)
++ [в целом хороший канал](https://www.youtube.com/user/PlurrimiTube/videos)
++ [веб дизайн](https://www.youtube.com/user/agragregra/playlists)
++ [html/css/js](https://www.youtube.com/user/ArtSorax/videos)
++ [html/css](https://www.youtube.com/channel/UCUzksGhlJU0rNF5KneUZkSA)
++ [css](https://www.youtube.com/channel/UC0Fl0gKuawQQs8jf35T_kfg)
++ [в целом хороший канал](https://www.youtube.com/channel/UCIIt69f5D44s2cdb9vXQNzA)
++ [канал про js](https://www.youtube.com/channel/UCP-xJwnvKCGyS-nbyOx1Wmg)
++ [html/css](https://www.youtube.com/watch?v=Jf9FYXuM_Ts&list=PLvItDmb0sZw_TOs9WEh4Iu2vguvJ69Tr-)
++ [html/css](https://www.youtube.com/channel/UC3dBY4izZRo4OTNqCGdnWuA)
++ [привет интернет](https://www.youtube.com/watch?v=0e9eyrxB-LU)
++ [еще один канал](https://www.youtube.com/user/HillelITSchool/videos)
 
 ### БИБЛИОТЕКИ ДЛЯ JS
 + lodash
@@ -113,7 +111,7 @@ https://www.youtube.com/user/HillelITSchool/videos - еще один канал<
 ### МОРЕ КУРСОВ НА АНГЛ И РУССКОМ ЯЗЫКЕ
 + https://coursehunters.net/
 
-### ПРО БЭМ</br>
+### ПРО БЭМ
 + https://ru.bem.info/methodology/
 + https://habr.com/post/203440/
 
@@ -133,7 +131,7 @@ https://www.youtube.com/user/HillelITSchool/videos - еще один канал<
 + http://tparser.org/GeekBrains
 + https://loftschool.com/uploads/courses/manuals/js-metod.pdf
 
-### для работы с png</br>
+### для работы с png
 + https://www.iloveimg.com/ru/resize-image - менять размер
 + https://online-fotoshop.ru/ubrat-fon-online/ - белый фон
 + https://www.imgonline.com.ua/replace-color-result.php - менять цвет
