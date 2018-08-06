@@ -40,83 +40,119 @@
 + [Начало работы с CSS Grid Layout: подборка полезных ресурсов и руководств](https://tproger.ru/translations/getting-started-with-css-grid/)
 
 
-### Флексбокс:</br> 
-https://www.youtube.com/watch?v=38bMnJ2l4bg&t=1s</br>
-https://www.youtube.com/watch?v=7Lg-438gAc8&list=PLqHlAwsJRxAPs942EdJ1akeWpOg2yatiM</br>
-https://www.youtube.com/watch?v=duWfUzXPgNc</br>
-https://www.youtube.com/watch?v=hrFPD0nkRVA</br>
-https://www.youtube.com/watch?v=yK7WEt-CdhI</br>
-https://www.youtube.com/watch?v=FLbvUFVr3bg</br>
-https://www.youtube.com/watch?v=C2W7ICgGRbo&list=PLVfMKQXDAhGVkBdjLJmb4TwLAnEhtiQf-</br>
 
-### Грид</br> 
-https://www.youtube.com/watch?v=-fDqBEjfzGo&t=1993s</br> 
-https://www.youtube.com/watch?v=m16v1KkZoi8</br> 
-https://www.youtube.com/watch?v=s6RCsjcQADc</br> 
-https://www.youtube.com/watch?v=IPZbSM-Wpos</br> 
-https://www.youtube.com/watch?v=iNPE0zGucTo</br> 
 
-### bootstrap 4</br> 
-https://www.youtube.com/watch?v=2JMMnNOhDoc</br> 
-https://www.youtube.com/watch?v=Xoo5WT5tW2I&list=PLVfMKQXDAhGUxJ4prQSC2K13-YlYj8LgB</br> 
-https://www.youtube.com/watch?v=SQIh8SBXc5c</br> 
+### Видеоуроки
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
++ []()
+https://www.youtube.com/watch?v=TZSY6rDUDrE&list=PL0lO_mIqDDFUQI5lrRlZfkApMWtJJ7GFE
+https://www.youtube.com/watch?v=AYkEfr-5b1o&list=PLypd1VrGv7FPokhw3f5pwBQTHsU9T2mBq
+https://www.youtube.com/watch?v=9akF4udEueA&list=PLY4rE9dstrJwP_JUTts9AtMVtJlJVGxWK
+https://www.youtube.com/watch?v=9fzopWJcdMc&list=PLzBCKSyQEHOWprnModVfJSfBqpzxQ4R16
+https://www.youtube.com/watch?v=s4tZoHSAW2g&list=PLvWwA9iDlhHA0KfoHyxP6RmTg0fj2ProC
+https://www.youtube.com/watch?v=7Lg-438gAc8&list=PLqHlAwsJRxAPs942EdJ1akeWpOg2yatiM
+https://www.youtube.com/watch?v=Xoo5WT5tW2I&list=PLVfMKQXDAhGUxJ4prQSC2K13-YlYj8LgB
+https://www.youtube.com/watch?v=g25wH4Xtyh8&list=PLVfMKQXDAhGWUv_Q0b6WbBzBPtf6T1wE8
 https://www.youtube.com/watch?v=LP7s_ThcO5k&index=3&list=PLOQDek48BpZEs9-NCQGC6HOSfEbXReVjA
+https://www.youtube.com/watch?v=CDWMSF0nI2A&list=PLVfMKQXDAhGUfYoL11n_cnM7yE1aW1x4E
+https://www.youtube.com/watch?v=4Fl23vtPRx0&list=PLVfMKQXDAhGXMqOHEUVvn8WREVuXNfxZ-
+https://www.youtube.com/watch?v=C2W7ICgGRbo&list=PLVfMKQXDAhGVkBdjLJmb4TwLAnEhtiQf-
+https://www.youtube.com/watch?v=RNjnRA0QSug&list=PLY4rE9dstrJzj68Y8SlQlhIdb5hbGQLIU
+https://www.youtube.com/watch?v=viWBi8YZHXU&list=PLcVuGt1dXgc0G1pCG1J9KjTFtTMsSs_9z
+https://www.youtube.com/watch?v=2JMMnNOhDoc&t=2s
+https://www.youtube.com/watch?v=SQIh8SBXc5c&t=12s
+https://www.youtube.com/watch?v=-wcy1Bsq-Ls
+https://www.youtube.com/watch?v=mVxkR50XL_E
+https://www.youtube.com/watch?v=38bMnJ2l4bg&t=1s
+https://www.youtube.com/watch?v=duWfUzXPgNc
+https://www.youtube.com/watch?v=hrFPD0nkRVA
+https://www.youtube.com/watch?v=yK7WEt-CdhI
+https://www.youtube.com/watch?v=FLbvUFVr3bg
+https://www.youtube.com/watch?v=-fDqBEjfzGo&t=1993s
+https://www.youtube.com/watch?v=m16v1KkZoi8
+https://www.youtube.com/watch?v=s6RCsjcQADc
+https://www.youtube.com/watch?v=IPZbSM-Wpos
+https://www.youtube.com/watch?v=iNPE0zGucTo
+https://www.youtube.com/watch?v=2JMMnNOhDoc
+https://www.youtube.com/watch?v=SQIh8SBXc5c
+https://www.youtube.com/watch?v=H4cG4tbc-xQ
+https://www.youtube.com/watch?v=EO8mZZxNuBI
+https://www.youtube.com/watch?v=s6RCsjcQADc&t=26s
+https://www.youtube.com/watch?v=RNjnRA0QSug
+https://www.youtube.com/watch?v=IPZbSM-Wpos&t=10s
+https://www.youtube.com/watch?v=8COwPk7H2hk
+https://www.youtube.com/watch?v=txOKjSEwHVM
+https://www.youtube.com/watch?v=38bMnJ2l4bg&t=14s
+https://www.youtube.com/watch?v=RCZxzk9tyE4
+https://www.youtube.com/watch?v=hrFPD0nkRVA&t=12s
+https://www.youtube.com/watch?v=duWfUzXPgNc&t=4s
+https://www.youtube.com/watch?v=yK7WEt-CdhI&t=4s
+https://www.youtube.com/watch?v=FLbvUFVr3bg&t=717s
+https://www.youtube.com/watch?v=fecXcorm6Ms
+https://www.youtube.com/watch?v=CvX-jx-a_EI
+https://www.youtube.com/watch?v=CDWMSF0nI2A&t=9s
+https://www.youtube.com/watch?v=KkH_i4nw_Bs
+https://www.youtube.com/watch?v=WM1fzRm152g
+https://www.youtube.com/watch?v=EVROZN5B6OI
+https://www.youtube.com/watch?v=zFIltkLv5eI
+https://www.youtube.com/watch?v=H4cG4tbc-xQ&t=14s
+https://www.youtube.com/watch?v=EO8mZZxNuBI&t=9s
+https://www.youtube.com/watch?v=9QnJO7gXk3o&t=341s
+https://www.youtube.com/watch?v=ColaCPC08ZY&t=551s
+https://www.youtube.com/watch?v=iWOGk_b2yac
+https://www.youtube.com/watch?v=iy5geRAZGm8
 
-### предпроцессоры</br>
-http://sass-lang.com/, http://lesscss.ru/, http://lesscss.org/, http://learnboost.github.io/stylus/</br> 
-https://www.youtube.com/watch?v=H4cG4tbc-xQ - sass</br> 
-https://www.youtube.com/watch?v=EO8mZZxNuBI - sass</br> 
-https://sass-scss.ru/ - sass документация на русском</br> 
-
-
-
-
-### Видеоуроки</br>
-https://www.youtube.com/watch?v=TZSY6rDUDrE&list=PL0lO_mIqDDFUQI5lrRlZfkApMWtJJ7GFE</br>
-https://www.youtube.com/watch?v=AYkEfr-5b1o&list=PLypd1VrGv7FPokhw3f5pwBQTHsU9T2mBq</br>
-https://www.youtube.com/watch?v=9akF4udEueA&list=PLY4rE9dstrJwP_JUTts9AtMVtJlJVGxWK</br>
-https://www.youtube.com/watch?v=9fzopWJcdMc&list=PLzBCKSyQEHOWprnModVfJSfBqpzxQ4R16</br>
-https://www.youtube.com/watch?v=2JMMnNOhDoc&t=2s</br>
-https://www.youtube.com/watch?v=SQIh8SBXc5c&t=12s</br>
-https://www.youtube.com/watch?v=s4tZoHSAW2g&list=PLvWwA9iDlhHA0KfoHyxP6RmTg0fj2ProC</br>
-https://www.youtube.com/watch?v=-wcy1Bsq-Ls</br>
-https://www.youtube.com/watch?v=mVxkR50XL_E</br>
-https://www.youtube.com/watch?v=Xoo5WT5tW2I&list=PLVfMKQXDAhGUxJ4prQSC2K13-YlYj8LgB</br>
-https://www.youtube.com/watch?v=g25wH4Xtyh8&list=PLVfMKQXDAhGWUv_Q0b6WbBzBPtf6T1wE8</br>
-
-
-https://www.youtube.com/watch?v=CDWMSF0nI2A&list=PLVfMKQXDAhGUfYoL11n_cnM7yE1aW1x4E - flex</br>
-https://www.youtube.com/watch?v=s6RCsjcQADc&t=26s</br>
-https://www.youtube.com/watch?v=RNjnRA0QSug - flex</br>
-https://www.youtube.com/watch?v=4Fl23vtPRx0&list=PLVfMKQXDAhGXMqOHEUVvn8WREVuXNfxZ- - sass</br>
-https://www.youtube.com/watch?v=IPZbSM-Wpos&t=10s</br>
-https://www.youtube.com/watch?v=8COwPk7H2hk</br>
-https://www.youtube.com/watch?v=txOKjSEwHVM</br>
-https://www.youtube.com/watch?v=7Lg-438gAc8&list=PLqHlAwsJRxAPs942EdJ1akeWpOg2yatiM</br>
-https://www.youtube.com/watch?v=38bMnJ2l4bg&t=14s</br>
-https://www.youtube.com/watch?v=RCZxzk9tyE4</br>
-https://www.youtube.com/watch?v=hrFPD0nkRVA&t=12s</br>
-https://www.youtube.com/watch?v=duWfUzXPgNc&t=4s</br>
-https://www.youtube.com/watch?v=C2W7ICgGRbo&list=PLVfMKQXDAhGVkBdjLJmb4TwLAnEhtiQf-</br>
-https://www.youtube.com/watch?v=yK7WEt-CdhI&t=4s</br>
-https://www.youtube.com/watch?v=FLbvUFVr3bg&t=717s</br>
-https://www.youtube.com/watch?v=fecXcorm6Ms</br>
-https://www.youtube.com/watch?v=CvX-jx-a_EI</br>
-https://www.youtube.com/watch?v=CDWMSF0nI2A&t=9s</br>
-https://www.youtube.com/watch?v=CDWMSF0nI2A&list=PLVfMKQXDAhGUfYoL11n_cnM7yE1aW1x4E</br>
-https://www.youtube.com/watch?v=KkH_i4nw_Bs</br>
-https://www.youtube.com/watch?v=WM1fzRm152g</br>
-https://www.youtube.com/watch?v=EVROZN5B6OI</br>
-https://www.youtube.com/watch?v=zFIltkLv5eI</br>
-https://www.youtube.com/watch?v=RNjnRA0QSug&list=PLY4rE9dstrJzj68Y8SlQlhIdb5hbGQLIU</br>
-
-https://www.youtube.com/watch?v=H4cG4tbc-xQ&t=14s</br>
-https://www.youtube.com/watch?v=EO8mZZxNuBI&t=9s</br>
-https://www.youtube.com/watch?v=9QnJO7gXk3o&t=341s</br>
-https://www.youtube.com/watch?v=ColaCPC08ZY&t=551s</br>
-https://www.youtube.com/watch?v=iWOGk_b2yac</br>
-https://www.youtube.com/watch?v=iy5geRAZGm8</br>
-https://www.youtube.com/watch?v=viWBi8YZHXU&list=PLcVuGt1dXgc0G1pCG1J9KjTFtTMsSs_9z</br>
 
 ### Торренты (зайти на сайт и ввести в строке поиска значение)
 + http://tparser.org/
