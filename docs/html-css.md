@@ -1,13 +1,15 @@
-h3 САЙТЫ ДЛЯ ОБУЧЕНИЯ HTML/CSS:</br>
-https://htmlacademy.ru/courses - html академия</br>
-https://htmlacademy.ru/program</br>
-http://htmlbook.ru/ - html book</br>
-https://codebra.ru/ - html/css/js </br>
-http://www.postroika.ru/html/</br>
-https://html5book.ru/html-tags/ - html</br>
-http://world-html.narod.ru/page/teg.htm - html</br>
-https://www.freecodecamp.org/ - html/css/js </br>
-https://camouf.ru/blog-note/?PAGEN_1=5 - html/css</br>
+САЙТЫ ДЛЯ ОБУЧЕНИЯ HTML/CSS:</br>
+==================================================
+[html академия](https://htmlacademy.ru/courses)</br>
+[html академия - программа](https://htmlacademy.ru/program)</br>
+[html book](http://htmlbook.ru/)</br>
+[codebra.ru - html/css/js](https://codebra.ru/)</br>
+[postroika.ru - html/css/js](http://www.postroika.ru/html/)</br>
+[html5book.ru](https://html5book.ru/html-tags/)</br>
+[world-html.narod.ru - html](http://world-html.narod.ru/page/teg.htm)</br>
+[freecodecamp.org - html/css/js](https://www.freecodecamp.org/)</br>
+[camouf.ru - html/css](https://camouf.ru/blog-note/?PAGEN_1=5)</br>
+[]()</br>
 
 
 ВИДЕОУРОКИ</br>
