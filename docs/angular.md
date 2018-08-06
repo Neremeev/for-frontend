@@ -38,32 +38,19 @@
 
 ### Пишем приложение на angular
 + [Простое приложение на Angular за 2 часа | Компьютерная школа Hillel](https://www.youtube.com/watch?v=XVzed9zlVfw)
-+ [Создание веб-приложения с Angular 1.5, Firebase и Gulp]()
-+ [Angular - вступительные лекция]()
-+ [Создаем TO DO приложение на Angular с нуля. SPA на Angular. Часть 1. Вступление.]()
-+ [Создание одностраничного Веб-приложения на AngularJS. Использование WEB.API сервисов]()
-+ [Angular.js]()
-+ [Создание сервиса в Angular JS]()
-+ [Обзор Angular JS]()
-+ [Angular+Meteor. Ускоренное создание приложений [GeekBrains]]()
-+ []()
-+ []()
-+ []()
-+ []()
-
-https://www.youtube.com/watch?v=eCQ8IkvANvk
-https://www.youtube.com/watch?v=LnG93lhmVoM
-https://www.youtube.com/watch?v=vN6GUWSA0CM
-https://www.youtube.com/watch?v=mTr7NBUXxNo&index=2&list=PLrXcA7Ca3B80c1wKT2ws529sJMiA6gNXU
-https://www.youtube.com/watch?v=Pww35rSOD7E&list=PLDmWuBfh49Z5sCPJjgshknkdhz4duUVAp
-https://www.youtube.com/watch?v=PGyZb-dvKBs
-https://www.youtube.com/watch?v=r4KAPcjSrNM
-https://www.youtube.com/watch?v=zP2O2c31gdM&list=PLRKl6JXepJlI1qCzpCxNOFT9vGGiaQ9lg
-https://www.youtube.com/watch?v=Psa83XpXUAs
-https://www.youtube.com/watch?v=DRYdpLI88jE
-https://www.youtube.com/watch?v=X8EiFmecLSM&list=PL-ss7IpVOiB5DKGi5wcSPsF1OWcJSW791
-https://www.youtube.com/watch?v=jAlXRdNqNtg
-https://www.youtube.com/watch?v=ybWu_Kh75IU
++ [Создание веб-приложения с Angular 1.5, Firebase и Gulp](https://www.youtube.com/watch?v=LnG93lhmVoM)
++ [Angular - вступительные лекция](https://www.youtube.com/watch?v=mTr7NBUXxNo&index=2&list=PLrXcA7Ca3B80c1wKT2ws529sJMiA6gNXU)
++ [Создаем TO DO приложение на Angular с нуля. SPA на Angular. Часть 1. Вступление.](https://www.youtube.com/watch?v=Pww35rSOD7E&list=PLDmWuBfh49Z5sCPJjgshknkdhz4duUVAp)
++ [Создание одностраничного Веб-приложения на AngularJS. Использование WEB.API сервисов](https://www.youtube.com/watch?v=PGyZb-dvKBs)
++ [Angular.js](https://www.youtube.com/watch?v=zP2O2c31gdM&list=PLRKl6JXepJlI1qCzpCxNOFT9vGGiaQ9lg)
++ [Создание сервиса в Angular JS](https://www.youtube.com/watch?v=Psa83XpXUAs)
++ [Обзор Angular JS](https://www.youtube.com/watch?v=X8EiFmecLSM&list=PL-ss7IpVOiB5DKGi5wcSPsF1OWcJSW791)
++ [Angular+Meteor. Ускоренное создание приложений [GeekBrains]](https://www.youtube.com/watch?v=jAlXRdNqNtg)
++ Знакомство с Angular (CLI, Material): пишем ToDo приложение[](https://www.youtube.com/watch?v=eCQ8IkvANvk)
++ [AngularJS Приложение "Phonebook" Ч. 1](https://www.youtube.com/watch?v=vN6GUWSA0CM)
++ [AngularJS на практике - пример реальной директивы](https://www.youtube.com/watch?v=r4KAPcjSrNM)
++ [Урок 81. Angular js. Валидация формы](https://www.youtube.com/watch?v=DRYdpLI88jE)
++ [Урок 5. Знакомство с JS-фреймворком AngularJS(Часть 1)](https://www.youtube.com/watch?v=ybWu_Kh75IU)
 
 ### Торрент(через vpn)
 + http://tparser.org/angularjs
@@ -91,8 +78,8 @@ https://www.youtube.com/watch?v=ybWu_Kh75IU
   + http://torrents43
   + http://trackerok.org
 
-Разное</br>
-http://mbenford.github.io/ngTagsInput/demos</br>
+### Разное
++ [Демки](http://mbenford.github.io/ngTagsInput/demos)
 
 /*------------------------------------------END-ANGULARJS------------------------------------------*/
 
