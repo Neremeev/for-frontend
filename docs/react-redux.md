@@ -1,3 +1,7 @@
+https://t.me/angular_rush
+https://t.me/angular_universal_ru
+https://t.me/reactivex
+
 ОЧЕНЬ МНОГО РАЗЛИЧНЫХ ПРОЕКТОВ НА РЕАКТ-РЕДАКС СУПЕР КАЧАТЬ ВСЕМ!!!</br>
 https://yadi.sk/d/sEO-7UbF3ZtwtH</br>
 
