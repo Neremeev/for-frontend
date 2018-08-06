@@ -2,13 +2,13 @@
 + https://yadi.sk/d/sEO-7UbF3ZtwtH
 
 ### КУРСЫ РЕАКТ+РЕДАКС
-https://abraxabra.ru/react.js/bystryy-start/react-js-formy/ - курс про реакт
-https://legacy.gitbook.com/book/maxfarseer/react-course-ru/details - реакт курс от макса
-https://legacy.gitbook.com/book/maxfarseer/redux-course-ru/details - редакс курс от макса
-https://maxpfrontend.ru/ - блог по фронту от макса
-https://proglib.io/p/redux-app/ - пишем приложение на redux
-https://github.com/krambertech/react-essential-course - курс по реакт
-https://learn-reactjs.ru/introduction/introduction-in-reactjs - сайт learn.react
++ https://abraxabra.ru/react.js/bystryy-start/react-js-formy/ - курс про реакт
++ https://legacy.gitbook.com/book/maxfarseer/react-course-ru/details - реакт курс от макса
++ https://legacy.gitbook.com/book/maxfarseer/redux-course-ru/details - редакс курс от макса
++ https://maxpfrontend.ru/ - блог по фронту от макса
++ https://proglib.io/p/redux-app/ - пишем приложение на redux
++ https://github.com/krambertech/react-essential-course - курс по реакт
++ https://learn-reactjs.ru/introduction/introduction-in-reactjs - сайт learn.react
 
 ### КНИГИ
 + https://yadi.sk/d/MGBW3aLq3YNXWW
