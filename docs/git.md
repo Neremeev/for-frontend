@@ -21,18 +21,18 @@
 + http://webdesign.ru.net/article/pravila-oformleniya-fayla-readmemd-na-github.html
 + http://coddism.com/zametki/razmetka_readmemd_v_github
 
-### Видеоуроки</br>
-https://www.youtube.com/watch?v=en6gms6e54Q&list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR</br>
-https://www.youtube.com/watch?v=mpK_MYb38zs&list=PLoonZ8wII66iUm84o7nadL-oqINzBLk5g</br>
-https://www.youtube.com/watch?v=JfpCicDUMKc&t=14s</br>
-https://www.youtube.com/watch?v=yDSs80lu3ak</br>
-https://www.youtube.com/watch?v=4-NX17Ip-xQ&list=PLmRNNqEA7JoM77hOJkPrLOfJQGizCLR3P</br>
-https://www.youtube.com/watch?v=PEKN8NtBDQ0&list=PLY4rE9dstrJyTdVJpv7FibSaXB4BHPInb</br>
-https://www.youtube.com/watch?v=TMeZGvtQnT8</br>
-https://www.youtube.com/watch?v=SZARWakrCro</br>
-https://www.youtube.com/watch?v=UAIADVwXwUo&list=PLOQDek48BpZFaSumYo2kwQfcyrZEF6XkI</br>
-https://www.youtube.com/watch?v=ttDK7nwoGnU&list=PLIcAMDxr6tpqJ3FHGVpYVn-puu6CJiOKh</br>
-https://www.youtube.com/watch?v=nRXacgNHNVw</br>
+### Видеоуроки
++ [Git: Урок 0. Подготовка и Введение](https://www.youtube.com/watch?v=en6gms6e54Q&list=PLIU76b8Cjem5B3sufBJ_KFTpKkMEvaTQR)
++ [Git. Система контроля версий. Видеокурс](https://www.youtube.com/watch?v=mpK_MYb38zs&list=PLoonZ8wII66iUm84o7nadL-oqINzBLk5g)
++ [Изучение GitHub в одном видео уроке за 15 минут!](https://www.youtube.com/watch?v=JfpCicDUMKc&t=14s)
++ [003. Git — инструмент для совместной работы, с нуля и до регламента в команде — Сергей Сергеев](https://www.youtube.com/watch?v=yDSs80lu3ak)
++ [Курс "Git. Быстрый старт"](https://www.youtube.com/watch?v=4-NX17Ip-xQ&list=PLmRNNqEA7JoM77hOJkPrLOfJQGizCLR3P)
++ [Git](https://www.youtube.com/watch?v=PEKN8NtBDQ0&list=PLY4rE9dstrJyTdVJpv7FibSaXB4BHPInb)
++ [Основы Git за 20 минут](https://www.youtube.com/watch?v=TMeZGvtQnT8)
++ [Git branch — работа с ветками](https://www.youtube.com/watch?v=SZARWakrCro)
++ [GIT](https://www.youtube.com/watch?v=UAIADVwXwUo&list=PLOQDek48BpZFaSumYo2kwQfcyrZEF6XkI)
++ [Git уроки](https://www.youtube.com/watch?v=ttDK7nwoGnU&list=PLIcAMDxr6tpqJ3FHGVpYVn-puu6CJiOKh)
++ [GIT-практикум](https://www.youtube.com/watch?v=nRXacgNHNVw)
 
 ### Торренты (зайти на сайт и ввести в строке поиска значение)
 + http://tparser.org/git - много курсов со всех торрентов
