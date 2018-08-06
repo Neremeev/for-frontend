@@ -1,6 +1,6 @@
 #### САЙТЫ ДЛЯ ОБУЧЕНИЯ HTML/CSS:
 
-<li>)[html академия](https://htmlacademy.ru/courses)
+[html академия](https://htmlacademy.ru/courses)
 [html академия - программа](https://htmlacademy.ru/program)
 [html book](http://htmlbook.ru/)
 [codebra.ru - html/css/js](https://codebra.ru/)
