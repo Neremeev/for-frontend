@@ -60,6 +60,8 @@ https://learn-reactjs.ru/introduction/introduction-in-reactjs - сайт learn.r
 
 ### Телеграмм
 + https://t.me/reactivex
++ https://t.me/reactnative_ru
++ https://t.me/react_js
 
 ### КУРСЫ НА ТОРРЕНТ
 + [React, Redux и ES2015 с Нуля до Гуру (2016)](https://torrents-club.org/viewtopic.php?t=55779)
@@ -80,11 +82,6 @@ https://learn-reactjs.ru/introduction/introduction-in-reactjs - сайт learn.r
   + http://ba3a.net
   + http://torrents43
   + http://trackerok.org
-
-
-
-
-
 
 
 ### ИНТЕРЕСНЫЕ СТАТЬИ
