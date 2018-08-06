@@ -1,5 +1,5 @@
 #### САЙТЫ ДЛЯ ОБУЧЕНИЯ HTML/CSS:
-<li>сайт - [html академия](https://htmlacademy.ru/courses)
+<li>[html академия](https://htmlacademy.ru/courses)
 <li>[html академия - программа](https://htmlacademy.ru/program)
 <li>[html book](http://htmlbook.ru/)
 <li>[codebra.ru - html/css/js](https://codebra.ru/)
@@ -8,7 +8,7 @@
 <li>[world-html.narod.ru - html](http://world-html.narod.ru/page/teg.htm)
 <li>[freecodecamp.org - html/css/js](https://www.freecodecamp.org/)
 <li>[camouf.ru - html/css](https://camouf.ru/blog-note/?PAGEN_1=5)
-
+[camouf.ru - html/css](https://camouf.ru/blog-note/?PAGEN_1=5)
 []()</br>
 
 
