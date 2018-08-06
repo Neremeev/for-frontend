@@ -8,25 +8,23 @@
 + [world-html.narod.ru - html](http://world-html.narod.ru/page/teg.htm)
 + [freecodecamp.org - html/css/js](https://www.freecodecamp.org/)
 + [camouf.ru - html/css](https://camouf.ru/blog-note/?PAGEN_1=5)
-+[]()
++ []()
 
 
-ВИДЕОУРОКИ</br>
-https://www.youtube.com/playlist?list=PLypd1VrGv7FN_QkwB5UIcVcP61yaj1HKc - html/css</br>
-https://www.youtube.com/playlist?list=PLB86E02CE3735E3B6 - html/css</br>
-https://www.youtube.com/playlist?list=PL0lO_mIqDDFUpe6yMyXAlcrfT6AO0KW1a - html/css</br>
-https://www.youtube.com/playlist?list=PLPpaecEYRC8ZUr9Avu3_BLAFa8tsAxAzr - html/css</br>
-https://www.youtube.com/playlist?list=PLpY_9m7gHQDgwssx5jdTlGAdJrYgtByHw - html/css</br>
-https://www.youtube.com/playlist?list=PLY4rE9dstrJyeZlPWoKJr1xKVVnG4w-Hc - html/css</br>
-https://www.youtube.com/watch?v=Ky6hZZUR9Wo - css</br>
-https://www.youtube.com/watch?v=YWjuEzhPYqs - css</br>
-https://www.youtube.com/watch?v=38bMnJ2l4bg - css</br>
-https://www.youtube.com/watch?v=H4cG4tbc-xQ - css</br>
+#### ВИДЕОУРОКИ
++ [HTML5 для начинающих](https://www.youtube.com/playlist?list=PLypd1VrGv7FN_QkwB5UIcVcP61yaj1HKc)
++ [Курс HTML](https://www.youtube.com/playlist?list=PLB86E02CE3735E3B6)
++ [HTML5 уроки для начинающих - Гоша Дударь](https://www.youtube.com/playlist?list=PL0lO_mIqDDFUpe6yMyXAlcrfT6AO0KW1a)
++ [HTML-мастер](https://www.youtube.com/playlist?list=PLPpaecEYRC8ZUr9Avu3_BLAFa8tsAxAzr)
++ [HTML&CSS Александр Пауков - Верстка сайтов для начинающих](https://www.youtube.com/playlist?list=PLpY_9m7gHQDgwssx5jdTlGAdJrYgtByHw )
++ [HTML для начинающих - loftblog](https://www.youtube.com/playlist?list=PLY4rE9dstrJyeZlPWoKJr1xKVVnG4w-Hc)
++ [33 фишки CSS которые заменяют JS](https://www.youtube.com/watch?v=Ky6hZZUR9Wo)
++ [CSS анимация для самых маленьких. Анимация логотипа на миллион долларов](https://www.youtube.com/watch?v=YWjuEzhPYqs)
++ []()
 
 
-
-КНИГИ</br>
-https://yadi.sk/d/REFMJB4U3YNSjQ</br>
+#### КНИГИ
++ [HTML/CSS](https://yadi.sk/d/REFMJB4U3YNSjQ)
 
 
 
