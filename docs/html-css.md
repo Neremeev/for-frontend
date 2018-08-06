@@ -1,15 +1,15 @@
 #### САЙТЫ ДЛЯ ОБУЧЕНИЯ HTML/CSS:</br>
 <li>
-*[html академия](https://htmlacademy.ru/courses)</br>
-*[html академия - программа](https://htmlacademy.ru/program)</br>
-*[html book](http://htmlbook.ru/)</br>
-*[codebra.ru - html/css/js](https://codebra.ru/)</br>
-*[postroika.ru - html/css/js](http://www.postroika.ru/html/)</br>
-*[html5book.ru](https://html5book.ru/html-tags/)</br>
-*[world-html.narod.ru - html](http://world-html.narod.ru/page/teg.htm)</br>
-*[freecodecamp.org - html/css/js](https://www.freecodecamp.org/)</br>
-*[camouf.ru - html/css](https://camouf.ru/blog-note/?PAGEN_1=5)</br>
-</li>
+<li>[html академия](https://htmlacademy.ru/courses)</br>
+<li>[html академия - программа](https://htmlacademy.ru/program)</br>
+<li>[html book](http://htmlbook.ru/)</br>
+<li>[codebra.ru - html/css/js](https://codebra.ru/)</br>
+<li>[postroika.ru - html/css/js](http://www.postroika.ru/html/)</br>
+<li>[html5book.ru](https://html5book.ru/html-tags/)</br>
+<li>[world-html.narod.ru - html](http://world-html.narod.ru/page/teg.htm)</br>
+<li>[freecodecamp.org - html/css/js](https://www.freecodecamp.org/)</br>
+<li>[camouf.ru - html/css](https://camouf.ru/blog-note/?PAGEN_1=5)</br>
+
 []()</br>
 
 
