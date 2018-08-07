@@ -1,8 +1,8 @@
 ### Книги
 + https://yadi.sk/d/GwETHdc93Ztvgy
 
-### Около тысячи проектов с гитхаба на react/redux
-+ https://yadi.sk/d/LJfq8sUt3Zuetc</br>
+### Около тысячи проектов с гитхаба на angular
++ https://yadi.sk/d/LJfq8sUt3Zuetc
 
 
 /*------------------------------------------ANGULARJS------------------------------------------*/
