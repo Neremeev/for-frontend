@@ -41,3 +41,4 @@
 
 ### Телеграмм
 + @typescript_ru
++ @ts_ru
