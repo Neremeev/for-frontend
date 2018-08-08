@@ -24,11 +24,6 @@
 + [33 фишки CSS которые заменяют JS](https://www.youtube.com/watch?v=Ky6hZZUR9Wo)
 + [CSS анимация для самых маленьких. Анимация логотипа на миллион долларов](https://www.youtube.com/watch?v=YWjuEzhPYqs)
 
-
-#### КНИГИ
-+ [HTML/CSS](https://yadi.sk/d/REFMJB4U3YNSjQ)
-
-
 #### CSS
 + Тесты поддержки новых возможностей в браузерах
   + http://html5test.com
@@ -84,31 +79,3 @@
 ### Телеграмм
 + https://t.me/css_ru
 + https://t.me/htmlacademy
-
-### Торренты (зайти на сайт и ввести в строке поиска значение)
-+ http://tparser.org/html - много курсов со всех торрентов
-+ http://tparser.org/css - много курсов со всех торрентов
-+ http://nnm-club.me - через внп
-+ еще трекеры(через внп):
-  + http://torrentikofilm.com
-  + http://underverse.in
-  + http://torrent-soft.net
-  + http://ru-zerkalo.org
-  + https://omn-omn-omn.ru
-  + https://smart-torrent.org
-  + http://torrent-soft.net
-  + http://rutorka.net
-  + http://ba3a.net
-  + http://torrents43
-  + http://trackerok.org
-
-### КУРСЫ НА ТОРРЕНТАХ (возможно ссылки уже не работают)
-+ [012345
-HTML5 и CSS3 с нуля до профи (2016) Видеокурс](http://torrentikofilm.com/4166-html5-i-css3-s-nulya-do-profi-2016-videokurs.html)
-+ [HTML Academy (Базовый HTML и CSS. Видеокурс)/2017](https://omn-omn-omn.ru/details.php?id=625441)
-+ [HTML Academy - Профессиональный HTML и CSS, уровень 1 (2018)](http://underverse.in/viewtopic.php?t=100398)
-+ [курс 2015](http://torrent-soft.net/torrent-teach/9283-html-css-osnovy-sozdaniya-saytov-2015-pcrec.html)
-+ [Профессиональный HTML и CSS, уровень 2](http://ru-zerkalo.org/viewtopic.php?t=131225)
-+ [Специалист - HTML5 и CSS3 (Уровень 1,2,3) (2016) PCRec](http://underverse.in/viewtopic.php?t=95783)
-+ [Скачать торрент HTML-верстка: инструменты профессиональной front-end разработки. Видеокурс (2015) PCRec](http://ba3a.net/view.php?t=773226-kak-izuchit-html-i-css-za-3-dnya-videokurs-2013-pcrec)
-
