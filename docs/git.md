@@ -55,4 +55,5 @@
 
 ### Телеграмм
 + @githubtrending
-+ github_repos
++ @github_repos
++ @git_ru
