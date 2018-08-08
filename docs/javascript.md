@@ -30,9 +30,6 @@
 + [Уроки JavaScript (EcmaScript 6) ](https://www.youtube.com/watch?v=UJc9-yiMUb0&list=PLLvTAhHe8AYAzyzfqrh-CUKeoHunFtZOA)
 + [JavaScript решает](https://www.youtube.com/channel/UCP-xJwnvKCGyS-nbyOx1Wmg/videos)
 
-### КНИГИ
-+ https://yadi.sk/d/TWlU2ZLM3YNURM
-
 ### ВЕБИНАРЫ:
 + [про es6](https://www.youtube.com/watch?v=Spme1IW1ejg)
 + [работа с ДОМ](https://www.youtube.com/watch?v=x2DTiziYq7g)
@@ -107,26 +104,3 @@
 + https://t.me/js_noobs_ru
 + https://t.me/joinchat/Be4rsT3Uyr1TjmSlrRc77g
 + https://t.me/JSlang
-
-### Торренты (зайти на сайт и ввести в строке поиска значение)
-+ http://tparser.org/js - много курсов со всех торрентов
-+ http://nnm-club.me - через внп
-+ еще трекеры(через внп):
-  + http://torrentikofilm.com
-  + http://underverse.in
-  + http://torrent-soft.net
-  + http://ru-zerkalo.org
-  + https://omn-omn-omn.ru
-  + https://smart-torrent.org
-  + http://torrent-soft.net
-  + http://rutorka.net
-  + http://ba3a.net
-  + http://torrents43
-  + http://trackerok.org
-
-### ТОРРЕНТ КУРСЫ ПО JS
-+ [HTML Academy | Интенсивный онлайн-курс «Базовый JavaScript» (2017) PCRec [H.264]](https://smart-torrent.org/viewtopic.php?t=119014)
-+ [Михаил Русаков | javascript, jQuery и Ajax с Нуля до Гуру [2013] PCRec](http://rutorka.net/mihail-rusakov-javascript-jquery-i-ajax-s-nulya-do-guru-pcrec-t20761.html)
-+ [Комплексное обучение JavaScript. Видеокурс (2016) PCRec](http://ba3a.net/view.php?t=800300-kompleksnoe-obuchenie-javascript-videokurs-2016-pcrec)
-+ [Специалист | JavaScript. Уровень 2. Расширенные возможности (2014) PCRec](http://torrents43.com/torrent/858375/)
-+ [Джон Дакетт - Javascript и jQuery. Интерактивная веб-разработка 2017](http://underverse.in/viewtopic.php?t=98207)
