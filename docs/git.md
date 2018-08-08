@@ -1,6 +1,3 @@
-### книги
-+ https://yadi.sk/d/77shUeGW3Zuwgu
-
 ### Сайты
 + [гитбук](https://git-scm.com/book/ru/v1)
 + [Основы Git](https://git-scm.com/book/ru/v1/Введение-Основы-Git)
@@ -33,22 +30,6 @@
 + [GIT](https://www.youtube.com/watch?v=UAIADVwXwUo&list=PLOQDek48BpZFaSumYo2kwQfcyrZEF6XkI)
 + [Git уроки](https://www.youtube.com/watch?v=ttDK7nwoGnU&list=PLIcAMDxr6tpqJ3FHGVpYVn-puu6CJiOKh)
 + [GIT-практикум](https://www.youtube.com/watch?v=nRXacgNHNVw)
-
-### Торренты (зайти на сайт и ввести в строке поиска значение)
-+ http://tparser.org/git - много курсов со всех торрентов
-+ http://nnm-club.me - через внп
-+ еще трекеры(через внп):
-  + http://torrentikofilm.com
-  + http://underverse.in
-  + http://torrent-soft.net
-  + http://ru-zerkalo.org
-  + https://omn-omn-omn.ru
-  + https://smart-torrent.org
-  + http://torrent-soft.net
-  + http://rutorka.net
-  + http://ba3a.net
-  + http://torrents43
-  + http://trackerok.org
 
 ### ВК
 + https://vk.com/go_git
