@@ -1,6 +1,3 @@
-### Книги
-+ https://yadi.sk/d/GwETHdc93Ztvgy
-
 ### Около тысячи проектов с гитхаба на angular
 + https://yadi.sk/d/LJfq8sUt3Zuetc
 
@@ -52,32 +49,6 @@
 + [Урок 81. Angular js. Валидация формы](https://www.youtube.com/watch?v=DRYdpLI88jE)
 + [Урок 5. Знакомство с JS-фреймворком AngularJS(Часть 1)](https://www.youtube.com/watch?v=ybWu_Kh75IU)
 
-### Торрент(через vpn)
-+ http://tparser.org/angularjs
-+ http://pipitor.org/torrent/790374/angular-js-videokurs-2016-pcrec
-+ http://nnm-club.me/forum/viewtopic.php?t=860367
-+ http://nnm-club.me/forum/viewtopic.php?t=1028674
-+ http://nnm-club.me/forum/viewtopic.php?t=1195327
-+ http://nnm-club.me/forum/viewtopic.php?t=966927
-+ http://nnm-club.me/forum/viewtopic.php?t=926746
-+ http://nnm-club.me/forum/viewtopic.php?t=930634
-+ http://nnm-club.me/forum/viewtopic.php?t=861842&start=15
-+ http://nnm-club.me/forum/viewtopic.php?t=1205998
-+ http://nnm-club.me/forum/viewtopic.php?t=949064
-+ http://nnm-club.me/forum/viewtopic.php?t=979856
-+ еще трекеры(через внп):
-  + http://torrentikofilm.com
-  + http://underverse.in
-  + http://torrent-soft.net
-  + http://ru-zerkalo.org
-  + https://omn-omn-omn.ru
-  + https://smart-torrent.org
-  + http://torrent-soft.net
-  + http://rutorka.net
-  + http://ba3a.net
-  + http://torrents43
-  + http://trackerok.org
-
 ### Разное
 + [Демки](http://mbenford.github.io/ngTagsInput/demos)
 
@@ -121,27 +92,6 @@
 + [Видеокурс Angular 2 Essential. Урок 1. Введение](https://www.youtube.com/watch?v=63SkXao3tsA)
 + [Видеокурс по Angular. 1. Первое приложение на Angular 5](https://www.youtube.com/watch?v=IS0xf8ZQ7-4)
 + [Angular 4 Material Design приложение для поиска пользователей на Github](https://www.youtube.com/watch?v=4phNDspMIPE)
-
-
-### Торренты
-+ http://tparser.org/Angular-2
-+ http://tparser.org/Angular-4
-+ http://tparser.org/Angular-5
-+ http://nnm-club.me
-+ http://nnm-club.me/forum/viewtopic.php?t=1169881
-+ еще трекеры(через внп):
-  + http://torrentikofilm.com
-  + http://underverse.in
-  + http://torrent-soft.net
-  + http://ru-zerkalo.org
-  + https://omn-omn-omn.ru
-  + https://smart-torrent.org
-  + http://torrent-soft.net
-  + http://rutorka.net
-  + http://ba3a.net
-  + http://torrents43
-  + http://trackerok.org
-
 /*------------------------------------------END-ANGULAR.2.4.5.6------------------------------------------*/
 
 ### ВК ГРУППЫ
