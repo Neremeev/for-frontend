@@ -1,12 +1,6 @@
 ### САЙТ ОТ МОНСТРА - JS и т.д.
 + https://monsterlessons.com/project/categories/
 
-### Книги по веб-дизайну
-+ https://yadi.sk/d/MnGmw2kF3Z4Zvc
-
-### КНИГА ПО ДИЗАЙНУ И МЕТОДИЧКА ПО ПРОГРАММИРОВАНИЮ
-+ https://yadi.sk/d/XkinkQbZ3YNYB9
-
 ### ТЕЛЕГРАММ КАНАЛЫ Для фронт-енд программистов
 + https://t.me/front_end_dev
 + https://t.me/proglibrary
@@ -124,12 +118,6 @@
 
 ### КАРТА РАЗВИТИЯ НАВЫКОВ ПРОГРАММИСТА
 + https://github.com/zualex/devmap
-
-### ТОРРЕНТ КУРСЫ
-+ https://torrents-club.org/viewtopic.php?t=91006
-+ http://tparser.org/LoftBlog
-+ http://tparser.org/GeekBrains
-+ https://loftschool.com/uploads/courses/manuals/js-metod.pdf
 
 ### для работы с png
 + https://www.iloveimg.com/ru/resize-image - менять размер
