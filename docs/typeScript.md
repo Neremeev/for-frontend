@@ -23,22 +23,6 @@
 + [Разработка на TypeScript](https://www.youtube.com/watch?v=_3n4JdZdXWo)
 + [TypeScript. Урок 2 курса Экспресс-погружение в разработку приложений на JavaScript](https://www.youtube.com/watch?v=k_ZtVc1S8Ww&t=7s)
 
-### Торренты (зайти на сайт и ввести в строке поиска значение)
-+ http://tparser.org/typescript - много курсов со всех торрентов
-+ http://nnm-club.me - через внп
-+ еще трекеры(через внп):
-  + http://torrentikofilm.com
-  + http://underverse.in
-  + http://torrent-soft.net
-  + http://ru-zerkalo.org
-  + https://omn-omn-omn.ru
-  + https://smart-torrent.org
-  + http://torrent-soft.net
-  + http://rutorka.net
-  + http://ba3a.net
-  + http://torrents43
-  + http://trackerok.org
-
 ### Телеграмм
 + @typescript_ru
 + @ts_ru
