@@ -1,6 +1,3 @@
-### книги
-+ https://yadi.sk/d/1_JOIMkm3Zuwjg
-
 ### Сайты
 + [Документация bootstrap-4](http://bootstrap-4.ru/)
 + [Bootstrap 4 на русском, уже сейчас!](http://getbootstrap.ru/)
@@ -96,23 +93,6 @@
   + [Вебинар "Верстка на Float, Flexbox, Grid. Преимущества и недостатки."](https://www.youtube.com/watch?v=8COwPk7H2hk)
   + [CSS Grid верстка - Введение. Что такое гриды и зачем они нужны.](https://www.youtube.com/watch?v=IPZbSM-Wpos&t=10s)
   + [CSS Grid Layout vs Flexbox - противостояние или гармония](https://www.youtube.com/watch?v=s6RCsjcQADc&t=26s)
-
-
-### Торренты (зайти на сайт и ввести в строке поиска значение)
-+ http://tparser.org/
-+ http://nnm-club.me - через внп
-+ еще трекеры(через внп):
-  + http://torrentikofilm.com
-  + http://underverse.in
-  + http://torrent-soft.net
-  + http://ru-zerkalo.org
-  + https://omn-omn-omn.ru
-  + https://smart-torrent.org
-  + http://torrent-soft.net
-  + http://rutorka.net
-  + http://ba3a.net
-  + http://torrents43
-  + http://trackerok.org
 
 ### ВК
 + https://vk.com/twitter_bootstrap
