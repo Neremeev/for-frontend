@@ -10,9 +10,6 @@
 + https://github.com/krambertech/react-essential-course - курс по реакт
 + https://learn-reactjs.ru/introduction/introduction-in-reactjs - сайт learn.react
 
-### КНИГИ
-+ https://yadi.sk/d/MGBW3aLq3YNXWW
-
 ### ВИДЕОКУРСЫ ПО РЕАКТ
 + [мини туториал по реакту от CodeDojo](https://www.youtube.com/watch?v=ZYZp_i8Hfmw&list=PLqHlAwsJRxANc2mFeSIRLdglGf2ZNzNBr)
 + [мини туториал по реакту от Гоши Дударя](https://www.youtube.com/watch?v=ftrn50AJa2w&list=PL0lO_mIqDDFWhkCEMnLsBP51K7o78dbAJ)
@@ -62,27 +59,6 @@
  ### ВК
 + https://vk.com/reactredux
 + https://vk.com/reactjs
-
-
-### КУРСЫ НА ТОРРЕНТ
-+ [React, Redux и ES2015 с Нуля до Гуру (2016)](https://torrents-club.org/viewtopic.php?t=55779)
-+ [[learn.javascript.ru] Полный курс по React.JS [2017, RUS]](http://trackerok.org/other/800900-learnjavascriptru_polnyiy_kurs_po_ReactJS_2017_RUS.html)
-
-### Торренты (зайти на сайт и ввести в строке поиска значение)
-+ http://tparser.org/react - много курсов со всех торрентов
-+ http://nnm-club.me - через внп
-+ еще трекеры(через внп):
-  + http://torrentikofilm.com
-  + http://underverse.in
-  + http://torrent-soft.net
-  + http://ru-zerkalo.org
-  + https://omn-omn-omn.ru
-  + https://smart-torrent.org
-  + http://torrent-soft.net
-  + http://rutorka.net
-  + http://ba3a.net
-  + http://torrents43
-  + http://trackerok.org
 
 ### ИНТЕРЕСНЫЕ СТАТЬИ
 + [как создать git page с приложением на react](https://codeburst.io/deploy-react-to-github-pages-to-create-an-amazing-website-42d8b09cd4d)
