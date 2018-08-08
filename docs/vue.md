@@ -7,9 +7,6 @@
 ### карта для изучения vue
 + https://yadi.sk/d/iym0t54t3ZtvRf
 
-### книга
-+ https://yadi.sk/d/3uMB9ewV3Zu2Yx
-
 ### Документация
 + https://ru.vuejs.org/index.html
 + https://vuex.vuejs.org/ru/guide/
@@ -50,19 +47,3 @@
 ### Пишем приложение
 + [Vue.js 2 Урок 1 Первые шаги](https://www.youtube.com/watch?v=Bip6Sdn_QpM&list=PLLd6Lzq1_u-emTVzsgpLMTxK9W68Sdzxp)
 + [Делаем учебный проект «Каталог фильмов» на Vue.js](https://www.youtube.com/watch?v=InAWVrLnycw)
-
-### Торренты (зайти на сайт и ввести в строке поиска значение)
-+ http://tparser.org/vue - много курсов со всех торрентов
-+ http://nnm-club.me - через внп
-+ еще трекеры(через внп):
-  + http://torrentikofilm.com
-  + http://underverse.in
-  + http://torrent-soft.net
-  + http://ru-zerkalo.org
-  + https://omn-omn-omn.ru
-  + https://smart-torrent.org
-  + http://torrent-soft.net
-  + http://rutorka.net
-  + http://ba3a.net
-  + http://torrents43
-  + http://trackerok.org
