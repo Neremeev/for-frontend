@@ -72,8 +72,8 @@
 + [ЧТО НОВОГО В ANGULAR 5](https://itvdn.com/ru/blog/article/angular5)
 
 ### Видеоуроки
-+ [Angular 4. Практика. Разработка реального ](https://www.youtube.com/watch?v=1jdqXQgm3zU&list=PLLvTAhHe8AYBYSWX-zaquA-hO9Ya94iQZ)
 + [Angular 4](https://www.youtube.com/watch?v=ELR_bjGqj4M&index=70&list=PLLvTAhHe8AYCflB7fv79TU9Y6WK52L8nb)
++ [Angular 4. Практика. Разработка реального ](https://www.youtube.com/watch?v=1jdqXQgm3zU&list=PLLvTAhHe8AYBYSWX-zaquA-hO9Ya94iQZ)
 + [Основы Angular 2 - #01 - Установка и наш первый компонент](https://www.youtube.com/watch?v=t3KH5LXHi0s&list=PLqHlAwsJRxANlSuRSgldPWsbNkPqVBeFp&index=1)
 + [Основы Angular 2 - #01 - Установка и наш первый компонент](https://www.youtube.com/watch?v=3SaIBHeyEgg)
 + [Урок 1. Настройка Angular 4. Уроки. Отличие Angular 1, Angular 2, Angular 3 и Angular 4](https://www.youtube.com/watch?v=2HcBR3DQUQ4)
