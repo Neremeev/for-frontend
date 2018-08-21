@@ -15,6 +15,7 @@
 
 
 #### ВИДЕОУРОКИ
++ [новые видеоуроки](https://www.youtube.com/watch?v=aE_EQF4waPM&list=PLCMvV-acWe2AIsx3aDeGuJ_b1vpkSo1QT)
 + [HTML5 для начинающих](https://www.youtube.com/playlist?list=PLypd1VrGv7FN_QkwB5UIcVcP61yaj1HKc)
 + [Курс HTML](https://www.youtube.com/playlist?list=PLB86E02CE3735E3B6)
 + [HTML5 уроки для начинающих - Гоша Дударь](https://www.youtube.com/playlist?list=PL0lO_mIqDDFUpe6yMyXAlcrfT6AO0KW1a)
