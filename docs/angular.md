@@ -86,7 +86,7 @@
 + [Урок 1, Angular5, с нуля (ваще с нуля)](https://www.youtube.com/watch?v=enoghByyWnI)
 + [Создаём проект на Angular 5, устанавливаем Angular Material и верстаем страницу авторизации](https://www.youtube.com/watch?v=74CFBFVnsoo)
 + [Введение в Angular](https://www.youtube.com/playlist?list=PLtULzFUr0kI6dj0_CTdkqM2OI9s4fcANt)
-+ (Введение в Angular. Часть 2 - Angular 6)[https://www.youtube.com/watch?v=GzQ_g0PkaHk&list=PLtULzFUr0kI5C02AxrDGP7KQ3Qeuze5y2]
++ [Введение в Angular. Часть 2 - Angular 6](https://www.youtube.com/watch?v=GzQ_g0PkaHk&list=PLtULzFUr0kI5C02AxrDGP7KQ3Qeuze5y2)
 
 ### Приложение
 + [Создаем ToDo приложение на Angular 2 - видео #01](https://www.youtube.com/watch?v=iuMKhvtj_5k)
