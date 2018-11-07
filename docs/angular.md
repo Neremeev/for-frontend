@@ -88,6 +88,9 @@
 + [Введение в Angular](https://www.youtube.com/playlist?list=PLtULzFUr0kI6dj0_CTdkqM2OI9s4fcANt)
 + [Введение в Angular. Часть 2 - Angular 6](https://www.youtube.com/watch?v=GzQ_g0PkaHk&list=PLtULzFUr0kI5C02AxrDGP7KQ3Qeuze5y2)
 
++ [https://www.youtube.com/watch?v=sXtHKpoijNo](Про lazyLoading)
++ [https://www.youtube.com/watch?v=Gl4IT4JpP4o&list=PLDyvV36pndZF-vwsVB48ivZyNJ4ETBKNY](Про ангуляр на этом же канале)
+
 ### Приложение
 + [Создаем ToDo приложение на Angular 2 - видео #01](https://www.youtube.com/watch?v=iuMKhvtj_5k)
 + [Видеокурс Angular 2 Essential. Урок 1. Введение](https://www.youtube.com/watch?v=63SkXao3tsA)
