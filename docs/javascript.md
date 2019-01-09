@@ -104,3 +104,8 @@
 + https://t.me/js_noobs_ru
 + https://t.me/joinchat/Be4rsT3Uyr1TjmSlrRc77g
 + https://t.me/JSlang
+
+
+
+### Drag and drop
++ [видеоуроки](https://www.youtube.com/watch?v=XFuqzdak0M4&list=PLqQ1VsG-wgxcoHCSCFbLozYt5wZoh1Ygt)
