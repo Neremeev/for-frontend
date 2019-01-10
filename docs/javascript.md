@@ -29,7 +29,6 @@
 + [JSON](https://www.youtube.com/playlist?list=PLhe16itim17dxbQVkQPwCGLwgEKNk4ZUw)
 + [Изучение JavaScript от нуля до гуру](https://www.youtube.com/playlist?list=PL0lO_mIqDDFUGX9k45bZFuz1ixTvUhd7b)
 + [Уроки JavaScript (EcmaScript 6) ](https://www.youtube.com/watch?v=UJc9-yiMUb0&list=PLLvTAhHe8AYAzyzfqrh-CUKeoHunFtZOA)
-+ [JavaScript решает](https://www.youtube.com/channel/UCP-xJwnvKCGyS-nbyOx1Wmg/videos)
 
 ### ВЕБИНАРЫ:
 + [про es6](https://www.youtube.com/watch?v=Spme1IW1ejg)
