@@ -15,6 +15,7 @@
 
 
 ### ВИДЕОУРОКИ
++ [Практикум JS](https://www.youtube.com/watch?v=PrXD97zx_Rc&list=PLDmWuBfh49Z4xKRClnk3IOsZD5qLCAdXf)
 + [JavaScript решает](https://www.youtube.com/channel/UCP-xJwnvKCGyS-nbyOx1Wmg)
 + [Обучение Javascript](https://www.youtube.com/playlist?list=PLuzqCQj6mtdhqSC2nchgExObeL_AInV-e)
 + [JavaScript & jQuery с нуля до профи Часть 1](https://www.youtube.com/playlist?list=PLJcwaWk5uvsBDnddZqMeuskKd8SDolR2w)
