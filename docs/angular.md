@@ -1,3 +1,9 @@
+
+### rxjs6
++ https://www.youtube.com/watch?v=o33bO-VAz_I
++ https://www.youtube.com/watch?v=3rEDHnqn-Cw
++ https://www.youtube.com/watch?v=7806msvJ1HE
+
 ### Около тысячи проектов с гитхаба на angular
 + https://yadi.sk/d/LJfq8sUt3Zuetc
 
