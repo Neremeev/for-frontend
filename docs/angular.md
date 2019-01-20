@@ -1,4 +1,6 @@
 
++ [бутстрап с ангуляр](https://loiane.com/2017/08/how-to-add-bootstrap-to-an-angular-cli-project/)
+
 ### rxjs6
 + https://www.youtube.com/watch?v=o33bO-VAz_I
 + https://www.youtube.com/watch?v=3rEDHnqn-Cw
