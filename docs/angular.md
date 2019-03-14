@@ -1,3 +1,12 @@
+### angularSeo
++ [Настройка SEO для одностраничных web-приложений на Angular](https://www.youtube.com/watch?v=Nqw8HDXkqJ8)
++ [Angular Universal 4+. Проблемы, примеры, решения](https://www.youtube.com/watch?v=pEG0_mFIsLk)
++ [Angular и SEO: как их подружить?](https://habr.com/ru/post/423739/)
++ [Angular Universal: Реализация серверной генерации страниц для приложения на Angular 4](https://www.codehint.ru/articles/2017-10-14-angular4-universal-simple-app)
++ [Angular Universal](https://mean-dev.info/angular-universal/)
++ [Серверный рендеринг с Angular4](http://stepansuvorov.com/blog/2017/03/server-side-rendering-angular4/)
+
+
 
 + [бутстрап с ангуляр](https://loiane.com/2017/08/how-to-add-bootstrap-to-an-angular-cli-project/)
 
