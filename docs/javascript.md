@@ -1,3 +1,13 @@
+### ШАБЛОНЫ ДЛЯ ОДНОСТРАНИЧНИКОВ
++ [50  Бесплатных Шаблонов Сайтов Одностраничников](http://www.websovet.com/50-svezhix-shablonov-sajtov-odnostranichnikov)
++ [Шаблоны сайтов бесплатно](https://tobiz.net/templates/)
++ [Шаблон Landing page](http://www.websovet.com/50-svezhix-shablonov-sajtov-odnostranichnikov)
++ [36 бесплатных шаблонов лендинг пейдж - WILHARD](https://wilhard.ru/blog/free_landing_page_themes/)
++ [ш](http://bootstraptema.ru/stuff/0-1-3-0-16)
++ [875+ Шаблонов Лендингов для Bootstrap / Шаблоны Bootstrap | BootstrapТема](http://bootstraptema.ru/stuff/templates_bootstrap/landing_page/6)
++ [Лендинг HTML шаблоны сайта](https://html-templates.info/landing-html-templates)
++ [Бесплатные html шаблоны лэндинговых страниц, шаблоны на twitter bootstrap.](http://psd-html-css.ru/shablony/html-landing-page)
+
 ### САЙТЫ ДЛЯ ОБУЧЕНИЯ JS
 + [IRBIS-school](http://irbis-school.com/)
 + [Javascript уроки (обучение онлайн)](http://compteacher.ru/programming/589-javascript-uroki-obuchenie-onlayn.html)
