@@ -6,7 +6,7 @@
 + [Angular Universal](https://mean-dev.info/angular-universal/)
 + [Серверный рендеринг с Angular4](http://stepansuvorov.com/blog/2017/03/server-side-rendering-angular4/)
 
-
++ [Несравненный Angular](https://www.youtube.com/watch?v=seQ7pobHku4&feature=youtu.be)
 
 + [бутстрап с ангуляр](https://loiane.com/2017/08/how-to-add-bootstrap-to-an-angular-cli-project/)
 
