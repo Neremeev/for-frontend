@@ -9,6 +9,10 @@
 + https://proglib.io/p/redux-app/ - пишем приложение на redux
 + https://github.com/krambertech/react-essential-course - курс по реакт
 + https://learn-reactjs.ru/introduction/introduction-in-reactjs - сайт learn.react
++ https://proglib.io/p/react-tutorial/ - путеводитель
++ https://proglib.io/p/more-js-than-react/
++ https://leanpub.com/the-road-to-learn-react-russian
+
 
 ### ВИДЕОКУРСЫ ПО РЕАКТ
 + [мини туториал по реакту от CodeDojo](https://www.youtube.com/watch?v=ZYZp_i8Hfmw&list=PLqHlAwsJRxANc2mFeSIRLdglGf2ZNzNBr)
