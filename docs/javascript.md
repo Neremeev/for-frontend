@@ -105,7 +105,8 @@
 
 ### СТАТЬИ
 + [JavaScript 2016, а можно попроще?](https://habr.com/post/313234/)
-+ [регулярные выражения](http://javascript.ru/basic/regular-expression+) - </br>
++ [регулярные выражения](http://javascript.ru/basic/regular-expression+)
++ [JavaScript: 7 полезных мелочей](https://habr.com/en/company/ruvds/blog/449948/)
 
 ### Телеграмм
 + https://t.me/javascript_jobs
