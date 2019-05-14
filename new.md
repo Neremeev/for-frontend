@@ -20,7 +20,7 @@
 + [Создание многопользовательской веб-игры в жанре .io](https://habr.com/ru/post/450574/)
 + [Пишите меньше кода](https://habr.com/ru/post/451366/)
 + [react-native-windows](https://github.com/microsoft/react-native-windows)
-
++ [браузерное расширение](https://habr.com/ru/company/waves/blog/451796/)
 
 GraphQL, CI, Git и TDD, serverless, pwa
 гибридные фреймворки (Next.js, Nuxt.js, Gatsby.js) 
