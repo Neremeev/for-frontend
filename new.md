@@ -11,3 +11,17 @@
 + http://shpargalkablog.ru/2011/07/transformaciya-css.html
 + http://css.yoksel.ru/css-animation/
 + https://html5book.ru/css3-transition/#transition-delay
++ https://cssfx.dev/
+
++ [пятиминутка ангуляр](https://soundcloud.com/5minangular)
++ [HTTP-заголовки для ответственного разработчика](https://habr.com/ru/company/mailru/blog/450816/)
++ [Как сделать из сайта приложение и выложить его в Google Play](https://habr.com/ru/company/mailru/blog/450504/)
++ [Паттерны проектирования в современной JavaScript-разработке](https://habr.com/en/company/ruvds/blog/450318/)
++ [Создание многопользовательской веб-игры в жанре .io](https://habr.com/ru/post/450574/)
++ [Пишите меньше кода](https://habr.com/ru/post/451366/)
++ [react-native-windows](https://github.com/microsoft/react-native-windows)
+
+
+GraphQL, CI, Git и TDD, serverless, pwa
+гибридные фреймворки (Next.js, Nuxt.js, Gatsby.js) 
+React и Next.js
