@@ -25,3 +25,15 @@
 GraphQL, CI, Git и TDD, serverless, pwa
 гибридные фреймворки (Next.js, Nuxt.js, Gatsby.js) 
 React и Next.js
+
+
++ https://habr.com/ru/company/ruvds/blog/452568/
++ https://habr.com/ru/post/452974/
++ https://habr.com/ru/company/mailru/blog/452906/
++ https://habr.com/ru/post/452922/
++ https://habr.com/ru/company/ruvds/blog/452566/
++ https://habr.com/ru/post/452612/
++ https://habr.com/ru/company/selectel/blog/452266/
++ https://habr.com/ru/company/ruvds/blog/452562/
++ https://habr.com/ru/post/452480/
++ https://habr.com/ru/post/133776/
