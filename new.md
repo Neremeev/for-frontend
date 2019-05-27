@@ -37,3 +37,5 @@ React и Next.js
 + https://habr.com/ru/company/ruvds/blog/452562/
 + https://habr.com/ru/post/452480/
 + https://habr.com/ru/post/133776/
++ https://habr.com/ru/post/453458/
++ https://ru.svelte.dev/tutorial/basics
