@@ -1,3 +1,6 @@
++ [крутые лекции](https://www.youtube.com/user/sthxnp/playlists)
+
+
 +[много веб-дизайна и css анимаций](https://tympanus.net/codrops/)
 
 
