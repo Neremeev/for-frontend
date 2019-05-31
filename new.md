@@ -17,6 +17,7 @@
 + http://css.yoksel.ru/css-animation/
 + https://html5book.ru/css3-transition/#transition-delay
 + https://cssfx.dev/
++ https://nisnom.com/podborka-razlichnyh-akkordeonov-dlya-sajta-html-css-i-javascript-jquery/
 
 + [пятиминутка ангуляр](https://soundcloud.com/5minangular)
 + [HTTP-заголовки для ответственного разработчика](https://habr.com/ru/company/mailru/blog/450816/)
