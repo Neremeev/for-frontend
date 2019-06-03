@@ -4,7 +4,7 @@
 
 
 +[много веб-дизайна и css анимаций](https://tympanus.net/codrops/)
-
++ https://nisnom.com/kollektsiya-potryasayushhih-menyu-dlya-sajta-html-css-i-javascript-jquery/
 + https://medium.com/devschacht/glossary-of-modern-javascript-concepts-1198b24e8f56 (про js)
 + http://hi-blog.ru/web/css/css-animacii-30-krutyh-primerov/
 + https://webdesign.tutsplus.com/ru/articles/pure-css-animation-inspiration-on-codepen--cms-30875
