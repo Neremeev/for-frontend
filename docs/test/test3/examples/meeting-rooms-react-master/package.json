@@ -19,7 +19,7 @@
     "graphql-tag": "^2.6.1",
     "graphql-tools": "^1.2.1",
     "history": "^4.7.2",
-    "jquery": "^3.3.1",
+    "jquery": "^3.5.0",
     "moment": "^2.20.1",
     "react": "^16.2.0",
     "react-apollo": "^2.0.4",
